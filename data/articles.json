@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-20",
-  "total_count": 43,
+  "total_count": 44,
   "articles": [
     {
       "id": "503e428e",
@@ -225,6 +225,16 @@
       "source": "핀포인트뉴스",
       "published_date": "2026-04-22",
       "summary": "관악구, 민간 주차장 개방 확대… 주차난 해소 ‘공유 주차’ 활성화&nbsp;&nbsp;핀포인트뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-20"
+    },
+    {
+      "id": "529b3d89",
+      "title": "관악구, 지역 주차난 해소에 역량 집중…“민간 부설주차장 개방” - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xREJ6ZjRFMmc2RGxPVEJfeUd6bjgyNVJ0TFI1VkNFZFdVeFUxN3BwYnRQbE1ONjdjMm1IOHRHa1lIQnlvSlpGRW1FRElMaWZ1?oc=5",
+      "source": "문화일보",
+      "published_date": "2026-04-22",
+      "summary": "관악구, 지역 주차난 해소에 역량 집중…“민간 부설주차장 개방”&nbsp;&nbsp;문화일보",
       "category": "뉴스",
       "collected_date": "2026-05-20"
     },
