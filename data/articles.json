@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-20",
-  "total_count": 38,
+  "total_count": 43,
   "articles": [
     {
       "id": "503e428e",
@@ -321,6 +321,16 @@
       "category": "뉴스"
     },
     {
+      "id": "dbc14852",
+      "title": "골목길 주차 전쟁, 나눠 쓰는 '공유 주차장'으로 숨통 틔워요! - 내 손안에 서울",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13MTI2bzNOX3kzb0JXQl85MkZHUkg3V0Vaa1BWVG5OZW44Z0RQazVsb0VLb2FQOGdScnI0a3JoVE50NHp0UEdBRk84Vi0wY0lUclZGNjFlRVg?oc=5",
+      "source": "내 손안에 서울",
+      "published_date": "2025-10-20",
+      "summary": "골목길 주차 전쟁, 나눠 쓰는 '공유 주차장'으로 숨통 틔워요!&nbsp;&nbsp;내 손안에 서울",
+      "category": "뉴스",
+      "collected_date": "2026-05-20"
+    },
+    {
       "title": "「2025년 건축물 부설주차장 개방 공유 사업」참여 안내",
       "url": "https://www.gwanak.go.kr/common/board/Download.do?bcIdx=184037&cbIdx=366&streFileNm=070fffe0-59c3-4586-aa7c-dbcfb789cac1.pdf",
       "source": "관악구청",
@@ -351,6 +361,46 @@
       "published_date": "2025-01-01",
       "summary": "서울시 주차정보 안내 시스템에서 부설주차장 개방 지원사업의 신청 절차, 지원 내용, 현황 등을 안내한다. 서울 내 개방 중인 부설주차장 위치 및 이용 요금을 확인할 수 있다.",
       "category": "공고·결재문서"
+    },
+    {
+      "id": "04e7388f",
+      "title": "- 서울시 정보소통광장",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qWkYzblJDdlFrcjJXYVVhUGtnVWZUdi1zUEpvNXp1eDVyY21CTGxCTktOVlVjaWgtMk1NY09waGl2U0R6WGJTcFdTa1AxbWphWG11TzdWTGw?oc=5",
+      "source": "서울 정보소통광장",
+      "published_date": "2023-03-16",
+      "summary": "&nbsp;&nbsp;서울시 정보소통광장",
+      "category": "공고·결재문서",
+      "collected_date": "2026-05-20"
+    },
+    {
+      "id": "0c1ea331",
+      "title": "- 서울시 정보소통광장",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04WS1xeTNpRkprTWpCMkpTUVc4ZmZrYlItaGJRaDNIeEtpZk4wUXd6SHhfRHZmTlJfZjVPX1Z1UDFfTTl5bTczNFBNc3h2LVAwVDRN?oc=5",
+      "source": "서울 정보소통광장",
+      "published_date": "2021-12-01",
+      "summary": "&nbsp;&nbsp;서울시 정보소통광장",
+      "category": "공고·결재문서",
+      "collected_date": "2026-05-20"
+    },
+    {
+      "id": "eb7df436",
+      "title": "아이들이랑 캠핑 갈 필요 없어요~ '매봉산 유아숲 체험원' - 서울시 정보소통광장",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82NDU0d2t3Wl81a0ktMGZ3NXBfSU44bGpxMjc1NmV3NXc2eDVFTndxckllQVFSSmVzdE51RmFsczk3aWhoMkxrc0R3MVZpOS1pUjBLTVRFSWI?oc=5",
+      "source": "서울 정보소통광장",
+      "published_date": "2021-04-19",
+      "summary": "아이들이랑 캠핑 갈 필요 없어요~ '매봉산 유아숲 체험원'&nbsp;&nbsp;서울시 정보소통광장",
+      "category": "공고·결재문서",
+      "collected_date": "2026-05-20"
+    },
+    {
+      "id": "c9311361",
+      "title": "서울에 수소 자동차 충전소가 있다고? - 서울시 정보소통광장",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9zYmRZUWNPbldJOFd5aTBWb2tIY202M2hXa2dFMURkWmtiX1ptaS0zV0REei1fYzNrd1hwRzlDYzF0V3ZmUmc0Qkg4Yi1VRHFYQUlxQlZybng?oc=5",
+      "source": "서울 정보소통광장",
+      "published_date": "2015-01-20",
+      "summary": "서울에 수소 자동차 충전소가 있다고?&nbsp;&nbsp;서울시 정보소통광장",
+      "category": "공고·결재문서",
+      "collected_date": "2026-05-20"
     }
   ]
 }
