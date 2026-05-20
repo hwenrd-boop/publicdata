@@ -10,7 +10,9 @@ QUERIES = [
     "공유주차",
     "부설주차장 개방",
     "공유주차장 운영",
-    "부설주차 개방 사업"
+    "부설주차 개방 사업",
+    "site:opengov.seoul.go.kr 공유주차",
+    "site:opengov.seoul.go.kr 부설주차장 개방",
 ]
 
 def fetch_google_news(query):
@@ -84,6 +86,9 @@ for q in QUERIES:
     items = parse_feed(xml)
     for item in items:
         if item["url"] not in existing:
+            if "opengov.seoul.go.kr" in item["url"]:
+                item["category"] = "공고·결재문서"
+                item["source"] = "서울 정보소통광장"
             existing[item["url"]] = item
             new_count += 1
     print(f"  +{len(items)} items")
