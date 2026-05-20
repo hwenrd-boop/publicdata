@@ -13,6 +13,8 @@ QUERIES = [
     "부설주차 개방 사업"
 ]
 
+OPENGOV_QUERIES = ["공유주차", "부설주차장 개방"]
+
 def fetch_google_news(query):
     import urllib.parse
     q = urllib.parse.quote(query)
@@ -62,6 +64,42 @@ def parse_feed(xml_bytes):
         print(f"Parse error: {e}")
     return items
 
+def fetch_opengov_seoul(query):
+    """서울 정보소통광장 결재문서 검색"""
+    import urllib.parse
+    year = datetime.now(KST).year
+    q = urllib.parse.quote(query)
+    url = f"https://opengov.seoul.go.kr/sanction/list?q={q}&year={year}"
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    items = []
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            html = r.read().decode("utf-8", errors="ignore")
+        # 각 문서 링크 추출
+        links = re.findall(r'href="/sanction/(\d+)"', html)
+        # 제목 추출 (링크 바로 뒤 span)
+        titles = re.findall(r'href="/sanction/\d+"><strong[^>]*>[^<]*</strong><span>(.*?)</span>', html)
+        # 날짜 추출
+        dates = re.findall(r'class="date"><strong[^>]*>[^<]*</strong>\s*(\d{4}-\d{2}-\d{2})', html)
+        # 부서 추출
+        depts = re.findall(r'class="dept"><strong[^>]*>[^<]*</strong>\s*(.*?)</span>', html)
+        for i, (doc_id, title) in enumerate(zip(links, titles)):
+            url_doc = f"https://opengov.seoul.go.kr/sanction/{doc_id}"
+            pub_date = dates[i] if i < len(dates) else TODAY
+            dept = depts[i].strip() if i < len(depts) else "서울시"
+            uid = hashlib.md5(url_doc.encode()).hexdigest()[:8]
+            items.append({
+                "id": uid, "title": title.strip(),
+                "url": url_doc, "source": dept,
+                "published_date": pub_date,
+                "summary": f"서울 정보소통광장 결재문서 — 검색어: {query}",
+                "category": "공고·결재문서",
+                "collected_date": TODAY
+            })
+    except Exception as e:
+        print(f"OpenGov error ({query}): {e}")
+    return items
+
 # Load existing
 existing = {}
 if os.path.exists("data/articles.json"):
@@ -81,6 +119,16 @@ for q in QUERIES:
             existing[item["url"]] = item
             new_count += 1
     print(f"  +{len(items)} items")
+
+# Collect from 서울 정보소통광장
+print("Fetching Seoul OpenGov documents...")
+for q in OPENGOV_QUERIES:
+    items = fetch_opengov_seoul(q)
+    for item in items:
+        if item["url"] not in existing:
+            existing[item["url"]] = item
+            new_count += 1
+    print(f"  OpenGov '{q}': +{len(items)} items")
 
 all_articles = sorted(existing.values(), key=lambda x: x["published_date"], reverse=True)
 os.makedirs("data", exist_ok=True)
