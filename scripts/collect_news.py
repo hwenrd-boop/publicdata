@@ -15,6 +15,12 @@ QUERIES = [
 
 OPENGOV_QUERIES = ["공유주차", "부설주차장 개방"]
 
+# Google News에서 opengov.seoul.go.kr 문서 검색용 쿼리
+GOOGLE_OPENGOV_QUERIES = [
+    "site:opengov.seoul.go.kr 공유주차",
+    "site:opengov.seoul.go.kr 부설주차장 개방",
+]
+
 def fetch_google_news(query):
     import urllib.parse
     q = urllib.parse.quote(query)
@@ -65,15 +71,18 @@ def parse_feed(xml_bytes):
     return items
 
 def fetch_opengov_seoul(query):
-    """서울 정보소통광장 결재문서 검색"""
+    """서울 정보소통광장 결재문서 직접 스크래핑"""
     import urllib.parse
-    year = datetime.now(KST).year
     q = urllib.parse.quote(query)
     url = f"https://opengov.seoul.go.kr/sanction/list?searchKeyword={q}"
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept-Language": "ko-KR,ko;q=0.9",
+        "Referer": "https://opengov.seoul.go.kr/sanction/list",
+    })
     items = []
     try:
-        with urllib.request.urlopen(req, timeout=15) as r:
+        with urllib.request.urlopen(req, timeout=45) as r:
             html = r.read().decode("utf-8", errors="ignore")
         # 각 문서 링크 추출
         links = re.findall(r'href="/sanction/(\d+)"', html)
@@ -120,8 +129,21 @@ for q in QUERIES:
             new_count += 1
     print(f"  +{len(items)} items")
 
-# Collect from 서울 정보소통광장
-print("Fetching Seoul OpenGov documents...")
+# Google News에서 opengov.seoul.go.kr 문서 검색
+print("Fetching OpenGov docs via Google News...")
+for q in GOOGLE_OPENGOV_QUERIES:
+    xml = fetch_google_news(q)
+    items = parse_feed(xml)
+    for item in items:
+        if item["url"] not in existing:
+            item["category"] = "공고·결재문서"
+            item["source"] = "서울 정보소통광장"
+            existing[item["url"]] = item
+            new_count += 1
+    print(f"  Google+OpenGov '{q}': +{len(items)} items")
+
+# 서울 정보소통광장 직접 스크래핑 (해외 IP에서 가능한 경우)
+print("Fetching Seoul OpenGov documents (direct)...")
 for q in OPENGOV_QUERIES:
     items = fetch_opengov_seoul(q)
     for item in items:
