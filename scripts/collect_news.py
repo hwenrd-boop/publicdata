@@ -13,12 +13,6 @@ QUERIES = [
     "부설주차 개방 사업"
 ]
 
-# Google News에서 opengov.seoul.go.kr 문서 검색용 쿼리
-GOOGLE_OPENGOV_QUERIES = [
-    "site:opengov.seoul.go.kr 공유주차",
-    "site:opengov.seoul.go.kr 부설주차장 개방",
-]
-
 def fetch_google_news(query):
     import urllib.parse
     q = urllib.parse.quote(query)
@@ -76,6 +70,12 @@ if os.path.exists("data/articles.json"):
         for a in data.get("articles", []):
             existing[a["url"]] = a
 
+# Load sanction docs collected by CCR agent
+if os.path.exists("data/sanction_docs.json"):
+    with open("data/sanction_docs.json", encoding="utf-8") as f:
+        for a in json.load(f).get("articles", []):
+            existing[a["url"]] = a
+
 # Collect new
 new_count = 0
 for q in QUERIES:
@@ -88,18 +88,6 @@ for q in QUERIES:
             new_count += 1
     print(f"  +{len(items)} items")
 
-# Google News에서 opengov.seoul.go.kr 문서 검색
-print("Fetching OpenGov docs via Google News...")
-for q in GOOGLE_OPENGOV_QUERIES:
-    xml = fetch_google_news(q)
-    items = parse_feed(xml)
-    for item in items:
-        if item["url"] not in existing:
-            item["category"] = "공고·결재문서"
-            item["source"] = "서울 정보소통광장"
-            existing[item["url"]] = item
-            new_count += 1
-    print(f"  Google+OpenGov '{q}': +{len(items)} items")
 
 
 all_articles = sorted(existing.values(), key=lambda x: x["published_date"], reverse=True)
