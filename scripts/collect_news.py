@@ -69,7 +69,7 @@ def fetch_opengov_seoul(query):
     import urllib.parse
     year = datetime.now(KST).year
     q = urllib.parse.quote(query)
-    url = f"https://opengov.seoul.go.kr/sanction/list?q={q}&year={year}"
+    url = f"https://opengov.seoul.go.kr/sanction/list?searchKeyword={q}"
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
     items = []
     try:
