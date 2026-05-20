@@ -84,9 +84,10 @@ for q in QUERIES:
     print(f"Fetching: {q}")
     xml = fetch_google_news(q)
     items = parse_feed(xml)
+    is_opengov_query = "site:opengov.seoul.go.kr" in q
     for item in items:
         if item["url"] not in existing:
-            if "opengov.seoul.go.kr" in item["url"]:
+            if is_opengov_query or "opengov.seoul.go.kr" in item["url"]:
                 item["category"] = "공고·결재문서"
                 item["source"] = "서울 정보소통광장"
             existing[item["url"]] = item
