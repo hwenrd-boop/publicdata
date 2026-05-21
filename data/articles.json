@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-05-20",
-  "total_count": 44,
+  "last_updated": "2026-05-21",
+  "total_count": 64,
   "articles": [
+    {
+      "id": "9ba043fc",
+      "title": "전주 서부 신시가지 주차난 한숨 던다 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DQ3dlSFFnRVhCTFR0X1o3WjRkMDlUa2xwek4yUU1oREktaC1iVV9SOEk2dVlGNnhsQWFPRGJCWDdKd0hPUFBpWXdKSVJJX1FZUVJSazU1WnE4d9IBWEFVX3lxTE83cGRRdEtKcWQ1Q0Z1Vm5iTTdrcGJzWWJtMDJreFFBbFZmajladjd2elYtVS1xcXpNMzJtWE54OXVyYTdpdkxkZ1NLZDNUakFCMVl5YkdLRzg?oc=5",
+      "source": "아주경제",
+      "published_date": "2026-05-21",
+      "summary": "전주 서부 신시가지 주차난 한숨 던다&nbsp;&nbsp;아주경제",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "6a574680",
+      "title": "서부 신시가지 대규모 공한지주차장 연중 무료 개방 - 전북투데이",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFWWcxSlQ5Rkk5VGtzenZtZnNHU0JybWlvN012N3VJTjRBX2Z4QmdWa0MzVlkzU28zaWlBWW05eGZVUmNybHY0bFRiMUlpdmk1cHQ4ODN2a0gzMUlLSGhfQlg2VkQ?oc=5",
+      "source": "전북투데이",
+      "published_date": "2026-05-21",
+      "summary": "서부 신시가지 대규모 공한지주차장 연중 무료 개방&nbsp;&nbsp;전북투데이",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "eeb11012",
+      "title": "경기도, 대규모 공영주차장 지어 주차난 해소...불법 주정차 8.3% 감소 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBDbFRYR1p2ckM2Q2VwYzg0T2MwLU1oRTJzcTZHcThhSUZGaXRFWFBUdEtlR05PTmNrQTNsQ3lSTXZvaldvSjBZVHdwY0VUa3REVnVWM1ZWQnJpcU9XSXFDVVlCaTh6RS1MUXlWa2lR?oc=5",
+      "source": "아시아투데이",
+      "published_date": "2026-05-20",
+      "summary": "경기도, 대규모 공영주차장 지어 주차난 해소...불법 주정차 8.3% 감소&nbsp;&nbsp;아시아투데이",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "4cabbe0d",
+      "title": "스쿨존 제한속도 탄력 운영, 구도심 주차난 해소… 박찬대 후보 운전자 공약 - 경인일보",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aeVN5R0F6WkJKUTBJeVB1Mmw0TUlLdzk3dEZUcFlraFhIbkV2Q0lCRE5jN29mc0RSMmpaQmVNV3N5Q0YwQUlCUEJDNWRrc1JlckE?oc=5",
+      "source": "경인일보",
+      "published_date": "2026-05-20",
+      "summary": "스쿨존 제한속도 탄력 운영, 구도심 주차난 해소… 박찬대 후보 운전자 공약&nbsp;&nbsp;경인일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "3777ece4",
+      "title": "[6·3 지선] 박찬대 \"스쿨존 탄력 운영·주차난 해소 인프라 확충\" - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZZnZySmZmNGotTTRaXy1oTFFRTGhjbE5uTFh0cktnY1c1REdGT3VJdzhPLWtGNW12U0VsZGF3MnhaOWFtaGRzVGhxWTM0eWxsVzdEVC1keUNRWEdiU05VZUpvN0ZXd3JiSHlJ?oc=5",
+      "source": "한스경제",
+      "published_date": "2026-05-20",
+      "summary": "[6·3 지선] 박찬대 \"스쿨존 탄력 운영·주차난 해소 인프라 확충\"&nbsp;&nbsp;한스경제",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
     {
       "id": "503e428e",
       "title": "\"민·관 상생으로 주차난 뚫는다\" 성남시, 도촌대덕프라자 부설주차장 무료 개방 - 컨슈머타임스",
@@ -11,6 +61,26 @@
       "summary": "\"민·관 상생으로 주차난 뚫는다\" 성남시, 도촌대덕프라자 부설주차장 무료 개방&nbsp;&nbsp;컨슈머타임스",
       "category": "뉴스",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "a0d42ee7",
+      "title": "\"캠핑카 빼주세요\" 충주 다이브 페스티벌 주차난 우려 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBZY09yNDhxSEIzVXFUaDNXcE1kNXJZU1htNE9senh6OG9EUmtzZWFJUjE0dnA3dzJiSnhWYjVxSGRQZW1heUE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-05-19",
+      "summary": "\"캠핑카 빼주세요\" 충주 다이브 페스티벌 주차난 우려&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "62714140",
+      "title": "울산 첫 ‘오토발렛 주차장’…태화시장 주차난 해소되나 - 울산매일",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzNEdVUHg4NjEyZkxoUjlmV05RLXlNakVwYV9kMER4ZTlwdFk5eWxhLWxNTVkyNnZQNUt6VzZyc0lmWW1saUNSVzVIeHBYQnV5cldKMWJGZFhnX1RsenBxVUZQZ2M5UmpfeExXSU130gFuQVVfeXFMUHM0R1VQeDg2MTJmTGhSOWZXTlEteU1qRXBhX2QwRHhlOXB0WTl5bGEtbE1NWTI2dlA1S3pXNnJzSWZZbWxpQ1JXNUh4cFhCdXlyV0oxYkZkWGdfVGx6cHFVRlBnYzlSal94TFdJTXc?oc=5",
+      "source": "울산매일",
+      "published_date": "2026-05-19",
+      "summary": "울산 첫 ‘오토발렛 주차장’…태화시장 주차난 해소되나&nbsp;&nbsp;울산매일",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
     },
     {
       "id": "cc63a59f",
@@ -73,6 +143,36 @@
       "collected_date": "2026-05-20"
     },
     {
+      "id": "ffe21339",
+      "title": "[성남소식]도촌동 공유주차장 야간 무료 개방 등 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKU0RBSHF2dUlEbGVONWVOYWhORlpKaDNEdURBb3IwbGZrQ1VSN3ByRWpQWFVNY004UU5OMFJZTWY3QXAtSXhobmNmY0NfZHJ5TDk4RVZnMlhKeFpnSFVtc9IBeEFVX3lxTE9LRTY5SzhZWDJST2djaWN4Rml5N2VXblEtc2I1NFp2dGJHbHRuQmluRE5wbzRtOWI0ay1GQmVrb1FtOFN1cV9nSVB2R1BiaU9JdTlDd01xUk1tWkVkYWtiVHRzczl4VGlRZ2dIZ0daaV80Y3hnVEVHcA?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-05-18",
+      "summary": "[성남소식]도촌동 공유주차장 야간 무료 개방 등&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "885e4113",
+      "title": "성남시, 도촌대덕프라자2차와 맞손…부설주차장 10면 시민 무료 개방 - NSP통신",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4za240dE9LRHZiQThVLXc5OTVCNVBLOHlvS1VkSjVTM25zUkE0VkNsNGU4cTQ4QzhSZXc0OUR6N3RLUnNaUTNvMTh1NnRrOHZOU2wxeVJUcXBobndQR0tHaA?oc=5",
+      "source": "NSP통신",
+      "published_date": "2026-05-18",
+      "summary": "성남시, 도촌대덕프라자2차와 맞손…부설주차장 10면 시민 무료 개방&nbsp;&nbsp;NSP통신",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "473f227a",
+      "title": "인천공항의 뻔뻔한 ‘남 탓’···통행료 싸고 버스요금 비싸서 주차난? - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQk8yQ2JONXdvejFuRHIzb0d1UnFXWmRLRW5JZ1I5cHpXLXdOY2pUdnBNeF9oYXJ0TEl4b1BnVF9QTWxlcXdGSnJwVVhIeXFudlh1VzE1aG5Md9IBX0FVX3lxTE5wUnNicHd0NUJTS3hpbEM1YnpUSm1sNXgxR0IzM0dPT3A4Z0tTLWpwTFlZUzg1V1hkdlFKcm1GM0JFbGVfdUdOdnRNR3A2Z3lfdVZFdUJNRmxfNXNxYjJN?oc=5",
+      "source": "경향신문",
+      "published_date": "2026-05-17",
+      "summary": "인천공항의 뻔뻔한 ‘남 탓’···통행료 싸고 버스요금 비싸서 주차난?&nbsp;&nbsp;경향신문",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "id": "d5452f11",
       "title": "성남시 분당 서당초등학교 주차장 지역주민에 무료 개방 > 뉴스 - 더코리아",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RREQxVHU4MTdYQS1reWFMd0tqVy0zeTN0Tmhiak5rZ2tMNkxYLXBrNmJLVkpLRmFlNDNyY09ySS1KRmRVWUx3bVlRX1lyOHJuaGhiNEJoM3NidjBodW1NR2JtenJ1eDRoSVAtZ3h1Z3Q?oc=5",
@@ -93,6 +193,16 @@
       "collected_date": "2026-05-20"
     },
     {
+      "id": "fb5eeff9",
+      "title": "인천공항 ‘주차난’ 심각하다더니…“직원들에게 주차권 남발” - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNblBMbjNPXzhjYzVLYzJEVEx2V0VCUzRrRTVwQm0zZXdtRGtkNE9CT1NqamJGTzJ5eHRfekkyRTExWnhXU0J0QVF6bE1WYjI4ZE9MX3l3dVRaUHV4ZC0zN0M5dU9VOVBVX2VTTC00MHhrcTNPWUdaSy02QzlXNC1zSUN0dFI2aUJjTXpLMXFXNzBWX2JLa1k5bXVkMEQwZ012T0lJN0d2TVJpb0N5QTg2bkZUTTZsOHVzNEd5a2RnUWxyb0tvSEpMWUZZVmJSVnJGYmRDbDRfRm91YUNkaFJxZVFaMDRXb3VMenZsdFhhTGw3UUFBVVBrbTVEXzZSNE1fX2p3eExKSkltS1lsR0JNN2Jfa0UzRXdfQmZ2cjcyaUhoNUtoU1ZoUEl6TDVhNVhIYURGOWtXNDTSAbsCQVVfeXFMTWFzREc2bXVoZUQxaWZfdm5mRTRscGczZDlCR2ktV1VvUFpZeGFQQ2JYLUVWNkpvZ0FzamlBWlNaTEo5SkhNRkp2T0t2bVY3akd3OEswS0xXNUJoMXlyZlJJMVdzNDNWdmJBbzZfTWFiX2xMamhQWHBxVzQ4bnZTR1hFSTFiV3lyemp5U3k3S1FZX3pDUmR5QTFPMFNPcEVCT0I0N1QzMjJ4aHdWSFRjNWtya0xCSktyeml6NlhZa1lXOUhGOW5LSXRVeUZSNGV0YkZqdXh3RXFGdVhIaXpFdzd5S2FiT05fOFFtMkVhbWZjeElXckdwVnlDc3owQVdreDRjQXdqdzR3RGNORmd0bVpCYzFZXy1rdzk5SU9hWDYxZ0xQYV9jRXBFcDJIRU5ZVE54Y1dLcU1rRVNF?oc=5",
+      "source": "데일리안",
+      "published_date": "2026-05-14",
+      "summary": "인천공항 ‘주차난’ 심각하다더니…“직원들에게 주차권 남발”&nbsp;&nbsp;데일리안",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "id": "ffe462e9",
       "title": "김기환 \"공유주차 등으로 이도2동 교통 문제 적극 개선\" - 미디어제주",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtRG1NZ1ctdmJUVXdjTnlMOU9NLXl1Si1fTE1nazhUcHU2NEMwbGdfVFAzZUlVcXpXc3dpR0hLWFgxbmtlaDlhWERXd3h3bmw4NTYycXpwMVBLNWY3dENkQU91TzRsbGsxRTVrbdIBcEFVX3lxTE9nOXZjaDUwRWhlemlEaDdDT2hwUXN6WGpBTV9xRzZoT1NDZXZqYVBVLU5CZEJvUGN0U1RsNlBzUFdGMTlzWTMySGFkWGRybzZocjdHX3hGc1NhV0pOaDZHTkkySWs4S2RFWU1zcWFfdWU?oc=5",
@@ -111,6 +221,16 @@
       "summary": "성남 분당 서당초 주차장 40면, 주민에게 무료 개방&nbsp;&nbsp;데일리엔뉴스",
       "category": "뉴스",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "12951996",
+      "title": "성남시, 분당 서당초등학교 주차장 지역주민에 무료 개방 - 시사일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMYTF4dUNmX0NnQ0NoZzZmOC1HVnZ5eTJiNUt2MDEtWGlnS1VENDk3Ri0xdkNlQVd1b3duOWltZFpCQkNOR2IzVUVEbUY?oc=5",
+      "source": "시사일보",
+      "published_date": "2026-05-13",
+      "summary": "성남시, 분당 서당초등학교 주차장 지역주민에 무료 개방&nbsp;&nbsp;시사일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
     },
     {
       "id": "9337ee79",
@@ -219,6 +339,16 @@
       "category": "뉴스"
     },
     {
+      "id": "bc6de0c9",
+      "title": "인천 주차정책 “양보다 질”…개방·공유로 전환 제언 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81TXhHdzdhVzNkNFVhU1Z3NTI1VkYwM3lhRGFkc1h1QTU2bDFjcWNKZmZmZ0pySkE4a0ppVnRvTGk0aHprd3BkcGdkang5TkE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-04-28",
+      "summary": "인천 주차정책 “양보다 질”…개방·공유로 전환 제언&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "id": "5daf0a97",
       "title": "관악구, 민간 주차장 개방 확대… 주차난 해소 ‘공유 주차’ 활성화 - 핀포인트뉴스",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5rS0pQcUN4VTU3eWNib0VLejl0NzF1X2R0UEZPTEQyLUlMOWQ5UE85MEgxbnNLcU5IamVDT1hlZTc5Q2ZwcGhoaWRrX294cGxmaXYtZlJPNWxsZ3JFNXNyZzdyS1ZmVXBfeGV0SnNOZHM4Z3PSAXdBVV95cUxNcFZPYjlLYTllR0JSS1J1ZlhYcDlIQ2RUclVwSkd3Vk1KNXplOEtEZWxobEN1Smg5M0JPMTZpRWZIUFZwVVVCVlJLZEpCZkIxcEFFb2wtb0loR3RQdGd4MTVHOUY4TDZnTlZ5UDI3aV9HSXFkY1ZWWQ?oc=5",
@@ -289,6 +419,16 @@
       "category": "뉴스"
     },
     {
+      "id": "8bb8fe77",
+      "title": "당진문예의전당 주차난 심각…대책 마련해야 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QRjdPOXUyLVY1SmJjUEpUb0xpLXhSWXB3LXJERk5KcTJqdVdYaUxiV0RMTTZnTWNaTlNQbUZpSnVILWVBN1hWaXNoX3VsWHB0UGE3V2FubW0tV1B3UHhNWdIBeEFVX3lxTFBnbVFkSk5EUzY4cUp6aDVKbkxhZndQckpCZmhEQ3VRa01LSk5DWnJ4Skw1LUIyYlRvVUotcVVMRlJxZHhTdE9pejZlSE1nYUtPTHZXY20xVm5kTG42cHNBeXZROXpDc1NMVWZsV1ZoaWVmYmtjUzlrQQ?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-02-03",
+      "summary": "당진문예의전당 주차난 심각…대책 마련해야&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "id": "17ddca37",
       "title": "여유 주차장 개방 시 최대 3천만원 지원… 시설 개선 등 혜택 - 분야별정보",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lc21TRGMxRGJueHJxdERwV24zdFg0cmNEOTVkb1pzaXFaa1QzWlpOYVVNSzk5ejcwUlJvaER2U3BSMU83dm8tTTFiclYxYTZpRjU3MU1XOWVjT0Rq?oc=5",
@@ -315,12 +455,32 @@
       "category": "공고·결재문서"
     },
     {
+      "id": "f1705f43",
+      "title": "울산, 대규모 공사로 온산 덕신리 주차난 ‘심각’ - 울산제일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2c3FoYThxMVhFZEVRNjFVcFp3WGFxb2ZaeGJPczZSeHFNYnVkQjMzRVdZRktlMk13SUY5SWN1NXhHam9FeTlrUEpOdHFLNm1aRk5FTVY2UGotMWc5OEtTYUI2ang5QQ?oc=5",
+      "source": "울산제일일보",
+      "published_date": "2025-12-17",
+      "summary": "울산, 대규모 공사로 온산 덕신리 주차난 ‘심각’&nbsp;&nbsp;울산제일일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "title": "중구, 서울역사 부설주차장 30면 주민 개방",
       "url": "https://www.junggu.seoul.kr/news/content.do?cmsid=16207&mode=view&cid=1172486464",
       "source": "중구청",
       "published_date": "2025-12-01",
       "summary": "서울 중구가 서울역사 내 부설주차장 30면을 야간 및 주말 시간대에 인근 주민에게 개방하는 협약을 체결했다. 주민들은 저렴한 요금으로 주차 공간을 이용할 수 있게 됐다.",
       "category": "뉴스"
+    },
+    {
+      "id": "b023ab83",
+      "title": "포항영덕고속도로 휴게소, 개통 초기부터 심각한 주차난 - 대경일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHU3lTclI1VFFieC1WUlBUSWd0OXd4UWdzR1VlRDgzVm9qVTFEVk96eEdNNFhRYWxCTHhqc25peHJXaE5ocTFtcDZ5WnhZdWFaZEM5VTlBZGowNnlIMnBKSHE4RlhGRklF?oc=5",
+      "source": "대경일보",
+      "published_date": "2025-11-26",
+      "summary": "포항영덕고속도로 휴게소, 개통 초기부터 심각한 주차난&nbsp;&nbsp;대경일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
     },
     {
       "title": "'부설주차장 개방 활성화법' 개정 촉구 건의안 본회의 통과",
@@ -331,6 +491,16 @@
       "category": "뉴스"
     },
     {
+      "id": "724acd06",
+      "title": "이연희 “하루 3만명 이용 오송역 노후화·주차난 심각” - 중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Kb3JIdmhXbDlJWGFWLU9fbjZVQU9lMWQ0R3RtYUdfeFBjTjJGelhGNVdPeEE2VURaQjRNTzFJamlVVy1WWDZfRU5lWGFoZnlEWnA5ZTVHVDJ1ZGF2c3M3bTl2ZVBMbjFsa1HSAW5BVV95cUxPN2VYUzlNWmRmSXhyU1U2SVpYZzZlTTJCMmQyNEktNDdHV1U3SkNqTUZKNkk3dVJrYUVoa2pmOHVXbGxpbVNXbGlOTW05QWN2R0pVeEJXdHpRNmNiNzFLRmYyRG1EeXk2cGtVRHgwUQ?oc=5",
+      "source": "중부매일",
+      "published_date": "2025-10-21",
+      "summary": "이연희 “하루 3만명 이용 오송역 노후화·주차난 심각”&nbsp;&nbsp;중부매일",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "id": "dbc14852",
       "title": "골목길 주차 전쟁, 나눠 쓰는 '공유 주차장'으로 숨통 틔워요! - 내 손안에 서울",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13MTI2bzNOX3kzb0JXQl85MkZHUkg3V0Vaa1BWVG5OZW44Z0RQazVsb0VLb2FQOGdScnI0a3JoVE50NHp0UEdBRk84Vi0wY0lUclZGNjFlRVg?oc=5",
@@ -339,6 +509,36 @@
       "summary": "골목길 주차 전쟁, 나눠 쓰는 '공유 주차장'으로 숨통 틔워요!&nbsp;&nbsp;내 손안에 서울",
       "category": "뉴스",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "d33ddc26",
+      "title": "경기 광주시청사 이틀 연속 '주차전쟁'…만성 주차난 심각 [현장, 그곳&] - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OX0R1ZWJrX1pwUHNaTlRPelFGNUZxZlF4YmU0dFowZzh5WGZXNjRnNG5JTUVJTTlXbmxpZThtMzhWT3NOYld6YVJWNHQ2VDBSRzg1Zk9Kam55cmM?oc=5",
+      "source": "경기일보",
+      "published_date": "2025-10-14",
+      "summary": "경기 광주시청사 이틀 연속 '주차전쟁'…만성 주차난 심각 [현장, 그곳&]&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "69cc3ab9",
+      "title": "주차난, 소음·흡연보다 심각…넉넉한 주차공간 아파트 관심 집중 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sR0dmWm92Z2xnMUk4LU96T0wzeUFqNnJCVGFkVVVIR0VpWWtSNm8wUnE0Q1I0MHZyeW0xZGhzSHYtc3prSjlFQl9jRC1KX1dCWVZB?oc=5",
+      "source": "네이트",
+      "published_date": "2025-08-26",
+      "summary": "주차난, 소음·흡연보다 심각…넉넉한 주차공간 아파트 관심 집중&nbsp;&nbsp;네이트",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "8683859a",
+      "title": "\"전기차 충전구역 확대\"vs\"주차난 심각\"… 부평지역 아파트 입주민 대립 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zb09EREJhRTF1ajlISWdXalM5ZXZjOXFFUm1ZWi1yQWw3dzR2amg5VjBOTXRBbkFFUk1KaTMzMVAxalJxNlE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2025-06-25",
+      "summary": "\"전기차 충전구역 확대\"vs\"주차난 심각\"… 부평지역 아파트 입주민 대립&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
     },
     {
       "title": "「2025년 건축물 부설주차장 개방 공유 사업」참여 안내",
