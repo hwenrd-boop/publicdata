@@ -1,6 +1,6 @@
 {
   "last_updated": "2026-05-21",
-  "total_count": 67,
+  "total_count": 72,
   "articles": [
     {
       "id": "9ba043fc",
@@ -29,6 +29,36 @@
       "source": "호남제일신문",
       "published_date": "2026-05-21",
       "summary": "서부신시가지 대규모 공한지주차장 연중 무료 개방&nbsp;&nbsp;호남제일신문",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "7848850c",
+      "title": "전주 서부신시가지 일대 주차난 ‘숨통’ - 전북금강일보",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9GclJRTGZyNTJQcGdnOXVpempGSVlpR1g2VS1tWWUwdkxNM3pkeHYwYnU2Yi1sRGdhdElZQXVtamg?oc=5",
+      "source": "전북금강일보",
+      "published_date": "2026-05-21",
+      "summary": "전주 서부신시가지 일대 주차난 ‘숨통’&nbsp;&nbsp;전북금강일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "c7f2b139",
+      "title": "오산시, 장미빛축제 맞춰 공영주차장 운영…주차난 해소 기대 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9sQUFCeDBHYmxRUm9lbWNCQThEUVJBd1l3RHRjM0R1VmhCTklOM3FfdWszX3YzRUoxUVY3bkJtNHh3d3ZjUld2ZDQwTTdhVUloUl9qakFIb2JvNlQ2ekNJY2toUGdpdG9WaFhR0gFvQVVfeXFMTW5sYjJZZDk0eTNMbjR2MjBOYjlwVExqaUpQN3lRelBMM2g3SGdtQ3Fka3h1aWQzd1oyMjdhU0VBVmxnUTFSSnA2clJzY2VDQXM3VmxyYk9wVEY3RkZsYklPc2ROT0JyZ1MzTGRraHdn?oc=5",
+      "source": "한스경제",
+      "published_date": "2026-05-21",
+      "summary": "오산시, 장미빛축제 맞춰 공영주차장 운영…주차난 해소 기대&nbsp;&nbsp;한스경제",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
+      "id": "1da79764",
+      "title": "서부 신시가지 대규모 공한지주차장 연중 무료 개방 - 전북엔비전",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yOWNjNUktQ1ZfTk15NWlLRUZtUEhvME1iLVZJQWNYeEphMDFoZGthc1NfRVFRWVB1QTNBY2MwTmJmMkdxbkhBQXU4bHRvb3VoMVFONUdUZURldUxWMU9qWThkdnU4Zw?oc=5",
+      "source": "전북엔비전",
+      "published_date": "2026-05-21",
+      "summary": "서부 신시가지 대규모 공한지주차장 연중 무료 개방&nbsp;&nbsp;전북엔비전",
       "category": "뉴스",
       "collected_date": "2026-05-21"
     },
@@ -407,6 +437,16 @@
       "category": "뉴스"
     },
     {
+      "id": "ced5804d",
+      "title": "제천시 주차난 해법, ‘공유 주차 3.0’으로 공간 나눈다. - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DVVQ2bkVmLVJWaHJXOHRFWVV5YnlpU1NzejhITlhNa256YmprRERiRWdOT1dxSnZVdzVXV2t0bGxoZUE5NDhZWEd4TWR0djA?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-04-09",
+      "summary": "제천시 주차난 해법, ‘공유 주차 3.0’으로 공간 나눈다.&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
+    },
+    {
       "title": "차량 5부제 총정리｜요일 확인·제외 차량·공영주차장 5부제·위반 제재까지",
       "url": "https://www.innno.co.kr/2026/04/vehicle-5day-restriction-2026-guide.html",
       "source": "innno.co.kr",
@@ -423,6 +463,16 @@
       "summary": "강서구시설관리공단, 거주자우선주차장 공유주차 시간 확대&nbsp;&nbsp;서울일보",
       "category": "뉴스",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "e87d3a3b",
+      "title": "문대림, “차고지 증명제 폐지, 공공관리형 공유주차 도입” - 제주의소리",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB3UVN6VWtMaExyQ1kyX1JzSG9Ea1R0bkYySlZEd3lVdExsNUd4TFhRWTdLVVdMeHlMMk5aOG93VVhPcm1abmtJSXh5Y19xWThJZHNsVnRMZ2wzRVMxdEFtcExKd1J0VGJPb1VF?oc=5",
+      "source": "제주의소리",
+      "published_date": "2026-03-22",
+      "summary": "문대림, “차고지 증명제 폐지, 공공관리형 공유주차 도입”&nbsp;&nbsp;제주의소리",
+      "category": "뉴스",
+      "collected_date": "2026-05-21"
     },
     {
       "title": "영등포구, 부설주차장 개방 126면 발굴…참여 건물주 최대 3000만 원 지원",
