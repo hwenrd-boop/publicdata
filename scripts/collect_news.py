@@ -11,6 +11,8 @@ QUERIES = [
     "부설주차장 개방",
     "공유주차장 운영",
     "부설주차 개방 사업",
+    "주차난",
+    "주차난 심각",
     "site:opengov.seoul.go.kr 공유주차",
     "site:opengov.seoul.go.kr 부설주차장 개방",
 ]
