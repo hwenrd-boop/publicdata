@@ -119,20 +119,28 @@ header{{background:#1a73e8;color:#fff;padding:24px 20px}}
 header h1{{font-size:1.4rem;font-weight:700}}
 header p{{font-size:.85rem;opacity:.85;margin-top:4px}}
 .stats{{background:#fff;padding:12px 20px;border-bottom:1px solid #e0e0e0;font-size:.85rem;color:#555}}
-.filters{{padding:16px 20px;display:flex;gap:8px;flex-wrap:wrap}}
-.filter-btn{{padding:6px 16px;border:1.5px solid #1a73e8;border-radius:20px;background:#fff;color:#1a73e8;cursor:pointer;font-size:.85rem;transition:.2s}}
-.filter-btn.active{{background:#1a73e8;color:#fff}}
+.filters{{padding:16px 20px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}}
+.filter-btn{{padding:6px 16px;border:1.5px solid #ccc;border-radius:20px;background:#fff;color:#666;cursor:pointer;font-size:.85rem;font-weight:600;transition:.2s}}
+.filter-btn.all.active{{background:#1a73e8;border-color:#1a73e8;color:#fff}}
+.filter-btn.news{{border-color:#1a73e8;color:#1a73e8}}
+.filter-btn.news.active{{background:#1a73e8;border-color:#1a73e8;color:#fff}}
+.filter-btn.doc{{border-color:#e8710a;color:#e8710a}}
+.filter-btn.doc.active{{background:#e8710a;border-color:#e8710a;color:#fff}}
 .grid{{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;padding:0 20px 20px}}
-.card{{background:#fff;border-radius:12px;padding:18px;box-shadow:0 2px 8px rgba(0,0,0,.08);transition:.2s}}
-.card:hover{{box-shadow:0 4px 16px rgba(0,0,0,.13)}}
+.card{{background:#fff;border-radius:12px;padding:0;box-shadow:0 2px 8px rgba(0,0,0,.08);transition:.2s;overflow:hidden;border-top:4px solid #1a73e8}}
+.card.doc{{border-top-color:#e8710a}}
+.card:hover{{box-shadow:0 4px 16px rgba(0,0,0,.15);transform:translateY(-2px)}}
+.card-body{{padding:16px 18px 18px}}
 .card-top{{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}}
-.badge{{font-size:.75rem;padding:3px 8px;border-radius:10px;background:#e8f0fe;color:#1a73e8;font-weight:600}}
-.date{{font-size:.78rem;color:#888}}
-.card h3{{font-size:.95rem;font-weight:600;line-height:1.5;margin-bottom:8px}}
+.badge{{font-size:.72rem;padding:3px 9px;border-radius:10px;background:#e8f0fe;color:#1a73e8;font-weight:700}}
+.badge.doc{{background:#fff3e8;color:#e8710a}}
+.date{{font-size:.78rem;color:#aaa}}
+.card h3{{font-size:.93rem;font-weight:600;line-height:1.55;margin-bottom:8px}}
 .card h3 a{{color:#1a2a3a;text-decoration:none}}
 .card h3 a:hover{{color:#1a73e8}}
-.card p{{font-size:.83rem;color:#666;line-height:1.55}}
-footer{{text-align:center;padding:24px;font-size:.83rem;color:#999}}
+.card.doc h3 a:hover{{color:#e8710a}}
+.card p{{font-size:.82rem;color:#777;line-height:1.6}}
+footer{{text-align:center;padding:24px;font-size:.83rem;color:#bbb}}
 </style>
 </head>
 <body>
@@ -142,9 +150,9 @@ footer{{text-align:center;padding:24px;font-size:.83rem;color:#999}}
 </header>
 <div class="stats">오늘 {new_count}건 신규 수집</div>
 <div class="filters">
-  <button class="filter-btn active" onclick="filter(this,'')">전체</button>
-  <button class="filter-btn" onclick="filter(this,'뉴스')">뉴스</button>
-  <button class="filter-btn" onclick="filter(this,'공고·결재문서')">공고·결재문서</button>
+  <button class="filter-btn all active" onclick="filter(this,'')">전체</button>
+  <button class="filter-btn news" onclick="filter(this,'뉴스')">뉴스</button>
+  <button class="filter-btn doc" onclick="filter(this,'공고·결재문서')">공고·결재문서</button>
 </div>
 <div class="grid" id="grid"></div>
 <footer>매일 오전 9시 자동 수집됩니다 (GitHub Actions)</footer>
@@ -153,11 +161,19 @@ const DATA={articles_json};
 function render(cat){{
   const g=document.getElementById('grid');
   const items=cat?DATA.filter(a=>a.category===cat):DATA;
-  g.innerHTML=items.map(a=>`<div class="card">
-    <div class="card-top"><span class="badge">${{a.source}}</span><span class="date">${{a.published_date}}</span></div>
-    <h3><a href="${{a.url}}" target="_blank" rel="noopener">${{a.title}}</a></h3>
-    ${{a.summary?`<p>${{a.summary}}</p>`:''}}
-  </div>`).join('');
+  g.innerHTML=items.map(a=>{{
+    const isDoc=a.category==='공고·결재문서';
+    return `<div class="card${{isDoc?' doc':''}}">
+      <div class="card-body">
+        <div class="card-top">
+          <span class="badge${{isDoc?' doc':''}}">${{a.source}}</span>
+          <span class="date">${{a.published_date}}</span>
+        </div>
+        <h3><a href="${{a.url}}" target="_blank" rel="noopener">${{a.title}}</a></h3>
+        ${{a.summary?`<p>${{a.summary}}</p>`:''}}
+      </div>
+    </div>`;
+  }}).join('');
 }}
 function filter(btn,cat){{
   document.querySelectorAll('.filter-btn').forEach(b=>b.classList.remove('active'));
