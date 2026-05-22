@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-05-21",
-  "total_count": 72,
+  "last_updated": "2026-05-22",
+  "total_count": 79,
   "articles": [
+    {
+      "id": "232d2515",
+      "title": "수원시 '공유 자전거·킥보드(PM) 지정주차구역' 확대 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBSVENlcHoyckRhMHZqU2tNdDBxTHJUWmpBTm9yZHVMMXlDeUNrM2Y5M1Y3NXo4dmZJMnU1Q2hxUkNaOUtfOUVobzZBZmNjNFYyYjFYMWhSS0xjeWJD?oc=5",
+      "source": "뉴스핌",
+      "published_date": "2026-05-22",
+      "summary": "수원시 '공유 자전거·킥보드(PM) 지정주차구역' 확대&nbsp;&nbsp;뉴스핌",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
+    },
+    {
+      "id": "9222d945",
+      "title": "수원특례시, 공유 자전거 및 킥보드 지정주차구역 확대 운영 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5TU3Y0dC1xZ2pSZGdIN2ttWnlWN295eXFqSzhkU1YxM2VuOWdqWVZQZVJnLU1wNzNOaFA2Q0wycXVLN0k?oc=5",
+      "source": "더코리아",
+      "published_date": "2026-05-22",
+      "summary": "수원특례시, 공유 자전거 및 킥보드 지정주차구역 확대 운영 > 뉴스&nbsp;&nbsp;더코리아",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
+    },
+    {
+      "id": "a076f2c0",
+      "title": "수원특례시, 공유 자전거·킥보드(PM) 지정주차구역 확대한다 - 뉴스 따옴",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zeWxkTU43MGZNMlVYbHY2em1vMlNOVHJUeHRUVHRFbUNTNEh4YTNGVGZCaUpkTGk2Q3ZyUWxKZmtfNW5JU00tbUpwU1NnSm5HeEstVDh0MklDT1JOajhEOFJDTVZENnFHdlRIOWxYQdIBckFVX3lxTFBnQW1UczMyYzc3Tkk0eHBQUVM5VUpGQm93VDZtRFFYamJ5UkNINTZ3Yy1iSjVhaUlVV1U0NDhZekRLYkxuRzNFNHQyd19qV19RZ21FYnRzdmZQaTBTVDNzLUhKMVZDcjJQREc3SGNCNTNpUQ?oc=5",
+      "source": "뉴스 따옴",
+      "published_date": "2026-05-22",
+      "summary": "수원특례시, 공유 자전거·킥보드(PM) 지정주차구역 확대한다&nbsp;&nbsp;뉴스 따옴",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
+    },
+    {
+      "id": "68346915",
+      "title": "제 이름 찾은 김해 젤미공원…체육공원 바꾸고 주차난도 잡는다 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcENmNGFtZDdWTnQ2WERzRHo1d3JKRWRBdG5BQWxGOS1mRThCaU1rWkl1TGozQUctOHVhMnB0dURUUHhvc1RSZDFONldGQUt4TjdBZnZpSGNWbXN6MkxucGRvZ0VzYjhWYkI2c3NfeGpXQ1o3SV95WEVsd0VaNUJaZGd1bldNUXFval9nOEJR?oc=5",
+      "source": "국제신문",
+      "published_date": "2026-05-22",
+      "summary": "제 이름 찾은 김해 젤미공원…체육공원 바꾸고 주차난도 잡는다&nbsp;&nbsp;국제신문",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
+    },
+    {
+      "id": "9f36b36b",
+      "title": "박현욱 후보, “구도심 재개발·주차난 해결”… 제주 일도2동 출정식서 7대 공약 발표 - 채널제주",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE50RGpvN0UxSXBMUTNGd1lYM3VXMFowdE5HX0NUTWlRd0hDdTV2a1BCTmtpRlQzVFJ6THNRdE53WmpRNzBvOFFlMDBzZXhhaXVxZWRQQXpLR0xzSmlPbnFxU0JwMUFtTEl0RXdueTE1WQ?oc=5",
+      "source": "채널제주",
+      "published_date": "2026-05-22",
+      "summary": "박현욱 후보, “구도심 재개발·주차난 해결”… 제주 일도2동 출정식서 7대 공약 발표&nbsp;&nbsp;채널제주",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
+    },
+    {
+      "id": "77499d6c",
+      "title": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진 - 도민연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95OEprejN0Q2Q1Rnc2WmdDODJ0ajFrYnh4SE14bUZDR3FnMXFSRHpNMklRQndsM3U1MWFJNndYWkhseHg4djNyTlVMU1RTVGtmZ3NpTkFtX25hM0dpZkZWMlNEYWdXLXdOT1E?oc=5",
+      "source": "도민연합뉴스",
+      "published_date": "2026-05-22",
+      "summary": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진&nbsp;&nbsp;도민연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
+    },
     {
       "id": "9ba043fc",
       "title": "전주 서부 신시가지 주차난 한숨 던다 - 아주경제",
@@ -463,6 +523,16 @@
       "summary": "강서구시설관리공단, 거주자우선주차장 공유주차 시간 확대&nbsp;&nbsp;서울일보",
       "category": "뉴스",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "26a1973b",
+      "title": "파주시, ‘부설주차장 개방 지원사업’ 본격 추진 - 경인신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pM05oYXE5ZnFvRVoxbmdEWHpXRV9FRHhXbnhmZmo4QUM5QTBsZGVNNzlBM0xUZWZGejBMc3lhYVFBLUtjTHhRdnpWUGlhUE9YNXdUcUYyakVabENfLVFVVzlUOVNoTE0?oc=5",
+      "source": "경인신문",
+      "published_date": "2026-04-06",
+      "summary": "파주시, ‘부설주차장 개방 지원사업’ 본격 추진&nbsp;&nbsp;경인신문",
+      "category": "뉴스",
+      "collected_date": "2026-05-22"
     },
     {
       "id": "e87d3a3b",
