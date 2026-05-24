@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-23",
-  "total_count": 84,
+  "last_updated": "2026-05-24",
+  "total_count": 91,
   "articles": [
+    {
+      "id": "468509ed",
+      "title": "[청주소식]양청중 유휴공간에 공유주차장…49면 조성 등 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6VV9PVTUtZGlUa2JMYTU1REp5WVp3OU84eWtrT3JsRHhfRlNmZFh2SXBub3BQZzNtUFQza2pTNW15bjBmTUFtWmpsOHRCRmJlZWxkbTEtZ1V0NGItQ2E2adIBeEFVX3lxTFBCd2ZkMEV3XzRxa1QzdENFZGhYOEpxNWFnZmZ5T2trdGdiQ1lTVjc4VjN0X05xNzEzak5INUFMblpsYWNLNTN4QThReFBEbGlVOWlYc2wwY1FPVUVQX3FYb18xeFNLaUZUMGd3X2tpM01KcjRxMmV2MQ?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-05-24",
+      "summary": "[청주소식]양청중 유휴공간에 공유주차장…49면 조성 등&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
+    },
+    {
+      "id": "537d7b22",
+      "title": "청주시, 양청중학교 유휴공간 활용해 공유주차장 조성 추진 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQb0tFY245cy1OZnk2ZWRialdJYlkydXRYUzJCMEJ0Rmd1NnotX0xrUXRtdDBsdFB5UU1IZXNjb0I1MFdlQ0VBbkJDSnNLbHNjallWdWlTeDVQai1mNllUQzhTTWNuQjgzNXBncTJ3?oc=5",
+      "source": "gukjenews.com",
+      "published_date": "2026-05-24",
+      "summary": "청주시, 양청중학교 유휴공간 활용해 공유주차장 조성 추진&nbsp;&nbsp;gukjenews.com",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
+    },
+    {
+      "id": "9dfbfbe4",
+      "title": "[청주소식] 양청중학교 유휴공간에 공유주차장 조성 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5acEN6dHZFRFo2SHdVVUZqaVdvX0N4ZFltT3R0UFEya0VNUWtaSkJldmhhYzQtVHZzeFltWnpsMVJtci1hU2VFU0VDTk01WmVrd3dENUtac1FEQjhCZGMzWdIBYEFVX3lxTE5acEN6dHZFRFo2SHdVVUZqaVdvX0N4ZFltT3R0UFEya0VNUWtaSkJldmhhYzQtVHZzeFltWnpsMVJtci1hU2VFU0VDTk01WmVrd3dENUtac1FEQjhCZGMzWQ?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-05-24",
+      "summary": "[청주소식] 양청중학교 유휴공간에 공유주차장 조성&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
+    },
     {
       "id": "bc4bf755",
       "title": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진 - 서울뉴스통신",
@@ -71,6 +101,16 @@
       "summary": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진&nbsp;&nbsp;도민연합뉴스",
       "category": "뉴스",
       "collected_date": "2026-05-22"
+    },
+    {
+      "id": "a8594dc7",
+      "title": "수원특례시, 공유 자전거·킥보드(PM) 지정주차구역 확대한다 - 의정신문 서울시티",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1DQm54V1RFUXE0SUw0VkdrbmRnRTNoMndjVWs3T1ZJcWh1U2o4bGhPdVVtNXdjZGNObktiSWZoTnZxUHFWM2I1aDZnQXNBZGllR1JJMmgwV1phQWktb3dzVUhWR25ZM09MeFZQUy1fcw?oc=5",
+      "source": "의정신문 서울시티",
+      "published_date": "2026-05-22",
+      "summary": "수원특례시, 공유 자전거·킥보드(PM) 지정주차구역 확대한다&nbsp;&nbsp;의정신문 서울시티",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
     },
     {
       "id": "9ba043fc",
@@ -161,6 +201,16 @@
       "summary": "[6·3 지선] 박찬대 \"스쿨존 탄력 운영·주차난 해소 인프라 확충\"&nbsp;&nbsp;한스경제",
       "category": "뉴스",
       "collected_date": "2026-05-21"
+    },
+    {
+      "id": "9fc95fff",
+      "title": "박찬대, 운전자 맞춤형 교통 공약 발표…“주차난·충전 불편 해소” - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tbzlzZGZ0d3JRYzZ6Q2daLWR1WkI0dFVYbS1PMkJIaE1PQVEtSUFWaExFMkVGcHZRXzgxdnBoS3pNdE9ZMnZQYzJnX2ZleGU0Q2pROFFB0gGbAkFVX3lxTFBLTXlhN3ZNRDBaTVo2M01JbE1CbVpEclprVlVscHpQYWRsNGFhdk1pdDV4VU9IelpfcXF3dzhoVV9ubG52aDdSLTgtWklFNWdMMWs2WjFkVmI1eVdmWjlyZ2I3Y1I2VTV0all5ZU1RLU00ZkpBZ2J2YWlVWXltZE93N0czMmxmaDFKNVM4amt2MXhCQjZZNkp0bmhSWHNlS1JrUGNMblJaSFk1SmFtYS1MVFdhWVVXd2VVM3NCaDhKRDBJMGVCN1FyQXZfdmxYcnJqdWhuNkZ6ZHZLOGp6bXcxeTlzSFV1M2pHTHN3ZlVJemtteFdPZUxyemJ5dy1VV3VuWXdWM2QxcDZmS2NNODl6T3NrYUdOYXA0Ym8?oc=5",
+      "source": "데일리안",
+      "published_date": "2026-05-20",
+      "summary": "박찬대, 운전자 맞춤형 교통 공약 발표…“주차난·충전 불편 해소”&nbsp;&nbsp;데일리안",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
     },
     {
       "id": "503e428e",
@@ -341,6 +391,16 @@
       "summary": "인천공항 ‘주차난’ 심각하다더니…“직원들에게 주차권 남발”&nbsp;&nbsp;데일리안",
       "category": "뉴스",
       "collected_date": "2026-05-21"
+    },
+    {
+      "id": "6e54d594",
+      "title": "인천공항 주차난 알고 보니...\"주차면 85%가 직원용\" - YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ReFZDRTA3ZUpfV3dzNTB4bVhVWlo4QjNzMHpTNTJPeVo0RGF2NUl2XzAxUFlxTFVmekJoYnpkcXQwaVpzMVpNWlBOaEp4UU1WaDBvVElPMGFpOGZVQ2c?oc=5",
+      "source": "YTN",
+      "published_date": "2026-05-14",
+      "summary": "인천공항 주차난 알고 보니...\"주차면 85%가 직원용\"&nbsp;&nbsp;YTN",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
     },
     {
       "id": "ffe462e9",
@@ -791,6 +851,16 @@
       "summary": "&nbsp;&nbsp;서울시 정보소통광장",
       "category": "공고·결재문서",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "bd9ac4d3",
+      "title": "주차장 많다는데 주차난 심각…이유는? - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53YTgwQ0xiTktGcHd5dkhHLXdFSGxkZnlrWnQwQzVFRFFnTWZYc2YyMDVwNlVfVWE3Qk0tZE1jM25YajRfdW5HVkhKTmNqTExSMzZpN0N0dmdfVEk?oc=5",
+      "source": "KBS 뉴스",
+      "published_date": "2021-04-22",
+      "summary": "주차장 많다는데 주차난 심각…이유는?&nbsp;&nbsp;KBS 뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-24"
     },
     {
       "id": "eb7df436",
