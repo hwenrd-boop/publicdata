@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-05-24",
-  "total_count": 91,
+  "last_updated": "2026-05-25",
+  "total_count": 103,
   "articles": [
+    {
+      "id": "0cc74145",
+      "title": "광주광역시 북구, 생활권 주차 공간 확충 본격화…공유 주차 참여자 모집 - 시사의창",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NdUxkVW1MMDd4VWJwOVdRdXI3NWNNVmVOeEZuUjl0ckRHMF9PVGU4am04d2lscUwwc2VjRmFXcUkwd0IxdFBWUVJrUkVudkNhNFEzSA?oc=5",
+      "source": "시사의창",
+      "published_date": "2026-05-25",
+      "summary": "광주광역시 북구, 생활권 주차 공간 확충 본격화…공유 주차 참여자 모집&nbsp;&nbsp;시사의창",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "5c1069c0",
+      "title": "광주 북구, 자투리땅 등 활용 주차 공간 확보한다 - 광주타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rdWdDRVZDbnV3c1pIQV9pTjVvYkVHZTl0djhFdE4wMFhTaFhsUlduZ0N6UDNUUUpGSkJ3QUVFa2lWd0dxYjN2MXZWdHloRGcwczBlR0dGYW9JRUt3N2haMWFobmpuSU9GVWc?oc=5",
+      "source": "광주타임즈",
+      "published_date": "2026-05-25",
+      "summary": "광주 북구, 자투리땅 등 활용 주차 공간 확보한다&nbsp;&nbsp;광주타임즈",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "41716154",
+      "title": "수원시, ‘공유 자전거·킥보드’ 지정주차구역 확대 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pYTIyVlhPdjVjYTdDblNINzF6bFluSklKMzc5SE52R2NvUmI5ek5lM1hhcVdPb3Q5NTFFQTVPVGhocndvcnlOQS00ZXZ4SDBjajRURFExa2FoMm8?oc=5",
+      "source": "KBS 뉴스",
+      "published_date": "2026-05-25",
+      "summary": "수원시, ‘공유 자전거·킥보드’ 지정주차구역 확대&nbsp;&nbsp;KBS 뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "157e2455",
+      "title": "청주시, 학교 유휴공간 공유주차장 조성사업 - 충청매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uY3g4ckw3QWdLMHpNc2c5RU9PSEYwMHBPVWdOR01NOTJ5OGdKVDlTOHFQU3JVSGVTX1l1bE5jY3Utc3JqNTByWllOWDRqR0FTeENheGU5aUREWGpUeldCMnFiVEZzSkpEa1E?oc=5",
+      "source": "충청매일",
+      "published_date": "2026-05-25",
+      "summary": "청주시, 학교 유휴공간 공유주차장 조성사업&nbsp;&nbsp;충청매일",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "7534a084",
+      "title": "청주시, 양청중학교 유휴공간 활용 공유주차장 조성 - 충청도민일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOeWdkY085X1pIV3I1Unp1SllxVXpRU3lqX0FMWDBtd0lKaDlDbXllWERxVWg3OHFMVTFMQ2tYSnlrY2JaOElMaGo2WTBVQnplX3FHTURLSnNTNUk2STdqZFVFYWtKclNsZzJGNg?oc=5",
+      "source": "충청도민일보",
+      "published_date": "2026-05-25",
+      "summary": "청주시, 양청중학교 유휴공간 활용 공유주차장 조성&nbsp;&nbsp;충청도민일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "b6dca3d5",
+      "title": "광주 북구, 주차난 해소 '나눔·쌈지 주차장' 공모 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DaEFiaDNnSG9PcmpFcmxMZEhLV19tRzdRS21OTlBiOVl4VTdnanRDM0EySXFDd0QzV0gtWFhKTFBwNWZ0OUQ1YnJMNExqRVE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-05-25",
+      "summary": "광주 북구, 주차난 해소 '나눔·쌈지 주차장' 공모&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "50cdcaf7",
+      "title": "‘주차난’ 인천신항, 올해 230면 등 2028년까지 1,897면으로 확대 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qSHd0VDY3NDlyVEtjWGlTeW9wZ2w1dVpueUR0X1I3NEx1Um45RmxHRGJaNjVSb0lQcVVTenYtenIwRXBlb3M3S3htaTVPcHhYOWQ4eWFFaFh3RlE?oc=5",
+      "source": "KBS 뉴스",
+      "published_date": "2026-05-25",
+      "summary": "‘주차난’ 인천신항, 올해 230면 등 2028년까지 1,897면으로 확대&nbsp;&nbsp;KBS 뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
+      "id": "7c80bf13",
+      "title": "속초 도심 주차난 해소…동해대로 노상주차장 조기 개방 - reporternside.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZUFJCZnF6UVdnd0dlNFB3ZFhqLWlLU2RTYmtmSFFLVVhjSXJ1bGZ5azg5blBNVU5DU3psdGFrWnFNTE16ODZybVB0TVV1d0tIVmFDdUhITW1BNDlVWFFEM1RjWFVsZ3djNjVzRmJrdFZNdw?oc=5",
+      "source": "reporternside.com",
+      "published_date": "2026-05-25",
+      "summary": "속초 도심 주차난 해소…동해대로 노상주차장 조기 개방&nbsp;&nbsp;reporternside.com",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
     {
       "id": "468509ed",
       "title": "[청주소식]양청중 유휴공간에 공유주차장…49면 조성 등 - 뉴시스",
@@ -41,6 +121,16 @@
       "summary": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진&nbsp;&nbsp;서울뉴스통신",
       "category": "뉴스",
       "collected_date": "2026-05-23"
+    },
+    {
+      "id": "20243c37",
+      "title": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진 - 대한뉴스방송",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ic2ZNbFQtTlNlNENHdjhDQk5CRF9fT2kzZ0t3RVRZTUxLdE1GWmNfS2FjVG1zLW9RVS1RZnRGZzJNRlNwUFhEYklRU1pEd3NEdFRNODc5X2Z0NUtLMGE3MkJ5V25ibHpuMUg2Yg?oc=5",
+      "source": "대한뉴스방송",
+      "published_date": "2026-05-23",
+      "summary": "청주시, 학교 유휴공간 활용해 오창읍 주차난 완화 추진&nbsp;&nbsp;대한뉴스방송",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
     },
     {
       "id": "232d2515",
@@ -661,6 +751,16 @@
       "category": "뉴스"
     },
     {
+      "id": "cdde7592",
+      "title": "경주 주택가 ‘주차난’ 심각…차량 16만대·공영주차장 5913면 ‘주차 대란’ - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90SWlKbkJUMnY5R2JRRWw3ZlU1czc5QXJ1b3NnVmE1UHktX0lqYklXcnlnWFM3WFZGWTN6d05mRVlaYkJKNlU2Sjg3YS1oWTJ3THlmQzB2cFA5VjlkZVhabTJaSVdYLTFSLTNfdThCOA?oc=5",
+      "source": "kyongbuk.co.kr",
+      "published_date": "2026-03-10",
+      "summary": "경주 주택가 ‘주차난’ 심각…차량 16만대·공영주차장 5913면 ‘주차 대란’&nbsp;&nbsp;kyongbuk.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
+    },
+    {
       "title": "종로구, 도심 주차난 해소 위해 공영·부설주차장 확대",
       "url": "https://biz.heraldcorp.com/article/10654915",
       "source": "헤럴드경제",
@@ -713,6 +813,16 @@
       "summary": "울산, 대규모 공사로 온산 덕신리 주차난 ‘심각’&nbsp;&nbsp;울산제일일보",
       "category": "뉴스",
       "collected_date": "2026-05-21"
+    },
+    {
+      "id": "4a1ba5ed",
+      "title": "미추홀구 부설주차장 개방사업, “롯데백화점만 배불린다” 지적 나와 - 인천투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1STnhKN0tkWFppQXlxVVZ1cDJ2WXFPU3E1ZVV1bGVWVVdGY3dCR0tRb1Zscm5NcWlfSHctU3hzYmlid2tOay1uV0c4Wk1WN3h3QU83RFNjUVplWFJIZ1hCbkxJQmhUUjBzLTB1cktSeWo?oc=5",
+      "source": "인천투데이",
+      "published_date": "2025-12-17",
+      "summary": "미추홀구 부설주차장 개방사업, “롯데백화점만 배불린다” 지적 나와&nbsp;&nbsp;인천투데이",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
     },
     {
       "title": "중구, 서울역사 부설주차장 30면 주민 개방",
@@ -841,6 +951,16 @@
       "summary": "&nbsp;&nbsp;서울시 정보소통광장",
       "category": "공고·결재문서",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "2c2a14eb",
+      "title": "KTX포항역 주차난 심각… 대책 시급하다 - 영남경제",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5MRUE3S2o2NTl5VGRWcGlpeHV4QjFZdmJVb2FHWDR6WUwySGlnNk9Mc2Z0a00tWmJ3UlRkVnBraUl3RkxEem1sc293TkhuSGRadU9VdHhRZmJMRi02cnM4M0xzcFFPdGc?oc=5",
+      "source": "영남경제",
+      "published_date": "2022-11-22",
+      "summary": "KTX포항역 주차난 심각… 대책 시급하다&nbsp;&nbsp;영남경제",
+      "category": "뉴스",
+      "collected_date": "2026-05-25"
     },
     {
       "id": "0c1ea331",
