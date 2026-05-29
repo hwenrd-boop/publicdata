@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-05-28",
-  "total_count": 122,
+  "last_updated": "2026-05-29",
+  "total_count": 131,
   "articles": [
+    {
+      "id": "a8642985",
+      "title": "“도시가스·주차난 해결”…손경식 후보, 용상동 표심 공략 본격화 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tYUdXQ2x4UGlDSzRURndBVzNqWFpqeXQ3MENJWnlnM1c1YVQzOWJwcEtUOTNXdk4yczVfNkc4ZDlGQjM0elc5Y1FSTnlTSTl2c2lZUGJJaHBtd0lFVHp3REladFhFM3JuR09FRlFkaw?oc=5",
+      "source": "kyongbuk.co.kr",
+      "published_date": "2026-05-29",
+      "summary": "“도시가스·주차난 해결”…손경식 후보, 용상동 표심 공략 본격화&nbsp;&nbsp;kyongbuk.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
+    },
+    {
+      "id": "5008dddd",
+      "title": "박완수 “주차난 해소 넘어 생활편의 갖춘 경남형 복합 주차타워 추진” - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VmczM1o3bGt1YzlQSkFERTlENGo4eWpRUmNFRktzelBVeGRrTlpJMnAtZEwza0Y1MmxuOXFhRWM0dG1ESmw5OHZzbjdMTG9OMWo2aVk5dmt5cC1QSno4X2R0SE9DY3hodURVdlBvbFfSAXRBVV95cUxPTlRCNmlKOGRVdEF4TkdWX1JJSHQyRHc0VTFrQVFqcEd0MDhOa3lTa3JCaHVtT0FCVVJfNE8wRDRfMjBiN3g4VG8wWEh2bnFDQW5XUF9QRHdzMDFVZk94VUFVcWp5b091UnJPZUhHTm16VS0xaw?oc=5",
+      "source": "이뉴스투데이",
+      "published_date": "2026-05-29",
+      "summary": "박완수 “주차난 해소 넘어 생활편의 갖춘 경남형 복합 주차타워 추진”&nbsp;&nbsp;이뉴스투데이",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
+    },
+    {
+      "id": "7fbfaac1",
+      "title": "빈집 철거해 주차장으로…동해시, 주차난·안전 '두 토끼' - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VTVFFbkNFeGt5QlN1TWl5T1ItQmJDdlJfbWY1OWR4ck9oTHVSM016MnNyUkFHaFZoOFJZZnhkY2syeEVxTW02SUFsTkd0V3VRbnVR?oc=5",
+      "source": "네이트",
+      "published_date": "2026-05-29",
+      "summary": "빈집 철거해 주차장으로…동해시, 주차난·안전 '두 토끼'&nbsp;&nbsp;네이트",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
+    },
     {
       "id": "c721034f",
       "title": "하은호, 군포 주차난 해소 승부수 ‘6백면 확충 프로젝트’ 공약 - the-biz.co.kr",
@@ -21,6 +51,26 @@
       "summary": "충북도청 주차난 7월까지…후생복지관 개장&nbsp;&nbsp;국민일보",
       "category": "뉴스",
       "collected_date": "2026-05-28"
+    },
+    {
+      "id": "8e5961f0",
+      "title": "충북도청 주차난 7월까지…후생복지관 개장 - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHZGY5SVBGa3dJUndmT3poelQ3eWNJVGhubTFLdEhydFRzQnRxb1paVVVzaTdQRy0yUEV2VEQzMVdhMFNtNUxfNFAwbEd4enRrbjdwWllvVThXWkhvajdueWZVbnFmUE9WVFBmetIBbEFVX3lxTFBHZGY5SVBGa3dJUndmT3poelQ3eWNJVGhubTFLdEhydFRzQnRxb1paVVVzaTdQRy0yUEV2VEQzMVdhMFNtNUxfNFAwbEd4enRrbjdwWllvVThXWkhvajdueWZVbnFmUE9WVFBmeg?oc=5",
+      "source": "국민일보",
+      "published_date": "2026-05-28",
+      "summary": "충북도청 주차난 7월까지…후생복지관 개장&nbsp;&nbsp;국민일보",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
+    },
+    {
+      "id": "1570bbee",
+      "title": "하은호, 공직 혁신·주차난 해소 동시 승부수 - 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qMUh2NUEzQ183SnFzX0RrVXFIckNfUHV6V2ExalFwODNFLWxUN1NMVWE4VVVtXzF6THgySnJvUTljYzR1dFNSc09PTW4zcUtjNnBQVk9VblAxNUd2RXhLRXJkNjJhY3FWZ1dCSWV3?oc=5",
+      "source": "뉴스타운",
+      "published_date": "2026-05-28",
+      "summary": "하은호, 공직 혁신·주차난 해소 동시 승부수&nbsp;&nbsp;뉴스타운",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
     },
     {
       "id": "eb4a12d8",
@@ -111,6 +161,16 @@
       "summary": "[속초소식] 동해대로 노상주차장 조성 완료…만성 주차난 해소&nbsp;&nbsp;연합뉴스",
       "category": "뉴스",
       "collected_date": "2026-05-27"
+    },
+    {
+      "id": "6ada8ac0",
+      "title": "[속초소식] 동해대로 노상주차장 조성 완료…만성 주차난 해소 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KazBiOTN2MkhKa2NyZEdWeWUzNmUzejkwWW16cms5cUxDbmczeHBIRnNUU0V0Z1MxUGo0bTlvN3c5Rlc1RkhuTXBfY1Z2c3BOZmhhcUcyM192N3fSAWBBVV95cUxONVB0cUJUZlFuTjctN2g2NENxandYQ0ZwOHhJQUZQYmtjaWZySFNxMVpOYTFadWJPRnotMG5vN1RGUXJldXdrejZnNjkwRGdUWW04MWVwcVVTNlFNZS1PWUI?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-05-26",
+      "summary": "[속초소식] 동해대로 노상주차장 조성 완료…만성 주차난 해소&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
     },
     {
       "id": "0cc74145",
@@ -251,6 +311,16 @@
       "summary": "[청주소식] 양청중학교 유휴공간에 공유주차장 조성&nbsp;&nbsp;v.daum.net",
       "category": "뉴스",
       "collected_date": "2026-05-28"
+    },
+    {
+      "id": "87315f69",
+      "title": "[청주소식] 양청중학교 유휴공간에 공유주차장 조성 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4OVp5X191UERkeVZhWTk0elFNVVpkQmh2SXZ5MHY5MldTQlhUSEstNC1ManFvRnJGenY3UEpyazR2bWtqcC1IakRIOXJMY3VOLVJpdw?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-05-24",
+      "summary": "[청주소식] 양청중학교 유휴공간에 공유주차장 조성&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
     },
     {
       "id": "bc4bf755",
@@ -613,6 +683,16 @@
       "collected_date": "2026-05-20"
     },
     {
+      "id": "557bd252",
+      "title": "성남시, '공유 주차장 발굴'...적극행정으로 주차문제 해결 나섰다 - 데일리그리드",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uMkZqWWw5NnJYblpSVDdMSWs1aDNKUTRHNkF4VEhSSzV3SE1zZzhnM2pRWjN0TlpUNUJvYnpWb0xkcGZMWHBEVmVNWU1TMURNVG1EeDBVSlZtWnlZY1BTNUtCVjFPQnA5QXZ30gFvQVVfeXFMUE5iUWZyTUJKZmRWRUFhRjZNMzBjSnhPYTZ6ZEp1MFE2UHhOWS1WMGRSLWo2RGVXay1PaldSd3JJYllkOUlpVGhVcUZ4MS1wSGNOeG40MXJpcWJUVzViTTVPSzRJQk5CZ1RJY000SFdJ?oc=5",
+      "source": "데일리그리드",
+      "published_date": "2026-05-15",
+      "summary": "성남시, '공유 주차장 발굴'...적극행정으로 주차문제 해결 나섰다&nbsp;&nbsp;데일리그리드",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
+    },
+    {
       "id": "fb5eeff9",
       "title": "인천공항 ‘주차난’ 심각하다더니…“직원들에게 주차권 남발” - 데일리안",
       "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNblBMbjNPXzhjYzVLYzJEVEx2V0VCUzRrRTVwQm0zZXdtRGtkNE9CT1NqamJGTzJ5eHRfekkyRTExWnhXU0J0QVF6bE1WYjI4ZE9MX3l3dVRaUHV4ZC0zN0M5dU9VOVBVX2VTTC00MHhrcTNPWUdaSy02QzlXNC1zSUN0dFI2aUJjTXpLMXFXNzBWX2JLa1k5bXVkMEQwZ012T0lJN0d2TVJpb0N5QTg2bkZUTTZsOHVzNEd5a2RnUWxyb0tvSEpMWUZZVmJSVnJGYmRDbDRfRm91YUNkaFJxZVFaMDRXb3VMenZsdFhhTGw3UUFBVVBrbTVEXzZSNE1fX2p3eExKSkltS1lsR0JNN2Jfa0UzRXdfQmZ2cjcyaUhoNUtoU1ZoUEl6TDVhNVhIYURGOWtXNDTSAbsCQVVfeXFMTWFzREc2bXVoZUQxaWZfdm5mRTRscGczZDlCR2ktV1VvUFpZeGFQQ2JYLUVWNkpvZ0FzamlBWlNaTEo5SkhNRkp2T0t2bVY3akd3OEswS0xXNUJoMXlyZlJJMVdzNDNWdmJBbzZfTWFiX2xMamhQWHBxVzQ4bnZTR1hFSTFiV3lyemp5U3k3S1FZX3pDUmR5QTFPMFNPcEVCT0I0N1QzMjJ4aHdWSFRjNWtya0xCSktyeml6NlhZa1lXOUhGOW5LSXRVeUZSNGV0YkZqdXh3RXFGdVhIaXpFdzd5S2FiT05fOFFtMkVhbWZjeElXckdwVnlDc3owQVdreDRjQXdqdzR3RGNORmd0bVpCYzFZXy1rdzk5SU9hWDYxZ0xQYV9jRXBFcDJIRU5ZVE54Y1dLcU1rRVNF?oc=5",
@@ -789,6 +869,16 @@
       "summary": "성동구, 민간 부설주차장 105면 주민에 개방&nbsp;&nbsp;v.daum.net",
       "category": "뉴스",
       "collected_date": "2026-05-27"
+    },
+    {
+      "id": "242c2dc5",
+      "title": "성동구, 민간 부설주차장 105면 주민에 개방 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE56a2QyOUJVNVExeGpqYkVWQ2ppX0dITmV6YkVKb0ltTlJzVlZLXzRIclVjdzhXeDQ5ZWV6WmpkQWE1V2thd3lyZGJ5dw?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-05-10",
+      "summary": "성동구, 민간 부설주차장 105면 주민에 개방&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-05-29"
     },
     {
       "id": "48ec91ac",
