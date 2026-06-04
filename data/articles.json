@@ -1,7 +1,77 @@
 {
   "last_updated": "2026-06-04",
-  "total_count": 166,
+  "total_count": 175,
   "articles": [
+    {
+      "id": "0da501fd",
+      "title": "“주차난 숨통 트인다.” 민락동 314면 공영주차장 개장, 관광객·주민편의 UP - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSWxWY3FoYXdGaTNTdDhzS1VzZ0Nfa0JPMFNQQ2pvN3NjUWUyWmRWWTc0NW5EM0dHLVZpZktsdGtVSWQ3djZ4bmZ4V1hRdHRoVUpiWTZ6QTAzLWJnX0hPOWNiSWpvaVp6eU9rcmhyc1A0NnRsTl81QzRsdUhpMG9oSnZJN0RKR1RkNjVVbW1B?oc=5",
+      "source": "국제신문",
+      "published_date": "2026-06-04",
+      "summary": "“주차난 숨통 트인다.” 민락동 314면 공영주차장 개장, 관광객·주민편의 UP&nbsp;&nbsp;국제신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
+    {
+      "id": "31b5fd83",
+      "title": "파주시, 관내 노상·노외·부설 주차장 조사…주차난 실태 진단 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZkhkWDRyVmtKSjl3N2lnOThEaWVfdC1oTVhzWlM3TVVPekxNTm02MjA1WkNuVEFPdVdFdi1vVElMcmVLbWo4UV9pdlV5aGppQ0M0VExGdGdCVFE?oc=5",
+      "source": "경기일보",
+      "published_date": "2026-06-04",
+      "summary": "파주시, 관내 노상·노외·부설 주차장 조사…주차난 실태 진단&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
+    {
+      "id": "f99c485e",
+      "title": "“주차난 숨통 트인다” 수영구 민락동 314면 공영주차장 개장 - 부산일보",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jN0xNSnZZODRwc2daamQ3RTcxTEdkS2RuNklqcjZfWGg1Z3ByQTE2SDRRcTZTWU5HZWZYa24tZ0MwbEc4dkoyVjVoM2dJUEs4M3U5RWdlUVBvS2ZxUVc0R0xrekpybmFqaThUMlR3SXBYLUJXbzk3Ug?oc=5",
+      "source": "부산일보",
+      "published_date": "2026-06-04",
+      "summary": "“주차난 숨통 트인다” 수영구 민락동 314면 공영주차장 개장&nbsp;&nbsp;부산일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
+    {
+      "id": "6aca2cce",
+      "title": "수영구, 민락동 314면 규모 공영주차장 조성으로 주차난 해소 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OYXFyVzBBZnNJN2pvU0Q5LUd5bVU1akg4c2w1Z05GNDVIdGh2dDlOS05mZUZrZmJTV2d6ZGhfZDZabnJsMEs3RkEtcTFRZjdkM2JPTVY0dnNmclYtNnh5Tm1IU19yMDV2d1hiRTAxbHQ?oc=5",
+      "source": "더코리아",
+      "published_date": "2026-06-04",
+      "summary": "수영구, 민락동 314면 규모 공영주차장 조성으로 주차난 해소 > 뉴스&nbsp;&nbsp;더코리아",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
+    {
+      "id": "b8e0eb23",
+      "title": "부평구, 캠프마켓 유휴부지 주차장으로 활용…주차난 해소 기대 - 뉴스타운",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxSWNmeHFNNTZHTm5rS1FtSk16ZFMwSThJT0JSWVNJSjNZQUo4dlNvWDhaN0V3cVVQOWhGN0RKMjNhcWlfTGl4TS1BOTRmeHEyaG9UclR6bHJYcFQwMFlCSTdGTjFKUm1vMk51b3FR?oc=5",
+      "source": "뉴스타운",
+      "published_date": "2026-06-04",
+      "summary": "부평구, 캠프마켓 유휴부지 주차장으로 활용…주차난 해소 기대&nbsp;&nbsp;뉴스타운",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
+    {
+      "id": "129c76fa",
+      "title": "길어지는 '잠실 투표소' 대치…소음·주차난에 주민 불편 호소 - 이데일리",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFZXMkZ6NEY1YjJGOHc5aVhDX0RXZElwa2hBUDZ5TkdKSTAxY3lRc0xvVTdmNHJXVXdEWmRwY1RTSmJOcGVTcDFKcDJTSkFpUklPMHJMQ1c3U1Y3QUUwb2d3TktmTm5INVpyOWJYRjNlUjlsRThZTFlwczljOXJPQQ?oc=5",
+      "source": "이데일리",
+      "published_date": "2026-06-04",
+      "summary": "길어지는 '잠실 투표소' 대치…소음·주차난에 주민 불편 호소&nbsp;&nbsp;이데일리",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
+    {
+      "id": "5e3a82be",
+      "title": "인천 남동구, 캠핑카·카라반 복합 공영주차장 운영…주차난 해소 총력 - 베타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hajAweWdYUFBabzBhZ0tCS2ZPemNybmtoZmQ1aTRycmtVYkRobkNIWkJCUUhMMXBqb0VUMUItdU1fMmtxQ28zNU9JcFZBRm5jTlJSTXlmRmVrNFFWUVA3dG81YTk?oc=5",
+      "source": "베타뉴스",
+      "published_date": "2026-06-04",
+      "summary": "인천 남동구, 캠핑카·카라반 복합 공영주차장 운영…주차난 해소 총력&nbsp;&nbsp;베타뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
+    },
     {
       "id": "f70f73fc",
       "title": "진천군, 2천만 원으로 대형차 주차난 잡는다… 덕산읍에 ‘공한지 주차장’ 조성 - v.daum.net",
@@ -511,6 +581,16 @@
       "summary": "광주 북구, 주차난 해소 '나눔·쌈지 주차장' 공모&nbsp;&nbsp;진일보",
       "category": "뉴스",
       "collected_date": "2026-05-27"
+    },
+    {
+      "id": "feb32013",
+      "title": "청주시, 유휴공간 활용 ‘공유주차장’ 확대 - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QVlM1bFAxZFdCXzF4elFWbnhQUGloQWxIRVVqaW0xUmxleEVINFVyU0NidHp1a2lGOGdxTnJlNFB0S1o1Z2YyZUZ5Q2tIRnZKNmhkdkQ1bl9CLWM?oc=5",
+      "source": "KBS 뉴스",
+      "published_date": "2026-05-25",
+      "summary": "청주시, 유휴공간 활용 ‘공유주차장’ 확대&nbsp;&nbsp;KBS 뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
     },
     {
       "id": "468509ed",
@@ -1611,6 +1691,16 @@
       "summary": "주차장 많다는데 주차난 심각…이유는?&nbsp;&nbsp;KBS 뉴스",
       "category": "뉴스",
       "collected_date": "2026-05-24"
+    },
+    {
+      "id": "01cdc600",
+      "title": "[여기는 강릉] 주차장 많다는데…주차난 심각 이유는? - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1TbmQ1SVpJRGZpTmNKc3A2QmVULWpINTFOY1d3QmpMUF8yczNNYzlleXljYUpfS0s0VjZKUGVoWXBWbnh5ZEtqeTZqdEZ4TnR3TTRMRDlGS3pVcTA?oc=5",
+      "source": "KBS 뉴스",
+      "published_date": "2021-04-22",
+      "summary": "[여기는 강릉] 주차장 많다는데…주차난 심각 이유는?&nbsp;&nbsp;KBS 뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-04"
     },
     {
       "id": "eb7df436",
