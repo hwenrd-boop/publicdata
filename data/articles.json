@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-06-04",
-  "total_count": 175,
+  "last_updated": "2026-06-05",
+  "total_count": 182,
   "articles": [
+    {
+      "id": "6028768c",
+      "title": "“강동역 인근 주차난 숨통” 강동구도시관리공단, 성내·고덕동 27면 ‘지정구획제’로 전격 개편 - 시정일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aNWdvR2psMzFkNzcxS1FfWHFVbWpGX0p6WXZrVzJQUkotRXpqZG9Kdm91Vmd4MG1MeFRGNEFQZnZTTFU1TmdOTFVNV1RzcF9IbFlNekM3cUZlMXRpSGM3TmsxVm9Ybk0zMEI0?oc=5",
+      "source": "시정일보",
+      "published_date": "2026-06-05",
+      "summary": "“강동역 인근 주차난 숨통” 강동구도시관리공단, 성내·고덕동 27면 ‘지정구획제’로 전격 개편&nbsp;&nbsp;시정일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
+    },
+    {
+      "id": "b7c73cfa",
+      "title": "\"소음·주차난에 쓰레기까지\"…잠실 아파트 주민들, 선관위 시위대에 퇴거 요청 | - 데일리굿뉴스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04c2JwTU0zX254aVBjMFItdTVacjRKQmw3dHQzZkJJOVI5SjFId3VIMUZXbk5XZk9fMUhseVpRYXlBbUNfREVXTzBoZTRZSE1iTG0xVU93amVpUTNYckkzVEJsalduZVpLNWpaVDVwd0k?oc=5",
+      "source": "데일리굿뉴스",
+      "published_date": "2026-06-05",
+      "summary": "\"소음·주차난에 쓰레기까지\"…잠실 아파트 주민들, 선관위 시위대에 퇴거 요청 |&nbsp;&nbsp;데일리굿뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
+    },
+    {
+      "id": "f1160beb",
+      "title": "\"송파로 와주세요\" 시위대 1400명 대치...소음공해·주차난에 주민들 '퇴거 요청서' 전달 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fUVhyWjRoSnFpVUVKdFk1bTJlenFTS3dILXNnZVRYSFNERGxDS1NqSmc5VS10bzBkdEpXWlA2RFN4dnVYVTNiZkxhTGVWQk1takV2eXUtMW1FQW1PQUHSAV5BVV95cUxNX1FYclo0aEpxaVVFSnRZNW0yZXpxU0t3SC1zZ2VUWEhTRERsQ0tTakpnOVUtdG8wZHRKV1pQNkRTeHZ1WFUzYmZMYUxlVkJNbWpFdnl1LTFtRUFtT0FB?oc=5",
+      "source": "파이낸셜뉴스",
+      "published_date": "2026-06-05",
+      "summary": "\"송파로 와주세요\" 시위대 1400명 대치...소음공해·주차난에 주민들 '퇴거 요청서' 전달&nbsp;&nbsp;파이낸셜뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
+    },
     {
       "id": "0da501fd",
       "title": "“주차난 숨통 트인다.” 민락동 314면 공영주차장 개장, 관광객·주민편의 UP - 국제신문",
@@ -71,6 +101,26 @@
       "summary": "인천 남동구, 캠핑카·카라반 복합 공영주차장 운영…주차난 해소 총력&nbsp;&nbsp;베타뉴스",
       "category": "뉴스",
       "collected_date": "2026-06-04"
+    },
+    {
+      "id": "3c623348",
+      "title": "전주시, 공유 전동킥보드 주차구역 만든다 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1UQnhYQTNoZXk1eFFReWhiUkNfNS1YdjlBUVFfWXZ2dmk0TnZlSmJLaEh4MFYxZnJKaFNaUXpCdTRGN20tR1pzamV2SllrNk53ODMybmZPaXYzZjB0eHFvbUxzTQ?oc=5",
+      "source": "쿠키뉴스",
+      "published_date": "2026-06-04",
+      "summary": "전주시, 공유 전동킥보드 주차구역 만든다&nbsp;&nbsp;쿠키뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
+    },
+    {
+      "id": "4f76fe2b",
+      "title": "[울산현장] 주차난 해결 위해 주행 차량 중앙선 침범 불가피 - 울산신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YZmV0NXIxN1pPSEMwb0doczV1SjF3SXR2M0g1cWhoX0FDVFE0bl9HdmZvTGhzYm1lbGxncTdBdUVlR1VSUmF3UmxSbHgycmYzNEYtUUxIaHZWRkN4VHRObHFYZnFaMWQyR09XdG5ZU1FnZ9IBckFVX3lxTE5YZmV0NXIxN1pPSEMwb0doczV1SjF3SXR2M0g1cWhoX0FDVFE0bl9HdmZvTGhzYm1lbGxncTdBdUVlR1VSUmF3UmxSbHgycmYzNEYtUUxIaHZWRkN4VHRObHFYZnFaMWQyR09XdG5ZU1FnZw?oc=5",
+      "source": "울산신문",
+      "published_date": "2026-06-04",
+      "summary": "[울산현장] 주차난 해결 위해 주행 차량 중앙선 침범 불가피&nbsp;&nbsp;울산신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
     },
     {
       "id": "f70f73fc",
@@ -1153,6 +1203,16 @@
       "collected_date": "2026-05-28"
     },
     {
+      "id": "41ee374e",
+      "title": "성동구, 민간 부설주차장 105면 개방... 공유 주차로 도심 주차난 완화 - 뉴스에이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JVTFjdTl1SVo0bUozcHJIMlVGblZodWhLYmdDcVlSSE1fR3MtalE2TFRnT09oeHRQNDRtUUt1TkI5RVdIckd3NzdDTGNqSjEtYnk0RXBnNVlMNnNieTVsaElqdjRXVkNxSHc?oc=5",
+      "source": "뉴스에이",
+      "published_date": "2026-05-11",
+      "summary": "성동구, 민간 부설주차장 105면 개방... 공유 주차로 도심 주차난 완화&nbsp;&nbsp;뉴스에이",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
+    },
+    {
       "title": "성동구, 민간 부설주차장 105면 개방… 도심 주차난 완화",
       "url": "https://biz.heraldcorp.com/article/10734454",
       "source": "헤럴드경제",
@@ -1513,6 +1573,16 @@
       "summary": "미추홀구 부설주차장 개방사업, “롯데백화점만 배불린다” 지적 나와&nbsp;&nbsp;인천투데이",
       "category": "뉴스",
       "collected_date": "2026-05-25"
+    },
+    {
+      "id": "815e27d3",
+      "title": "영등포구, 거주자 우선 주차구역 이웃과 공유…\"주차 불편 해소\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2NU5iT3FmMExGZG1wdHRYOXhGOEJRQWloZzE3bE9qYjN2bjA3UTZYZ3BPZFlRQnRvaGdoRXV3MEk0bm9ndkxUaXFYY1lXRHZ0YWJydl9OWFRZUnfSAWBBVV95cUxNX2tJRjROaUU4S0tDVnExYWtXRG5WYXBtdm5acUNWVmJYLUxNd2FmdXFrTF8yVlVrdXNrZ0FBVmxKa1hLVExPYkxDY19wZG40QnFLZUNxUFNHWHVZM1RDYWg?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2025-12-12",
+      "summary": "영등포구, 거주자 우선 주차구역 이웃과 공유…\"주차 불편 해소\"&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-05"
     },
     {
       "title": "중구, 서울역사 부설주차장 30면 주민 개방",
