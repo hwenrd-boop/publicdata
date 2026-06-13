@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-06-12",
-  "total_count": 219,
+  "last_updated": "2026-06-13",
+  "total_count": 223,
   "articles": [
+    {
+      "id": "6e1686a4",
+      "title": "\"지하철역 출구 막고 점자블록 점령\"…공유 킥보드 무질서 주차 골치 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aOXg5blQ4X190d3QzOEo4Nmh3T2lzNGNMdFdmck5oaS1LaXlzUzlyLW9obzhneDVHWEdTaXlabURYemxPS3ZrVXFNYWVBcDdaR2E2ekNGemJ2a2hWNzNvMWpB?oc=5",
+      "source": "뉴스1",
+      "published_date": "2026-06-13",
+      "summary": "\"지하철역 출구 막고 점자블록 점령\"…공유 킥보드 무질서 주차 골치&nbsp;&nbsp;뉴스1",
+      "category": "뉴스",
+      "collected_date": "2026-06-13"
+    },
     {
       "id": "a36e094a",
       "title": "의정부시, 군부대 부지로 대형차량 주차난 해소…임시주차장 운영 시작 - 미디어써치",
@@ -101,6 +111,26 @@
       "summary": "정선 사북역 '별빛광장' 조성…주차난 해소·경제 활력 기대&nbsp;&nbsp;파이낸셜뉴스",
       "category": "뉴스",
       "collected_date": "2026-06-12"
+    },
+    {
+      "id": "105fe351",
+      "title": "강남구, 신사역 앞 유휴부지에 공영주차장 49면 조성 - yonhaptv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HcXBwRHR4dGZ6amxxcGxyRDhiWjVPUThxeHBlLVhDd1kyMm1Hc0Zyd1F1NzhTOGNvQXQ1bkpLRmNZV3A5Z3VRNDY5bGdjQmEzQXRkQ1N3ZnhUWWoxTWFpZktoaGlxN2FWVWc?oc=5",
+      "source": "yonhaptv.co.kr",
+      "published_date": "2026-06-11",
+      "summary": "강남구, 신사역 앞 유휴부지에 공영주차장 49면 조성&nbsp;&nbsp;yonhaptv.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-06-13"
+    },
+    {
+      "id": "be042fb3",
+      "title": "신사역 앞 유휴부지, 공영주차장으로 탈바꿈 - ignnews.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96Q25zOEtDaUlGTDR2aE1zcHliZmJlRWcxUW5CRHQySXd2WE9FSkhqbjNNSWZtdUl4RUxQRUF5WnhTRTFoNEdINmNtQl9neW1kM0Vwa2FVc3pzMUIybFZQWmtDbllIQQ?oc=5",
+      "source": "ignnews.kr",
+      "published_date": "2026-06-11",
+      "summary": "신사역 앞 유휴부지, 공영주차장으로 탈바꿈&nbsp;&nbsp;ignnews.kr",
+      "category": "뉴스",
+      "collected_date": "2026-06-13"
     },
     {
       "id": "88994b47",
@@ -241,6 +271,16 @@
       "summary": "강남구, 신사역 앞 유휴부지에 공영주차장 49면 조성&nbsp;&nbsp;네이트",
       "category": "뉴스",
       "collected_date": "2026-06-12"
+    },
+    {
+      "id": "b0d4eca7",
+      "title": "강남구, 신사역 3번 출구 앞 공터에 공영주차장 49면 운영한다 - 퍼블릭타임스",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EeS01RWN2OHZrVnJJUm5PbzdSUFY5NnZDSUlmYjdvZFhTYVEzYmh0ejRlUHk5dGRaMzJjaVk2SnNWTDU0Z09BTkhjTm9IVm9Ja3cyYk5pV1pJM3BJV0hnZ0hHeHNYWk9FVGfSAW5BVV95cUxQVExibHhQTldnYW1aSVdQUHd1ZThkUFN0MXlZbnFlc01pY1FJOTFpVDRsUkNCYmpDdV85cXpKU1pvRWx5U29jZ3MwdGR0RGhXZkFnYU9CSnBoS18xaUlncGNKMUktZVM4bE9jSEFMdw?oc=5",
+      "source": "퍼블릭타임스",
+      "published_date": "2026-06-10",
+      "summary": "강남구, 신사역 3번 출구 앞 공터에 공영주차장 49면 운영한다&nbsp;&nbsp;퍼블릭타임스",
+      "category": "뉴스",
+      "collected_date": "2026-06-13"
     },
     {
       "id": "ab337e29",
