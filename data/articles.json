@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-06-17",
-  "total_count": 257,
+  "last_updated": "2026-06-18",
+  "total_count": 263,
   "articles": [
+    {
+      "id": "ee95b484",
+      "title": "주차난 해법 찾는다…과천시, 거주자우선주차제 도입 검토 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DRmZ2eWl2emVHSXczNERDdS1DRWpIa0V4blZTaWFIOUxJTktmbm1vc1k1bG1GMjdkeDBvM2JtU3owSXAxTXR4X1E0X09JSzdHMGVPMkR1MkhNMWs?oc=5",
+      "source": "경기일보",
+      "published_date": "2026-06-18",
+      "summary": "주차난 해법 찾는다…과천시, 거주자우선주차제 도입 검토&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-18"
+    },
+    {
+      "id": "9aa38740",
+      "title": "그린벨트 규제 묶였던 달성군 다사읍 밀집지역, '적극 행정'이 주차난 뚫었다 - 글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oalE3VzN2OGdSQnVmbEIyUEN2NDhLbUlYZy0wQzVlX1AxQUxBRHdIMjhFbnBHR2pGYXBxanIwb0l4YngweEJnYkZFTURYNUpXY0VYQ2RESW9xTmFKa2xSNmpnS3UzWENKUEVWcXZleHHSAXBBVV95cUxOaGpRN1czdjhnUkJ1ZmxCMlBDdjQ4S21JWGctMEM1ZV9QMUFMQUR3SDI4RW5wR0dqRmFwcWpyMG9JeGJ4MHhCZ2JGRU1EWDVKV2NFWENkRElvcU5hSmtsUjZqZ0t1M1hDSlBFVnF2ZXhx?oc=5",
+      "source": "글로벌경제신문",
+      "published_date": "2026-06-18",
+      "summary": "그린벨트 규제 묶였던 달성군 다사읍 밀집지역, '적극 행정'이 주차난 뚫었다&nbsp;&nbsp;글로벌경제신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-18"
+    },
+    {
+      "id": "208784d8",
+      "title": "관광버스 주차난과 주민 불편 듣는다, 다시 뛰는 부산 위원회 현장간담회 개최 - 내외뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sMnY3enUzN2FvVkUzbWpNaTU5cUFhUDlPVTNicXkwMlVqbWR1NTNYZ2RralUzbHNHcG5YMVQ3aHFpVU1fRDBxZ1dkcnhxTkZtdDRLUmtvM3ktdFJGcWxOQm9uTWxaRy01Q0RpZNIBcEFVX3lxTFBaQ1lOUTk4dzZ4d3BhWkgxZ2dnemJRNFpxbnVKMVdDX1E5YWJYNm5JWU9mUFFLVDhqVUpESGtNYnJWQzIxOVQ2OFdBNXN5akZ5dEpyS3RYS2xZaEx3TW5SX01mbkxsc0JZTklyam1rS1M?oc=5",
+      "source": "내외뉴스통신",
+      "published_date": "2026-06-18",
+      "summary": "관광버스 주차난과 주민 불편 듣는다, 다시 뛰는 부산 위원회 현장간담회 개최&nbsp;&nbsp;내외뉴스통신",
+      "category": "뉴스",
+      "collected_date": "2026-06-18"
+    },
+    {
+      "id": "d9d5163f",
+      "title": "달성군, 다사공영주차장 개방…매곡리 주차난 해소 기대 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yME5UaFkxSHdralJnLW15LUFpTXNJZkpRV01lTS1DMFZGMWRBTmRRdEw5Si1GLUNiNlRUdXFFaVdiZ0R5SnJNb0w1NmNRR1ptUjZha0RjRjNYcHIwRTFVeUVWbDZaYS1uTUgxQWcyb9IBc0FVX3lxTE51Ync5TnNFRm0tN3lZdHVuQkJjVFVfOW5GeURzMHFyNWdGWGpsU3p0WVU2cmpVbE9KLUxDU2JYaXV0YU5KR1BwUHcyT1VuM0dJZDAtTDJsYTRSNFE2TjRNMGE1Q0RyY3M3YkFDaXFzb1dMMjA?oc=5",
+      "source": "데일리한국",
+      "published_date": "2026-06-18",
+      "summary": "달성군, 다사공영주차장 개방…매곡리 주차난 해소 기대&nbsp;&nbsp;데일리한국",
+      "category": "뉴스",
+      "collected_date": "2026-06-18"
+    },
     {
       "id": "6275817e",
       "title": "주차난 해법 찾는 과천시… 주민의견 듣는다 - 현대일보",
@@ -41,6 +81,16 @@
       "summary": "과천시, 주차난 해소 위한 '거주자우선주차제' 시범 운영&nbsp;&nbsp;네이트",
       "category": "뉴스",
       "collected_date": "2026-06-17"
+    },
+    {
+      "id": "72b26ada",
+      "title": "과천시, 주차난 해소 위한 '거주자우선주차제' 시범 운영 - 브릿지경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHLVRocGxWeW04ekRha3VZa2ExMU94LVhPT1BIaElES3VxcEUwcWl3dnFtVWpQUnh5T3VDb3E1TThubFdqM1dYSDV0VGlUM3VRVUlBc1hVdzViUQ?oc=5",
+      "source": "브릿지경제",
+      "published_date": "2026-06-17",
+      "summary": "과천시, 주차난 해소 위한 '거주자우선주차제' 시범 운영&nbsp;&nbsp;브릿지경제",
+      "category": "뉴스",
+      "collected_date": "2026-06-18"
     },
     {
       "id": "0eea0e5f",
@@ -101,6 +151,16 @@
       "summary": "강남구 개발 앞둔 ‘빈땅’ 주차장으로 활용&nbsp;&nbsp;대한경제",
       "category": "뉴스",
       "collected_date": "2026-06-17"
+    },
+    {
+      "id": "39c836ba",
+      "title": "중구, 남산오렌지카운티 부설주차장 10면 민간 개방 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE11aTlSSGZiRHN5SHZXWHRlbkotNU4tMEVQS3VVdGhJT2lkSHRhb0M2TEh1T0VvLXE1NkFWS25rbWd0aXprRVpRSTVIOW51SjZaYWRhTDlOdnBiZ0xG0gFvQVVfeXFMTXhKeHNQZ2V6bHNjb0FOQ0FQUUNxLUtvSkxEbkFtVHE4THV6eWhRWFdMbHNmVWh2QXNlQmpzd3k4QkRWUmdmSksxNURxZTZYb0tFdFRvcEtENmRLa0xkX0c4WFRyNy02UGg3ZDM4MGFF?oc=5",
+      "source": "머니투데이",
+      "published_date": "2026-06-16",
+      "summary": "중구, 남산오렌지카운티 부설주차장 10면 민간 개방 - 머니투데이&nbsp;&nbsp;머니투데이",
+      "category": "뉴스",
+      "collected_date": "2026-06-18"
     },
     {
       "id": "d24868e7",
