@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-18",
-  "total_count": 263,
+  "last_updated": "2026-06-19",
+  "total_count": 270,
   "articles": [
+    {
+      "id": "ae6f33bf",
+      "title": "중구, 남산오렌지카운티 부설주차장 10면 개방 - 시정일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCWmJza1AxakpiRVU0OE5tTDhCeFdpNUxxWjZIbGhzTHI4QVUyc19XalVmbWZsYS1Ia1FMRThNMjM3Skd2LU94YkZKWkJpUGtuUnZncTNZVGZic2FnaEk2ZnhMaEw4RXBOR01n?oc=5",
+      "source": "시정일보",
+      "published_date": "2026-06-19",
+      "summary": "중구, 남산오렌지카운티 부설주차장 10면 개방&nbsp;&nbsp;시정일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
+    },
+    {
+      "id": "8f02fba4",
+      "title": "김상욱 당선인 \"노동자들 새벽4시 출근, 차에서 쪽잠…주차난 해결해야\" - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfWnlsaXI5Z2NjbUQ4RHp1Rm5GRDRycURicjBmNlBYVUR3QXQwYjRSVlVOdjFwMGwwc2VJeE54NzBKTDlkYkhTNE92cU1CemFSV0E?oc=5",
+      "source": "뉴스1",
+      "published_date": "2026-06-19",
+      "summary": "김상욱 당선인 \"노동자들 새벽4시 출근, 차에서 쪽잠…주차난 해결해야\"&nbsp;&nbsp;뉴스1",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
+    },
+    {
+      "id": "25d045e6",
+      "title": "부산역 주차난·원주 폐선 부지…코레일, 잠든 철도 땅 5곳 개발 청사진 공개 - 글로벌이코노믹",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRXAwdWJlZFluOEtNYnRwTlR0QnVlckozclRtSENJRnd2RUpEdXpLajRteHpSUXZSa3FIb0s2MVQtTVpQYzlVakQ4cnRBYjRYR0RvMHVIcFJDVTJkY3dCQjU4RXhkU0xYTmJtRjhicWpKWHM5ZUtBN295QUlvWUNWeUo0Y3lGZktVYWc?oc=5",
+      "source": "글로벌이코노믹",
+      "published_date": "2026-06-19",
+      "summary": "부산역 주차난·원주 폐선 부지…코레일, 잠든 철도 땅 5곳 개발 청사진 공개&nbsp;&nbsp;글로벌이코노믹",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
+    },
+    {
+      "id": "5fa044a0",
+      "title": "[대구 24시] 달성군, 공공시설 주변 주차난 해소…80면 규모 주차장 개방 - 시사저널",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WM1lwalBYeDk1blpxVmQ5dERJOWw1RW52VlI4ZXFOMFRNNXRfaWhoeGJBVzlpSXBlaTloY3c3aGdkek80RUpKUEgwV2xVLURLVlZEbFpWZ0FocHV4YWhIWnRVRVhFOXRlS0plMng2R0xVOUHSAXNBVV95cUxPVjNZcGpQWHg5NW5acVZkOXRESTlsNUVudlZSOGVxTjBUTTV0X2loaHhiQVc5aUlwZWk5aGN3N2hnZHpPNEVKSlBIMFdsVS1ES1ZWRGxaVmdBaHB1eGFoSFp0VUVYRTl0ZUtKZTJ4NkdMVTlB?oc=5",
+      "source": "시사저널",
+      "published_date": "2026-06-19",
+      "summary": "[대구 24시] 달성군, 공공시설 주변 주차난 해소…80면 규모 주차장 개방&nbsp;&nbsp;시사저널",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
+    },
+    {
+      "id": "5a7eea9d",
+      "title": "‘상습 주차난’ KTX 평창역 공영주차장 조성 착수 - 강원도민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdnN3QnFMcFdKV3dDc1JscVN6RUhlRC0wLWthQVJLN0VPZTZwZ0I3STl1bktJMzJkWXhJdzljdFJQQTBPeGFmTGFiNzRQUlFYOWxHNkMxeVBxSldLazhTMXBXN0htaFk?oc=5",
+      "source": "강원도민일보",
+      "published_date": "2026-06-19",
+      "summary": "‘상습 주차난’ KTX 평창역 공영주차장 조성 착수&nbsp;&nbsp;강원도민일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
+    },
     {
       "id": "ee95b484",
       "title": "주차난 해법 찾는다…과천시, 거주자우선주차제 도입 검토 - 경기일보",
@@ -41,6 +91,16 @@
       "summary": "달성군, 다사공영주차장 개방…매곡리 주차난 해소 기대&nbsp;&nbsp;데일리한국",
       "category": "뉴스",
       "collected_date": "2026-06-18"
+    },
+    {
+      "id": "ac5558e2",
+      "title": "그린벨트 규제 묶였던 달성군 다사읍 밀집지역, '적극 행정'이 주차난 뚫었다 - 글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sZzlkeWFFZGhwQ2ZRUDJYX3lERk5iaEtWbEpuMl9FT3VCUEpRcmFpRTUxZU4xTTJndTNhWXFFbnl1a2hyX2hGRFcwNnBTY1JlR3gtZkViNkY0aGllMzJTdkJKOVhHRlJMQnE2bNIBcEFVX3lxTE5oalE3VzN2OGdSQnVmbEIyUEN2NDhLbUlYZy0wQzVlX1AxQUxBRHdIMjhFbnBHR2pGYXBxanIwb0l4YngweEJnYkZFTURYNUpXY0VYQ2RESW9xTmFKa2xSNmpnS3UzWENKUEVWcXZleHE?oc=5",
+      "source": "글로벌경제신문",
+      "published_date": "2026-06-18",
+      "summary": "그린벨트 규제 묶였던 달성군 다사읍 밀집지역, '적극 행정'이 주차난 뚫었다&nbsp;&nbsp;글로벌경제신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
     },
     {
       "id": "6275817e",
@@ -341,6 +401,16 @@
       "summary": "세종 명학산단, 잇단 대기업 투자에 '들썩'…주차난은 숙제로&nbsp;&nbsp;중도일보",
       "category": "뉴스",
       "collected_date": "2026-06-17"
+    },
+    {
+      "id": "d563c122",
+      "title": "서울 중구, 남산오렌지카운티 부설주차장 10면 주민에게…민간 개방 주차장 총 613면으로 확대 - 더뉴스코리아",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVm9WRFRBQy0xYU1fczR6alNUSlNmZXpSVU15ejU5S3FWXzQwVmJwWEdpcGUzSGV0XzItTjI4Wi1VTFhhdVNJZkt2bkttRU1Vb0J0NFcybkNvclh1cGxocmJCM0plU094clpzeDVZXy1Yb29FTGZfelRfRVM5Zi05c1M2YVVOYnRwN1R1NjBuOTUySjNhSzBQaWExTG5pV0dfVlhZ?oc=5",
+      "source": "더뉴스코리아",
+      "published_date": "2026-06-15",
+      "summary": "서울 중구, 남산오렌지카운티 부설주차장 10면 주민에게…민간 개방 주차장 총 613면으로 확대&nbsp;&nbsp;더뉴스코리아",
+      "category": "뉴스",
+      "collected_date": "2026-06-19"
     },
     {
       "id": "b24380be",
