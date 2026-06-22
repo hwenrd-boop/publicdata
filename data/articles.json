@@ -1,7 +1,137 @@
 {
-  "last_updated": "2026-06-21",
-  "total_count": 279,
+  "last_updated": "2026-06-22",
+  "total_count": 298,
   "articles": [
+    {
+      "id": "12680e88",
+      "title": "강남구 스마트 공유주차 24시간 운영 확대 - 강남내일신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBpbmhsT2cxQU5MTnFkRzI1RGJmNVdSaldiY0kwNFRzZncwM205UEJXcVU2TkJlTE9GZVNjTzFnMkJOTEJTdUV5WFktNkVuWWpPRnhnMUUwZ3BSb3dnamVLc3EyLUxyTXc?oc=5",
+      "source": "강남내일신문",
+      "published_date": "2026-06-22",
+      "summary": "강남구 스마트 공유주차 24시간 운영 확대&nbsp;&nbsp;강남내일신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "a27a89b1",
+      "title": "강남구, 거주자우선주차 공유서비스 24시간 확대 - 핀포인트뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KcnRkYm8teUpGdmRtVDJobDJwU1hockQ3OWJVb3Y2cjBYOTRSTXdsYnY4R3pRQkNoeEVzU3BTcUYzLUllZlFuT0dRMFRIZWM1cFZyM0wtalBZTkR6MzRveG1aTzlPcWU0VjQzaWlkRko2WGfSAXdBVV95cUxOM3ZNcDMxRk5SMUd5LVZQamtHVmtRbEZ2aC1oWjVxWGhYOFZYM2h2cGxUZjUtcGVCRUh4U1J3ZmdQcDdfUEN0RkFRbDczX1lwT0ZvSE4wRTlJZkgzdVVNeXM3Zjd3RHI3SnN5NzBvZXcweWgyaW9aNA?oc=5",
+      "source": "핀포인트뉴스",
+      "published_date": "2026-06-22",
+      "summary": "강남구, 거주자우선주차 공유서비스 24시간 확대&nbsp;&nbsp;핀포인트뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "cb3da5ac",
+      "title": "강남구 공유주차 24시간 확대 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZZG8tdllVTnBJTVQwcmRQM05pUllpak15Z04xeEozUFBGR1FLY3h3RHRrYktoQW81S0NkaElWVEhyRWJlNUJyaDIwWXpoWUk5RDl6X1ZFZzRuZjdORHFvNWFicTNlY1RBSGc5WFNPazM?oc=5",
+      "source": "더코리아",
+      "published_date": "2026-06-22",
+      "summary": "강남구 공유주차 24시간 확대 > 뉴스&nbsp;&nbsp;더코리아",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "b148fb09",
+      "title": "강남구 거주자주차면, 내달부터 24시간 상시 공유 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92U2paOENkWGZYdE5JVmJFVlZHemFQOUdudE1xWUlWc2RiS09XcUtiY2R1U2pac2djam5UTXZnZXltMEppeldIdVFSbUpHSHBGSHNGQTBGMlNRNVZMVlNzanVfdXpxNTNKczR3ZUh3?oc=5",
+      "source": "전국매일신문",
+      "published_date": "2026-06-22",
+      "summary": "강남구 거주자주차면, 내달부터 24시간 상시 공유&nbsp;&nbsp;전국매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "3e821e0f",
+      "title": "강남구, 거주자우선주차면 공유 365일 24시간 확대 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE81anpvdVZEWE1PRFR2YlEyWWhJcWlKekdKN2g2RmFhY0gwWW15OFR0Yno0WjdoMXZBYmxkV0ZIY2l3dzZYeVh6Wk4xQU5aclE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-06-22",
+      "summary": "강남구, 거주자우선주차면 공유 365일 24시간 확대&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "a69a1f44",
+      "title": "강남구, 스마트 공유주차 24시간 확대 운영 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUFhZRTRJdkdOSUdVZjdwVXVna19iWHZQcGZvUmNEVFlCbFVvMS1RRzdsdDdyeWx1NWY3UmE5QnlhSlROWHdWQ0lvNWFaZVJYc0tSc0RCd0NUVDVudS15SThFTDBLYzZuZm44bVZiTm7SAXRBVV95cUxOdzJoM0dRUHYwUmlBQnQtdzVPaHZ6TWtQVDh2NnAyLTZrRUdzUGhPUkt6d0MyZGJBMG95WEtoNG1na1g1WUpKOXZOMktqb210RDRZZGhtQnRMc3R0RmZCRXpQdXJubUNQM2lQbE1OSnRfNmQ2Xw?oc=5",
+      "source": "이뉴스투데이",
+      "published_date": "2026-06-22",
+      "summary": "강남구, 스마트 공유주차 24시간 확대 운영&nbsp;&nbsp;이뉴스투데이",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "7ea11daf",
+      "title": "강남구, 스마트 공유주차 서비스 운영시간 24시간으로 확대 - 여성종합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5MUdlQmN4UTdvOGpMX3VtdzdPOW8xV2xPQ3BoOWpzQzU2RnRDWVFBaU1rdldRN0RPcDljejZVTHl6OVI4bG9GeXB2dk5MdHRYTWxUa25VTWNIUQ?oc=5",
+      "source": "여성종합뉴스",
+      "published_date": "2026-06-22",
+      "summary": "강남구, 스마트 공유주차 서비스 운영시간 24시간으로 확대&nbsp;&nbsp;여성종합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "9a7ad937",
+      "title": "강남구, 공유주차 전면 확대... 거주자우선주차면 공유 365일 24시간으로 - Queen 이코노미퀸",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsczM3ZWd0Qlc0dkJWZy1mdEotN0FtQnlGRm5nXzhhblMyLWJmUnp1dW1XVjRWVGdLdjVqUTJQb1luUUpDQy15UldFS3E5OWhOeWE5bEVucmtnQ2Jka21RdElGR2J1MTBOYVE?oc=5",
+      "source": "Queen 이코노미퀸",
+      "published_date": "2026-06-22",
+      "summary": "강남구, 공유주차 전면 확대... 거주자우선주차면 공유 365일 24시간으로&nbsp;&nbsp;Queen 이코노미퀸",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "9914978b",
+      "title": "중구-양사초, 부설주차장 무료 개방 협약 - 울산시민신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KU0FSd3hUaTdiU0pMVk9mOEJoX2d5QVprSFo0MzQzZmVmVm54SXgxOXRfVW9yS19wZ2dmMDdaTVA0RVRIWVpVOWZZaXUyRHB0SEJzYUVNdElTWjVwWThjNXh1d0piOEE?oc=5",
+      "source": "울산시민신문",
+      "published_date": "2026-06-22",
+      "summary": "중구-양사초, 부설주차장 무료 개방 협약&nbsp;&nbsp;울산시민신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "bda14f2f",
+      "title": "강남구, 스마트 공유주차 24시간 확대 운영 - 이뉴스투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE53MmgzR1FQdjBSaUFCdC13NU9odnpNa1BUOHY2cDItNmtFR3NQaE9SS3p3QzJkYkEwb3lYS2g0bWdrWDVZSko5dk4yS2pvbXRENFlkaG1CdExzdHRGZkJFelB1cm5tQ1AzaVBsTU5KdF82ZDZf0gF0QVVfeXFMTncyaDNHUVB2MFJpQUJ0LXc1T2h2ek1rUFQ4djZwMi02a0VHc1BoT1JLendDMmRiQTBveVhLaDRtZ2tYNVlKSjl2TjJLam9tdEQ0WWRobUJ0THN0dEZmQkV6UHVybm1DUDNpUGxNTkp0XzZkNl8?oc=5",
+      "source": "이뉴스투데이",
+      "published_date": "2026-06-22",
+      "summary": "강남구, 스마트 공유주차 24시간 확대 운영&nbsp;&nbsp;이뉴스투데이",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "eb0b84f8",
+      "title": "서울 강남구, 거주자우선주차면 공유 365일 24시간 확대 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPN0dlNzQ5a3I1eUJPQlAzaTJDa00yQXZkNTdrLURNbkw3V3pJSjFjcEFBQUFsazlZTElCWGo3ZGRjZDNDTVFmc2I1OUFDVFlfRGNZa2pHTGh2MHltWVRFS3paM0VJN0p5NEdpbC1pMWVoQ2FheXZ3SUVFcmdyTldFbnEwVThsNlc0N0hSa0s1c1hWUFNNNXFfQUJHWDV2cFh4Q2lKLUhWcGpRQWNtcUptWXpLZUNESUFrdnNjdlQ5ajhQOHhyVTBWaDdqZDBoWFUzc1AyRDRyMmxES3c4eVB5elZpTEJQUmtzc0c0Rlgxckk5MHlaV3U3TTYxWEgtMUwwM0ZWY2EyRU5SOW1hTmdTZklmV2RYU0VJaHVj0gGbAkFVX3lxTE83R2U3NDlrcjV5Qk9CUDNpMkNrTTJBdmQ1N2stRE1uTDdXeklKMWNwQUFBQWxrOVlMSUJYajdkZGNkM0NNUWZzYjU5QUNUWV9EY1lrakdMaHYweW1ZVEVLelozRUk3Snk0R2lsLWkxZWhDYWF5dndJRUVyZ3JOV0VucTBVOGw2VzQ3SFJrSzVzWFZQU001cV9BQkdYNXZwWHhDaUotSFZwalFBY21xSm1ZektlQ0RJQWt2c2N2VDlqOFA4eHJVMFZoN2pkMGhYVTNzUDJENHIybERLdzh5UHl6VmlMQlBSa3NzRzRGWDFySTkweVpXdTdNNjFYSC0xTDAzRlZjYTJFTlI5bWFOZ1NmSWZXZFhTRUlodWM?oc=5",
+      "source": "데일리안",
+      "published_date": "2026-06-22",
+      "summary": "서울 강남구, 거주자우선주차면 공유 365일 24시간 확대&nbsp;&nbsp;데일리안",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "60d4366c",
+      "title": "강남구, '거주자우선주차면 공유' 내달부터 365일 24시간 운영 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBxUm1mZjJxSWlqTzlWYlRpRFl4QTJ1dHFySFZJclVOVkpQVDJuS1NOQVVqRGc5R3l5b3lKMUV6dTBlRUFIS3J5djZhaUkzUjBxWUNz?oc=5",
+      "source": "네이트",
+      "published_date": "2026-06-22",
+      "summary": "강남구, '거주자우선주차면 공유' 내달부터 365일 24시간 운영&nbsp;&nbsp;네이트",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "d4b6a741",
+      "title": "강남구, '스마트 공유주차' 365일 24시간 확대 운영... 7월 1일부터 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XSHJZTmpHNDI5RXY5WFR6V1JKZU80Q3czemdfQXB4YXQ1aHFxMlJwaXVheVFFZW92WkR5ZkluZHNiTkhaTUJUV3VXV2lza19oanhqNHE2SjA4Y2IwbWlrd0p2MW1aYjQybERyOEp3?oc=5",
+      "source": "gukjenews.com",
+      "published_date": "2026-06-22",
+      "summary": "강남구, '스마트 공유주차' 365일 24시간 확대 운영... 7월 1일부터&nbsp;&nbsp;gukjenews.com",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
     {
       "id": "96e489e0",
       "title": "“건축물 부설주차장 개방 시 시설개선비 지원해 드려요” - 뉴스N제주",
@@ -21,6 +151,66 @@
       "summary": "제주시, 개방주차장 시설개선비 지원…최대 90% 보조&nbsp;&nbsp;제주뉴스",
       "category": "뉴스",
       "collected_date": "2026-06-21"
+    },
+    {
+      "id": "e14a2279",
+      "title": "제주시 “건축물 부설주차장 개방 시 시설개선비 지원해 드려요” - 뉴스라인제주",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xbm16VEcyRWxDR2pXbXBuRGhZY2NiLUJZZVM4Z3ZSRUpFeWJqd3BXWHBLU2xFU0pUYzR3TThzOU1nbkx4V0hZT3BLSE5NU2MwYVlEWkNMX3poV2pEQmIxNEhPU0FQb0VUR0p0UkNiYw?oc=5",
+      "source": "뉴스라인제주",
+      "published_date": "2026-06-21",
+      "summary": "제주시 “건축물 부설주차장 개방 시 시설개선비 지원해 드려요”&nbsp;&nbsp;뉴스라인제주",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "57623c49",
+      "title": "제주시, 개방주차장 지원사업 신청 접수 - 제민일보",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vclNnSGFaSXdCN1g1YkhYSXdrd0dQX3dBM0t0VlJqeGR0V3hOY283NUk3NjduY1NKU2c0WmYyQmlfMVFiNFNfN0M3WHdWWWQybUFMRUdxdjZMRFFFbm4tTEZMLVpyd2c?oc=5",
+      "source": "제민일보",
+      "published_date": "2026-06-21",
+      "summary": "제주시, 개방주차장 지원사업 신청 접수&nbsp;&nbsp;제민일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "35359d37",
+      "title": "건축물 부설주차장 개발 개선비 지원 - 제주매일",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EbE5DR1JlUkJHcnA0bGdqSnJVRTdNX3Y1a2xYUzdDLWxBdTg2eFd1S0VNY3F4RkI0YlBtVmNLN2M5bFptbVZJODhrckEwbmhJT25reXpIMktZckxTNkJZWFozMnpaYWZNVk5yVA?oc=5",
+      "source": "제주매일",
+      "published_date": "2026-06-21",
+      "summary": "건축물 부설주차장 개발 개선비 지원&nbsp;&nbsp;제주매일",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "6145db6e",
+      "title": "제주시 “건축물 부설주차장 개방 시 시설개선비 지원해 드려요” - 지금제주",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iamhGYktLVEhYd0k3UTdQNUN0bFVhSkk3MEdyS1k3b1BJLU9iV1lVb0xKWEJUdGxiVkR0TkVobmNpbE9NcXNzcjZVMnd3OUNVSXBnUGV2SVZTVUpLQUVEcHpBNFNUTjZIZ3FXWTVn?oc=5",
+      "source": "지금제주",
+      "published_date": "2026-06-21",
+      "summary": "제주시 “건축물 부설주차장 개방 시 시설개선비 지원해 드려요”&nbsp;&nbsp;지금제주",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "1c87151f",
+      "title": "대구시, ‘전통시장 주차난·하천둔치 차량 침수’ 스마트 기술로 동시 해결한다 - 한국공공정책신문",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5tLUtjVHAtV2Q3RWNqREFHNUFxcXNjSmpJVlh5dWhxU0ViWURORG9RVkVELXNwcVJUbU1UQ2FBRGMzMlU?oc=5",
+      "source": "한국공공정책신문",
+      "published_date": "2026-06-21",
+      "summary": "대구시, ‘전통시장 주차난·하천둔치 차량 침수’ 스마트 기술로 동시 해결한다&nbsp;&nbsp;한국공공정책신문",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
+    },
+    {
+      "id": "eaa10f76",
+      "title": "대구시, ‘전통시장 주차난·하천둔치 차량 침수’ 스마트 기술로 동시 해결한다 - 뉴스N연합",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBMS3lMVDE2NEczQzVJVTMyRnJTa2hVZzNUY2lGdDE5TFVZTThEWTRldlYxOXFLTHdJYjVPVTdzY09YQ3RpamJGTWxR?oc=5",
+      "source": "뉴스N연합",
+      "published_date": "2026-06-21",
+      "summary": "대구시, ‘전통시장 주차난·하천둔치 차량 침수’ 스마트 기술로 동시 해결한다&nbsp;&nbsp;뉴스N연합",
+      "category": "뉴스",
+      "collected_date": "2026-06-22"
     },
     {
       "id": "ae6f33bf",
