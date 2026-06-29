@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-06-28",
-  "total_count": 357,
+  "last_updated": "2026-06-29",
+  "total_count": 366,
   "articles": [
+    {
+      "id": "892c8cd7",
+      "title": "울산 삼산동 주차난 숨통…‘디자인거리 공영주차장’ 준공 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oMkFPQTRlMjZtWDdLYThQb3pHLW8xeFR3RVp3ZC1ndEtXUDNpckVqa3VXbzFkQnhVd2FyWk43cGFwWWtRMW1EX0J4a0h0V0U?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-06-29",
+      "summary": "울산 삼산동 주차난 숨통…‘디자인거리 공영주차장’ 준공&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
+    },
+    {
+      "id": "e7b84abb",
+      "title": "울산시, 삼산 디자인거리 공영주차장 개장…주차난 해소 - 뉴스핌",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1pUDN0TlhsQ2kwRVhSeXhTMnp6M2t1RGJqY2lUT0diR2c4YzNVZGh4ZkJSZC1VejRnbmhPSmxVVW1mUjA0dzV2bUo0Rjcxa3BCUVdzX2JVbjEzUDRq?oc=5",
+      "source": "뉴스핌",
+      "published_date": "2026-06-29",
+      "summary": "울산시, 삼산 디자인거리 공영주차장 개장…주차난 해소&nbsp;&nbsp;뉴스핌",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
+    },
+    {
+      "id": "aa5f36e7",
+      "title": "\"삼산동 주차난 숨통\" 울산시, 내달 20일 공영주차장 운영 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4tdVZuUzhwUTBNQ0g3S1UtaFprREdOYnRoblZHV2p5NmxvTHZxVndGMGE5RFNWak1aLXBvSkxrX0RKazItczZ6bjFZNXluMm9jOE9ENkpxb1d5eVhFOGZJTUJNOWsyRVNhVVBqT1oxWXR2UlVBempQbNIBeEFVX3lxTE4tdVZuUzhwUTBNQ0g3S1UtaFprREdOYnRoblZHV2p5NmxvTHZxVndGMGE5RFNWak1aLXBvSkxrX0RKazItczZ6bjFZNXluMm9jOE9ENkpxb1d5eVhFOGZJTUJNOWsyRVNhVVBqT1oxWXR2UlVBempQbA?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-06-29",
+      "summary": "\"삼산동 주차난 숨통\" 울산시, 내달 20일 공영주차장 운영&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
+    },
+    {
+      "id": "33501219",
+      "title": "울산 최대 번화가 주차난 숨통 트여.. 471면 공영주차장 7월부터 운영 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HaHhYeUZEREkzOTc0SzRZUjZ1d3lFaUlBZ0JSZUVuQ3pMN3RoVzFKY3BkUGNlcllaOG9DSXF4VmpWanJkbmM1bmQ0enQzdktZY1h5RDRBQmtGUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published_date": "2026-06-29",
+      "summary": "울산 최대 번화가 주차난 숨통 트여.. 471면 공영주차장 7월부터 운영&nbsp;&nbsp;파이낸셜뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
+    },
+    {
+      "id": "6471b7b8",
+      "title": "\"세금 한 푼 안 쓰고 주차난 풀었다\"… 논산시, '예산 제로' 시스템으로 정부혁신 장려상 - ctnews.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YQWIxUXZJenZsRUVybmRBUGV1dE5oV3l3cTNOR2tVR3VwZkFSU09SZ2RKUG5YMFd2NHBfUmYwZ2FjeHRJTmxTdzlHbVJNdXo4dWg4WFQwbm8tWEs5ZW5OUy1lMkc?oc=5",
+      "source": "ctnews.kr",
+      "published_date": "2026-06-29",
+      "summary": "\"세금 한 푼 안 쓰고 주차난 풀었다\"… 논산시, '예산 제로' 시스템으로 정부혁신 장려상&nbsp;&nbsp;ctnews.kr",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
+    },
     {
       "id": "197e6a31",
       "title": "\"공사 직원 특혜가 만든 주차난인데\"…인천공항 상주직원에 '300% 요금폭탄' 논란 - 세종의소리",
@@ -21,6 +71,16 @@
       "summary": "골목 주차난, 김천도 ‘내 집 앞 주차’에서 답을 찾아야 한다&nbsp;&nbsp;밝은미래신문",
       "category": "뉴스",
       "collected_date": "2026-06-28"
+    },
+    {
+      "id": "b200c4da",
+      "title": "보도자료 - 인천광역시청",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTDRtM290TG8xNHRZSXR1aXNUcVVIRnlkZGVCVlVMUDY4U1ZBSFFyOU1uQlViN1h5SmJaQzVoemx4U3JnVmJDeGc4TFNqcGFVeC1rZEc4TnZoZlZFeFdqZE9XWFdsY0JuV183TDVWOHVsWTAyRmdHekVROVNUaGhDWUpJSVlyOU1SSXU4WWZhRHY?oc=5",
+      "source": "인천광역시청",
+      "published_date": "2026-06-27",
+      "summary": "보도자료&nbsp;&nbsp;인천광역시청",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
     },
     {
       "id": "77abc648",
@@ -111,6 +171,16 @@
       "summary": "강기윤 창원시장 당선인, 주차난 해소 본격화… “시민이 체감하는 생활교통 정책 추진”&nbsp;&nbsp;브릿지경제",
       "category": "뉴스",
       "collected_date": "2026-06-27"
+    },
+    {
+      "id": "daa6afc7",
+      "title": "롯데백화점 동래, '주차장 무료 개방' 장준용 구청장의 구민 사랑 - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE94TGV3TU1WcG9aTW5kZmcwM09yMGFKWC0yMHJNeWZUXy1WQzlxLTVrdkNtRUY5WlF1cHo4anRNUzI1bkhtSVZjaEtyTkMzSWgtYnB2aEd0bmlUQi1RVTV5SHZxcTVqNURKUU14ZtIBb0FVX3lxTE5IdTJZZ3I0T29pMmtsbnpRQTJ2OUdxVUE2aHM2MjVQdmhycndvdjE5UWh4UTdsdWM1MjBkZFRyWUl0eWF4amFsREVaOWNzQTMwS3NQWUFGNVJQTW9peXBScXhnX2JBWWIzdnNQWDJ5WQ?oc=5",
+      "source": "한스경제",
+      "published_date": "2026-06-26",
+      "summary": "롯데백화점 동래, '주차장 무료 개방' 장준용 구청장의 구민 사랑&nbsp;&nbsp;한스경제",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
     },
     {
       "id": "7f3dac88",
@@ -281,6 +351,16 @@
       "summary": "구례읍 주차난 풀릴까…구례군수직 인수위, 군민광장 전환 등 검토&nbsp;&nbsp;베타뉴스",
       "category": "뉴스",
       "collected_date": "2026-06-25"
+    },
+    {
+      "id": "0e7e8687",
+      "title": "성동, 비어 있는 주택 주차 공간 공유로 주차난 해소 - 서울일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95a1lxbmxESk5RQXlMVjNxMEZJT1NoRmZGcTk2cjMtS2xhNmNfS1F0WDBQOTg2eXFsbV92Y2p5TDJ4eWV2S1ZTYlNjc3ZwRW1IQkIyb2NvMVo3dlN4QjgxRE5kMDllZHc4MEhv?oc=5",
+      "source": "서울일보",
+      "published_date": "2026-06-24",
+      "summary": "성동, 비어 있는 주택 주차 공간 공유로 주차난 해소&nbsp;&nbsp;서울일보",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
     },
     {
       "id": "1a58f1da",
@@ -1041,6 +1121,16 @@
       "summary": "중구, 남산오렌지카운티 부설주차장 10면 민간 개방 - 머니투데이&nbsp;&nbsp;머니투데이",
       "category": "뉴스",
       "collected_date": "2026-06-23"
+    },
+    {
+      "id": "92c9472b",
+      "title": "강남구 개발 앞둔 ‘빈땅’ 주차장으로 활용 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54eU1iQXdpQ2ZSYU9GeTJUekFRdW5rdXhiSTlGY051MmNWa25XQktzTVBNQW9DRWRtLV96elhlZ2c0VWFsQXRKMnI2YmFMMW5IZVNaeGFKZlY1ak1wOXE5TW9vOTZ0RjhMQXVfcURBWEVuYTg?oc=5",
+      "source": "대한경제",
+      "published_date": "2026-06-16",
+      "summary": "강남구 개발 앞둔 ‘빈땅’ 주차장으로 활용&nbsp;&nbsp;대한경제",
+      "category": "뉴스",
+      "collected_date": "2026-06-29"
     },
     {
       "id": "d24868e7",
