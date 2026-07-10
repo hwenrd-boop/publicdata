@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-07-09",
-  "total_count": 423,
+  "last_updated": "2026-07-10",
+  "total_count": 433,
   "articles": [
+    {
+      "id": "f28fcf69",
+      "title": "[기획] 주차장도 이제 공유시대... “시설관리부터 수익까지” - 성동저널",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoM0ljdU1XLXdtSkJ0VFd3Qkw0dFJHd3V6eXpXVDBobkZKb1hRUU1rR1BpelA2c0phUnNvb3c3WmVkMUpVeEo1WHNJLW5CRU14YWRQU1ZtRFgzcWdCdzdNU29qZno5MjNJOXNqZXlyQlE?oc=5",
+      "source": "성동저널",
+      "published_date": "2026-07-10",
+      "summary": "[기획] 주차장도 이제 공유시대... “시설관리부터 수익까지”&nbsp;&nbsp;성동저널",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "54c10685",
+      "title": "시흥시, 큰솔공원 공영주차장 조성 완료…주차난 해소·공원 환경 개선 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJZGlZTUNNT0NCRjNMM0RRYVEwSHBBaS1SQlhMR1JiMDBKcWU0M2J1Z0o1NzN0QmdvS3RrdDNLaXBURkUwLWVHVFRfd0xkVC1fZWtWdFprRk1GOTQ?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-07-10",
+      "summary": "시흥시, 큰솔공원 공영주차장 조성 완료…주차난 해소·공원 환경 개선&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "9797a56a",
+      "title": "논산시, 반월동 공영주차장 조성 마무리 도심 주차난 해소 기대 - 굿뉴스365",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BcWFjRGRFeVBRZnJQeDVpWG5jMmRuOE5tS3R0VS1sOEIxSndOalMtaVZ1MnRseG5PSFFWTUtya1hVN2tGcXlEY1VnQmUyX1lvNlNkUU1ydjJFT0RoaThxUWpwY0RsZ2xiMUg1Y0VtZ3htd1lDdFE?oc=5",
+      "source": "굿뉴스365",
+      "published_date": "2026-07-10",
+      "summary": "논산시, 반월동 공영주차장 조성 마무리 도심 주차난 해소 기대&nbsp;&nbsp;굿뉴스365",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "7a132d45",
+      "title": "정왕동 주차난 숨통…시흥시, 큰솔공원 공영주차장 조성 - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwYklMUkM5VGhfY1lnMHpMVzJhcDc0dWZLYnQyNEE0U3RzRnhRVzNUMkRrZnI2QzQ1YU9ucXh4c0RRQUxmQ2lnMVVBM3NpZkZDOUo0Z21ndmJvV1AydGdGWUhtUWZqR0k?oc=5",
+      "source": "팍스경제TV",
+      "published_date": "2026-07-10",
+      "summary": "정왕동 주차난 숨통…시흥시, 큰솔공원 공영주차장 조성&nbsp;&nbsp;팍스경제TV",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "8a055bd1",
+      "title": "시흥시, 큰솔공원 공영주차장 조성 완료…정왕동 주차난 경감 기대 - 프레시안",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VRUVFbFFWM2Z2TTE5TnlpZjFqV1hxaEo4V2pLV1UyZk5wWlpab1JWS0IwMkozVV9JY1RJaEE2TFF6MGFzSVA2ekoyUTBIU2pSS1JZN0dRVlNrQnpIajU2SV8zeDB2WktqR1JV?oc=5",
+      "source": "프레시안",
+      "published_date": "2026-07-10",
+      "summary": "시흥시, 큰솔공원 공영주차장 조성 완료…정왕동 주차난 경감 기대&nbsp;&nbsp;프레시안",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "cdb5664c",
+      "title": "시흥 정왕동 주차난 숨통…큰솔공원 96면 주차장 문 열어 - 현대일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4yaUZadEFIdHJ4RmhxMnU2SXNZOEJaOURXWVdMdjNqVG05dkJ1U2F3MFlFWGIxTm53Wm9FTXhBTGw4TU9OdjZTTy1xZzFxVF9RenBIU3NmR3ZidjQxRlVWVndiRjRJWkotZjk5UE13?oc=5",
+      "source": "현대일보",
+      "published_date": "2026-07-10",
+      "summary": "시흥 정왕동 주차난 숨통…큰솔공원 96면 주차장 문 열어&nbsp;&nbsp;현대일보",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "c3e75a11",
+      "title": "시흥시, 큰솔공원 공영주차장 조성 완료…정왕동 주차난 해소 기대 - 월드장애인사랑뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NQ2docktGWXpvSmFuSFdpQVAxVXFTb3dOTjJlRmNhME8tQW5JOVdKbndfOUJDODVuZE1SMTk0TEFwLUxCRmpuRmI0Ym5IZ3JnblhzRFRROEMtbEZnTzVfQ254LXJkaVg1ekFKWHowUQ?oc=5",
+      "source": "월드장애인사랑뉴스",
+      "published_date": "2026-07-10",
+      "summary": "시흥시, 큰솔공원 공영주차장 조성 완료…정왕동 주차난 해소 기대&nbsp;&nbsp;월드장애인사랑뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
+    {
+      "id": "dcf35aa5",
+      "title": "시흥시, 정왕동 큰솔공원 공영주차장 완공…주차난 해소 기대 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ocUk4Vlp5dE1DVDUxRTE1ZzJnUmRyQWZJVk9HQzk0R0k1d19NaTFXX3pHNWxFdDMxdDJHTXEzRUFWbDhJMkE1bW9HNGxISUpjUWVxUHhNMjhjSHNMdW5XeFg2NG05RGQzV1BIWjlB?oc=5",
+      "source": "gukjenews.com",
+      "published_date": "2026-07-10",
+      "summary": "시흥시, 정왕동 큰솔공원 공영주차장 완공…주차난 해소 기대&nbsp;&nbsp;gukjenews.com",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
+    },
     {
       "id": "589af456",
       "title": "하이파킹, 고양시 9개 도서관 주차난 해결…1시간 내 출차율 84% - 뉴스탭",
@@ -21,6 +101,16 @@
       "summary": "휴맥스모빌리티 하이파킹, 고양시 도서관 주차난 렌탈형 관제로 해소&nbsp;&nbsp;이데일리",
       "category": "뉴스",
       "collected_date": "2026-07-09"
+    },
+    {
+      "id": "1eb36729",
+      "title": "만성 주차난 울릉군, 구 학생체육관 터 임시주차장으로 ‘숨통’ - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVUTRONzRkaXI1WmcyRm1oS0owYkRSSEVFOGQ1NkVfOTNpUm1vLUo1end5Wkd3VGt2c2JWXzhiZUVsaGRralBRZHoxSlBEUEE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-07-09",
+      "summary": "만성 주차난 울릉군, 구 학생체육관 터 임시주차장으로 ‘숨통’&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
     },
     {
       "id": "0cee79fe",
@@ -101,6 +191,16 @@
       "summary": "성남시, 농수산물유통센터 주차장에 제설차량기지를? 환경·주차난 등 논란&nbsp;&nbsp;글로벌이코노믹",
       "category": "뉴스",
       "collected_date": "2026-07-09"
+    },
+    {
+      "id": "98dfb08c",
+      "title": "정왕4동, 학교·아파트 손잡고 공유주차장 운영 나서 - 핸드메이커",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FSEtrblJqd0d5YXJGeEluX29wOFNTZlctRWtqMHMtMzk0WnpfUHRjdUpJZEx1bU5XeUN0NHd2VnBrRWw3V2ZGMGdGVFp2dmYyQ0hlV1lULU1ON3BtZndZYlNKMWRZeGfSAWtBVV95cUxQQVpZNEllNmRHaVl2M1JXMFhiTjlGQnFHSHEtWGdHVEVwWVBOM0g0ZU53bWtUWXoySDc4bkVUVnNIYVpvQWFtS1hIU1pLWWJENEpkeFVrdzRXdWdzTUMyeG9STE1QWWJRY09idw?oc=5",
+      "source": "핸드메이커",
+      "published_date": "2026-07-08",
+      "summary": "정왕4동, 학교·아파트 손잡고 공유주차장 운영 나서&nbsp;&nbsp;핸드메이커",
+      "category": "뉴스",
+      "collected_date": "2026-07-10"
     },
     {
       "id": "f2bd025f",
