@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-07-16",
-  "total_count": 469,
+  "last_updated": "2026-07-17",
+  "total_count": 476,
   "articles": [
+    {
+      "id": "164aa14a",
+      "title": "창원특례시의회, 민간 부설주차장 공공개방 지원 확대 촉구 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16cHRtaXJRRXQ5OHdpN1ZkVGE0REhGdnpMa3VOVllraTlTRTJLUVpod0x6RDZDaTd6cGoybHNiNUdJRWtwM0x1bFV1bHpfeGlVZVJ6ZkR6QThHUFQ5RHpCXzZPSm12NGFCc0RWdExyQXNpUQ?oc=5",
+      "source": "웹이코노미",
+      "published_date": "2026-07-16",
+      "summary": "창원특례시의회, 민간 부설주차장 공공개방 지원 확대 촉구&nbsp;&nbsp;웹이코노미",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
+    },
+    {
+      "id": "77e0f5d6",
+      "title": "창원특례시의회 제154회 임시회 전홍표 의원 건의안 채택 - 시사일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBwNzRQRjBmSmZyRU4yOTNfSTFkM0YtcFdrcWZXdUtzTjJBV2hEd1FZR21NVU4xMkRoMjh0UDRjQmdXVG5EaF9nd0Z5VEQ?oc=5",
+      "source": "시사일보",
+      "published_date": "2026-07-16",
+      "summary": "창원특례시의회 제154회 임시회 전홍표 의원 건의안 채택&nbsp;&nbsp;시사일보",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
+    },
+    {
+      "id": "947c0aa5",
+      "title": "성남시의회 도시건설위, 복정정수장 임시주차장 개장…\"주차난 해소 기대\" - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82WmpabkdHZTZWUGtFVm4tWUR4MlhJRUhYUlM1R3U0c0pVSXVsdGp5RFRmVkZTbXhkUjVsbFZBSmFVNTlqMHpsZTI4V3NXWWxocXlHWkpXZjZiLVRwOXp2NQ?oc=5",
+      "source": "아시아경제",
+      "published_date": "2026-07-16",
+      "summary": "성남시의회 도시건설위, 복정정수장 임시주차장 개장…\"주차난 해소 기대\"&nbsp;&nbsp;아시아경제",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
+    },
+    {
+      "id": "7cb1956f",
+      "title": "연제구, 주택가 주차난 해소 위한 ‘내집마당 주차장 지원사업’ 시행 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2FNSmpSaHR1bWJLLUFRSk1kUnBsSnNtME1hSF9LVEpBWjJTLVkxMmYxQ1J6cEQwM0NMVVJ2c3dtdU9naFQ4bE9sTGY2eEpwZXMyU2lxMUZmUHJHc1ZONHBCeU55T0V1OEhfNXJwZW1Ud1g5b3hLNVQtNkxPdHkyRDdlNlAyNzdNYTJzU1A5Mm5WblE?oc=5",
+      "source": "국제신문",
+      "published_date": "2026-07-16",
+      "summary": "연제구, 주택가 주차난 해소 위한 ‘내집마당 주차장 지원사업’ 시행&nbsp;&nbsp;국제신문",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
+    },
+    {
+      "id": "aeee3ea9",
+      "title": "연제구, 주택가 주차난 해소를 위한 내집마당 주차장 지원사업 시행 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mcDF2QWZHYlNxdTN2cGV6YmVtcXhFS3BXMEJoR3lBcXRkMnVCMlg3UmdSbGZQQTktanE5ZVRyMkk4cWhfTUp3OUd3N0lYUFpQZWh1bXZFdzRIQTJnZ2h1UW1XdXUtcGNPMTFGSVB6WW0?oc=5",
+      "source": "더코리아",
+      "published_date": "2026-07-16",
+      "summary": "연제구, 주택가 주차난 해소를 위한 내집마당 주차장 지원사업 시행 > 뉴스&nbsp;&nbsp;더코리아",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
+    },
+    {
+      "id": "8a7abdf8",
+      "title": "연제구, 주택가 주차난 해소 위한 '내집마당 주차장 지원사업' 시행 - 경남도민뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uNVF6YVJITkFyRW9HeEJXR3p4TkZXNUtVdmxTdUtqNzFDTjJLRlRXTHg5bWdGdkxCQUY1U3NxZXlVVy1McHFTYlBkVUJscl8zWl9pcWU4VWRkODZTN05kcHBzYw?oc=5",
+      "source": "경남도민뉴스",
+      "published_date": "2026-07-16",
+      "summary": "연제구, 주택가 주차난 해소 위한 '내집마당 주차장 지원사업' 시행&nbsp;&nbsp;경남도민뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
+    },
     {
       "id": "743a842e",
       "title": "청석 공영주차장 정식개방… 동작구 상도동 주차난 해소 - 문화일보",
@@ -161,6 +221,16 @@
       "summary": "청석공영주차장 61면 정식 개방…상도동 주차난 해소&nbsp;&nbsp;동작신문",
       "category": "뉴스",
       "collected_date": "2026-07-16"
+    },
+    {
+      "id": "8dcf1aea",
+      "title": "“이러니 자리가 없지”…충북도의회 이유 있는 주차난 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1zanY4S3BGdm00UkpFUk5fMDF6WlF0dmlVUkZyUzRwZ1JHM0tGUGgxZWQ5Q1k0OEh3RFdJYzY4QnhjTGowTmtaeGUxOXlpUWc?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-07-15",
+      "summary": "“이러니 자리가 없지”…충북도의회 이유 있는 주차난&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-07-17"
     },
     {
       "id": "7f69b5a3",
