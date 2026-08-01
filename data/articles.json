@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-31",
-  "total_count": 556,
+  "last_updated": "2026-08-01",
+  "total_count": 565,
   "articles": [
+    {
+      "id": "e1736c07",
+      "title": "평택시, 주차난 해소 4대 전략 추진… 스마트 주차도시 구축 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMRTJNZFNLT095ZG5TSGxlTkFpbExwTkhGN2lmdmR6aHNOSkx5S2ZaMDRQLWtOWW1NY1hfNWVxQTNmelRobUppbThVaGNsZkc0bGhMTktBcmZUSFg4dXJZYUptR3dIZnBtOUE?oc=5",
+      "source": "천지일보",
+      "published_date": "2026-08-01",
+      "summary": "평택시, 주차난 해소 4대 전략 추진… 스마트 주차도시 구축&nbsp;&nbsp;천지일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
+      "id": "2025db61",
+      "title": "김천 연화지 벚꽃철 주차난, 삼락동 도량 복개에서 해법 찾아야 - 밝은미래신문",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlMVRxQmpTZXB5RmRiZ1lrMEttMGNrX3pmQzRDV0pVaDc0Tko3ZGIwRUdnTUZ3NmRQUTl6am5SU0RPU1ZBaTRuLWZyWkQtTnhFbWdvNmk2eUtSN2QweFFIOTZGSEVVckhqb1E?oc=5",
+      "source": "밝은미래신문",
+      "published_date": "2026-08-01",
+      "summary": "김천 연화지 벚꽃철 주차난, 삼락동 도량 복개에서 해법 찾아야&nbsp;&nbsp;밝은미래신문",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
     {
       "id": "a53e804f",
       "title": "안산시, 공유형 이동수단(모빌리티) 주차질서 확립 나선다 - 경기탑뉴스",
@@ -123,6 +143,66 @@
       "collected_date": "2026-07-31"
     },
     {
+      "id": "2d0ca249",
+      "title": "서구, 밤 시간대 비어있는 민간주차장 공유로 주차문제 해결 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9MR0dPUlRWM01vM3A2RTBXMW1VM1F5bEFmalZPX1E1SE1udU1IRk9WN3Y5T0J6M1RhYnl6TmhZalh2Tmha?oc=5",
+      "source": "경북매일",
+      "published_date": "2026-07-31",
+      "summary": "서구, 밤 시간대 비어있는 민간주차장 공유로 주차문제 해결&nbsp;&nbsp;경북매일",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
+      "id": "212e7dcf",
+      "title": "안산시, 공유형 이동수단 주차질서 확립 나선다 - 경기시사투데이",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Tb0lsQmxMSVpkWG9XOGxUaHFQekNvQm5YUVcyamI5VWo0cnFfejhhVVdwV2d4dldXTlZ5ekFoVU1jZlFMa1lOTS1wWEQwQThSS0poX1pXckc1dWlzczl0eDJFNUliQmlu?oc=5",
+      "source": "경기시사투데이",
+      "published_date": "2026-07-31",
+      "summary": "안산시, 공유형 이동수단 주차질서 확립 나선다&nbsp;&nbsp;경기시사투데이",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
+      "id": "f7851f35",
+      "title": "라팍 주차난 숨통 트이나…법원 주차장 시민 개방 협의 - tbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORG1MTkZVTnRvTTk4ZTNxcFFfUGNGVFljTS1VSmQ2UmMzZEZGTklLMWJUcUlmRlVkNF9GcGdiTjFXNEZzWEVFWF9NR3EzN2dHQ0gtWHgzbWNfRHNNU3hibmhDYnZCSm5qaVBVaFZ2MzI5WXVtY3BkZnNWempqSmpIVw?oc=5",
+      "source": "tbc.co.kr",
+      "published_date": "2026-07-31",
+      "summary": "라팍 주차난 숨통 트이나…법원 주차장 시민 개방 협의&nbsp;&nbsp;tbc.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
+      "id": "22cd7225",
+      "title": "성남시 율동공원 주차난 획기적 개선 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VSXlpSlZxOGJJUGVkN0VYMXNrVWRIRERuTXNZR3B5Rlh3Mm44X09GUnJmbjJBbnNwcTdNXzNxX1ZPUzhRTkFmMElEaWJIZEhjdkJ6WnJ2aElNSk10Ty0zTXVOOWZpNlhaYk9iU1RqM0E?oc=5",
+      "source": "인천일보",
+      "published_date": "2026-07-31",
+      "summary": "성남시 율동공원 주차난 획기적 개선&nbsp;&nbsp;인천일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
+      "id": "db2d2a8c",
+      "title": "전문학 서구청장, 관저동 주차난 해소 속도…20면 노상주차장 점검 - timenews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wcmR1ZnZNX2R0VHVUeDNBLVNhbS1GRDNpbU1RWnloTUdTWFFJWnF6NEc2Q29fdVdadksyQV9nQ3M3T01ac3AzYjQ2SndLYU0wTHd2Zw?oc=5",
+      "source": "timenews.co.kr",
+      "published_date": "2026-07-31",
+      "summary": "전문학 서구청장, 관저동 주차난 해소 속도…20면 노상주차장 점검&nbsp;&nbsp;timenews.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
+      "id": "d03cac85",
+      "title": "주차난 삼산·달동 공공도로 곳곳 ‘사유화’ 마찰 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5RTUVaZzNzd1ZBYlk5X041Y25idEhQQ25MR1dVNmRSZnVVaGpzeVVPQVhyZkFWcHlzZkVuNlJRM0RqdFVjWnc?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-07-31",
+      "summary": "주차난 삼산·달동 공공도로 곳곳 ‘사유화’ 마찰&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
+    },
+    {
       "id": "d6f13e46",
       "title": "수원특례시의회 김은수 의원, \"북수원 발전, 주차난 해결과 시장 현대화부터\" - 메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkaGRybUhOZXRQcnp3eWt6SU9SRlB4VHpjMENsS0pLZERSSEEwcHpyYUIzdXlFaUpkVzB0S19UdkU3dkRBU1R0dDhrbXFzbzhnZVMwb1VEN0UtZkxuNmRwSw?oc=5",
@@ -161,6 +241,16 @@
       "summary": "최진열 경주시의회 의원 \"성건동·황오동 주차난 해소해야\"&nbsp;&nbsp;경상투데이",
       "category": "뉴스",
       "collected_date": "2026-07-31"
+    },
+    {
+      "id": "e7551141",
+      "title": "고성군, CGV고성 부설주차장 야간 무료 개방 본격 시행 - 경남뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JN0JGRm1DR3dyTEp5c3dMR2o0TFkyQWw2enJuX0J3Y1NYcG5OT3dZbzdhN1R6djZIV29JSms3c0xudm14QVdvaGs5QlpJdlRnYW1SSXk2Q0J4VERzZkxialJUeDF2TXZ00gFoQVVfeXFMTUk3QkZGbUNHd3JMSnlzd0xHajRMWTJBbDZ6cm5fQndjU1hwbk5Pd1lvN2E3VHp2NkhXb0lKazdzTG52bXhBV29oazlCWkl2VGdhbVJJeTZDQnhURHNmTGJqUlR4MXZNdnQ?oc=5",
+      "source": "경남뉴스통신",
+      "published_date": "2026-07-30",
+      "summary": "고성군, CGV고성 부설주차장 야간 무료 개방 본격 시행&nbsp;&nbsp;경남뉴스통신",
+      "category": "뉴스",
+      "collected_date": "2026-08-01"
     },
     {
       "id": "0654a2b1",
