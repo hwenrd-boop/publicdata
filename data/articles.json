@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-08-01",
-  "total_count": 565,
+  "last_updated": "2026-08-02",
+  "total_count": 572,
   "articles": [
+    {
+      "id": "dd4ca943",
+      "title": "안산시, 공유형 이동수단 주차질서 확립 나서 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yUFpkVkRIcUdzQlIyZW45T1VuTlUzb3ZiTTE3dVpRT1JFcUI3M3o4bnpUcGVJMDNvQU5sTWwybkgtZkR3N1FLTnZzemJRbDBQV3FPTWw3VE9XR3ZXaWd3LVR5d2M4MTVBcmxfbk1WLTc?oc=5",
+      "source": "더코리아",
+      "published_date": "2026-08-02",
+      "summary": "안산시, 공유형 이동수단 주차질서 확립 나서 > 뉴스&nbsp;&nbsp;더코리아",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
+    },
+    {
+      "id": "54b70830",
+      "title": "대전 서구, 관저동 주차난 해소…노상주차장 운영 점검 - 투데이충남",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tU0gwUmljT2lGVlU1THItbUk1bmVtSjZFbzVpa0hmeXJ1LTQ2Y3VMaEhPZ3lIZ2dQUTRVci10Q1MtWjl6aVlvd3ZMVzIwdTRYb1l3bXBZUFFBRzBEblVyQk5yTElVN19SZnpEZF9aR3Ytdw?oc=5",
+      "source": "투데이충남",
+      "published_date": "2026-08-02",
+      "summary": "대전 서구, 관저동 주차난 해소…노상주차장 운영 점검&nbsp;&nbsp;투데이충남",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
+    },
     {
       "id": "e1736c07",
       "title": "평택시, 주차난 해소 4대 전략 추진… 스마트 주차도시 구축 - 천지일보",
@@ -21,6 +41,16 @@
       "summary": "김천 연화지 벚꽃철 주차난, 삼락동 도량 복개에서 해법 찾아야&nbsp;&nbsp;밝은미래신문",
       "category": "뉴스",
       "collected_date": "2026-08-01"
+    },
+    {
+      "id": "9b1a4cf1",
+      "title": "경주시의회 최진열 의원 “황오·성건·황성동 주차난, 근본 대책 시급” - 경주신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PeUVVMzUxUzFFUFJoZ3hJMkh3STUwaHVwNHJnYkRHZGZuRXFKVmg1NkRxNmhZSGE5R2ZNUF9kMnVWZDQwMmwxUzg2T0YzU1MyQjRnUVNRUkU1dw?oc=5",
+      "source": "경주신문",
+      "published_date": "2026-08-01",
+      "summary": "경주시의회 최진열 의원 “황오·성건·황성동 주차난, 근본 대책 시급”&nbsp;&nbsp;경주신문",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
     },
     {
       "id": "a53e804f",
@@ -203,6 +233,36 @@
       "collected_date": "2026-08-01"
     },
     {
+      "id": "7ca89770",
+      "title": "율동공원 주차난 숨통 트인다…C주차장 208면 31일 개장 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LTjZ6ek1HcXJLNklkenhjSFNSTjRHOV9GSURoX0s5MzlRMFNWTlU3bjNEZEdZc0lKb3g2eXZDY3pWTXh1OUROMVhacXk4cTQ?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-07-31",
+      "summary": "율동공원 주차난 숨통 트인다…C주차장 208면 31일 개장&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
+    },
+    {
+      "id": "7ea6ec1d",
+      "title": "신상진 \"주차난 해소·상권 활성화 기대\"…율동공원 C주차장 개장 - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yQjhpeU1DVEY5SWJHN1hzRWhrSmNCMmgyNHNiaG94X01uOXp5alN1NmVTSURFMWozcnhIVGwxcEVfalFkVnMzbElKbk11c2Jvc3Z0VG5kblpVVlIyY09mUw?oc=5",
+      "source": "아시아경제",
+      "published_date": "2026-07-31",
+      "summary": "신상진 \"주차난 해소·상권 활성화 기대\"…율동공원 C주차장 개장&nbsp;&nbsp;아시아경제",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
+    },
+    {
+      "id": "04cb2b42",
+      "title": "노인·장애인복지관 주차난 심각 - wonjutoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bHRxdFVmeW81Ny13eHUxYUFzeUVldjBJS2w3dnY1Nmk2LWtnSXNucjdsTUtLQ0RERVZBNVJLMFFIeGJxS0I2TDZ3VHRXVXA1QkVpbXJ2Skg3UWpJTWhBUk9Zc2NWSXZfR09fV2FHZw?oc=5",
+      "source": "wonjutoday.co.kr",
+      "published_date": "2026-07-31",
+      "summary": "노인·장애인복지관 주차난 심각&nbsp;&nbsp;wonjutoday.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
+    },
+    {
       "id": "d6f13e46",
       "title": "수원특례시의회 김은수 의원, \"북수원 발전, 주차난 해결과 시장 현대화부터\" - 메트로신문",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkaGRybUhOZXRQcnp3eWt6SU9SRlB4VHpjMENsS0pLZERSSEEwcHpyYUIzdXlFaUpkVzB0S19UdkU3dkRBU1R0dDhrbXFzbzhnZVMwb1VEN0UtZkxuNmRwSw?oc=5",
@@ -351,6 +411,16 @@
       "summary": "수원시, 북수원 발전 '철저히 외면'…교통과 주차난 '심각'&nbsp;&nbsp;gmtoday.co.kr",
       "category": "뉴스",
       "collected_date": "2026-07-30"
+    },
+    {
+      "id": "2388d7bc",
+      "title": "김은수 수원시의원, “KT위즈파크 주차난·북수원시장 현대화 해야” - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UYWVCcUhVVHNpWUV3SzRJd1RzXy1DSUJoTm9JbU1Va3NVdEZnS002SEp0ajF2Sk1iSnJKd05qLTBCLWxSemV0alNHQW5XOHdTem9IbGx1VWNOZmM?oc=5",
+      "source": "경기일보",
+      "published_date": "2026-07-29",
+      "summary": "김은수 수원시의원, “KT위즈파크 주차난·북수원시장 현대화 해야”&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-02"
     },
     {
       "id": "7be8d6d2",
