@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-08-02",
-  "total_count": 572,
+  "last_updated": "2026-08-03",
+  "total_count": 581,
   "articles": [
+    {
+      "id": "10ca7447",
+      "title": "원주역 후문 개방..주차난 해소 기대 - G1방송",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42UXdBNkR0NHlaSmJCV2xPaTk0RHIwWkNvU2ttTWxZLTNjemFGanV1WUVXNDNGTFFicDY3TWs4NGZYWGxzTmtPcjVENHhQQUR1NkJpOWJXMFdaeVNhY25vTFZSTzA?oc=5",
+      "source": "G1방송",
+      "published_date": "2026-08-03",
+      "summary": "원주역 후문 개방..주차난 해소 기대&nbsp;&nbsp;G1방송",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
+    },
+    {
+      "id": "541050dc",
+      "title": "개장 한달…디자인거리 주차장 주차난 여전 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mMGk2ZlZIMG1jcERXQ1V4aWg2Q21PQUFqZFBwMVZ4ZVpqTEUwZzJZRjZVQnVpUGFZbzhabVZVZnZsZWlzQnVvM1N6V2dUbGc?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-08-03",
+      "summary": "개장 한달…디자인거리 주차장 주차난 여전&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
+    },
+    {
+      "id": "fbb93eb6",
+      "title": "성남 율동공원 주차난 숨통…C주차장 개장으로 총 914면 확보 - 세계일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5FTkN6QmUtdGVqOW13RW1YcWlWbHNFTDkzd3B6QzJpZlpoVlNTY2dUZ0hLTktSZ1VsbnVjZk9vcUdSTVJLODlTWDl0ZG9QNzhq?oc=5",
+      "source": "세계일보",
+      "published_date": "2026-08-03",
+      "summary": "성남 율동공원 주차난 숨통…C주차장 개장으로 총 914면 확보&nbsp;&nbsp;세계일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
+    },
+    {
+      "id": "b547eba8",
+      "title": "\"주차난에 손님 끊긴다\"…정현미 경기도의원, 금곡상점가 살릴 해법 찾기 나서 - 선데이뉴스신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1USnRVWlByUm9rTzUwQmpGUWRkLVpkUHpKeHpPZ3g3cEpPemdoRi1vWW1oZjBaSHJHSm1uUXVIUWZQbkFGM1hqNHQ2SGJiRF9nT1Z6QzhJNUtFbEU?oc=5",
+      "source": "선데이뉴스신문",
+      "published_date": "2026-08-03",
+      "summary": "\"주차난에 손님 끊긴다\"…정현미 경기도의원, 금곡상점가 살릴 해법 찾기 나서&nbsp;&nbsp;선데이뉴스신문",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
+    },
     {
       "id": "dd4ca943",
       "title": "안산시, 공유형 이동수단 주차질서 확립 나서 > 뉴스 - 더코리아",
@@ -21,6 +61,26 @@
       "summary": "대전 서구, 관저동 주차난 해소…노상주차장 운영 점검&nbsp;&nbsp;투데이충남",
       "category": "뉴스",
       "collected_date": "2026-08-02"
+    },
+    {
+      "id": "d3409612",
+      "title": "최진열 경주시의원 “폐철도 활용해 도심 주차난 해결해야” - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Eb1l2UEc3U1ZTbzlnT0lTX3FZSlp1RGhkZmtsOThLeXh5TjlHd0plX3VFNGtneU5haWE2dHNQYlJ1cm1QT013dVh5a0EyU0k4OUFES1ZkU2xCanlWbjNSWTI3Z05obDd5emhwWjJ4NA?oc=5",
+      "source": "kyongbuk.co.kr",
+      "published_date": "2026-08-02",
+      "summary": "최진열 경주시의원 “폐철도 활용해 도심 주차난 해결해야”&nbsp;&nbsp;kyongbuk.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
+    },
+    {
+      "id": "e8dbbe58",
+      "title": "평택시, 민선 9기 ‘주차난 해소’ 시동…실태조사·스마트 기술 총동원 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5yYjMyRFFLQklJV0l2QXk1a3Nid25yNFRpMEpSUFh0Z0xUN21DUFhxLXZmdVk4RHBOZ2pjQkY4bjA3Z3JHc0pYNFVSTXk0YXlFUl9MMTNVTVRLYkU?oc=5",
+      "source": "경기일보",
+      "published_date": "2026-08-02",
+      "summary": "평택시, 민선 9기 ‘주차난 해소’ 시동…실태조사·스마트 기술 총동원&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
     },
     {
       "id": "e1736c07",
@@ -261,6 +321,16 @@
       "summary": "노인·장애인복지관 주차난 심각&nbsp;&nbsp;wonjutoday.co.kr",
       "category": "뉴스",
       "collected_date": "2026-08-02"
+    },
+    {
+      "id": "23e825d4",
+      "title": "안산시, 공유형 이동수단(모빌리티) 주차질서 확립 나선다 - 리버럴미디어",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mb040UzE2M0VPZi1vUkhlb1VvbWNjZzFGTDNFT3ptSGZ2dlFzaWF1QTRieExQT1RVMnRWbjloYTNfYVYxRGJQZ1MxNDc0elZvZEZ2VDZGWDQ3Ml81Vk1ETUh5Zm4?oc=5",
+      "source": "리버럴미디어",
+      "published_date": "2026-07-31",
+      "summary": "안산시, 공유형 이동수단(모빌리티) 주차질서 확립 나선다&nbsp;&nbsp;리버럴미디어",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
     },
     {
       "id": "d6f13e46",
@@ -4723,6 +4793,16 @@
       "collected_date": "2026-05-21"
     },
     {
+      "id": "a3196f4c",
+      "title": "[성남소식]도촌동 공유주차장 야간 무료 개방 등 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKU0RBSHF2dUlEbGVONWVOYWhORlpKaDNEdURBb3IwbGZrQ1VSN3ByRWpQWFVNY004UU5OMFJZTWY3QXAtSXhobmNmY0NfZHJ5TDk4RVZnMlhKeFpnSFVtcw?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-05-18",
+      "summary": "[성남소식]도촌동 공유주차장 야간 무료 개방 등&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
+    },
+    {
       "id": "473f227a",
       "title": "인천공항의 뻔뻔한 ‘남 탓’···통행료 싸고 버스요금 비싸서 주차난? - 경향신문",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQk8yQ2JONXdvejFuRHIzb0d1UnFXWmRLRW5JZ1I5cHpXLXdOY2pUdnBNeF9oYXJ0TEl4b1BnVF9QTWxlcXdGSnJwVVhIeXFudlh1VzE1aG5Md9IBX0FVX3lxTE5wUnNicHd0NUJTS3hpbEM1YnpUSm1sNXgxR0IzM0dPT3A4Z0tTLWpwTFlZUzg1V1hkdlFKcm1GM0JFbGVfdUdOdnRNR3A2Z3lfdVZFdUJNRmxfNXNxYjJN?oc=5",
@@ -5095,6 +5175,16 @@
       "summary": "경기도의회, 화성 신리천 인근 배드민턴장, 주차난 심각…주민·체육계 “대책 시급”:경인투데이뉴스&nbsp;&nbsp;경인투데이뉴스",
       "category": "뉴스",
       "collected_date": "2026-06-04"
+    },
+    {
+      "id": "26862ef0",
+      "title": "경기도의회, 화성 신리천 인근 배드민턴장, 주차난 심각…주민·체육계 “대책 시급”:경인투데이뉴스 - 경인투데이뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1DLWJNUDVvWjJqVWRONVNwdjFxNjNVNGRfbzB5TXRxRDl1dm9SZG5LRVRhb1RJU3RkUWdmYzNMcy10bU3SAV9BVV95cUxQSXpxSHhTUDlRejZTQTlYaEpCWkFnZERvV25QUUVUU0RCbldObkR4M0VBNFdzWEgxQjBVX3hHNnd6ZFFONlJ5WmN4dFJiMC1ZSmFqb1hUTjdYQ1YxZFRFWQ?oc=5",
+      "source": "경인투데이뉴스",
+      "published_date": "2026-04-10",
+      "summary": "경기도의회, 화성 신리천 인근 배드민턴장, 주차난 심각…주민·체육계 “대책 시급”:경인투데이뉴스&nbsp;&nbsp;경인투데이뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-08-03"
     },
     {
       "id": "ced5804d",
