@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-08-04",
-  "total_count": 590,
+  "last_updated": "2026-08-05",
+  "total_count": 599,
   "articles": [
+    {
+      "id": "4e7e52c2",
+      "title": "의정부시, ‘내 집안 주차장’ 2차 모집… 주택가 주차난 해소 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAyUTNMMkdzVWVFVVhHMmVoVEdhaFhBRlpoMGgxRjcxeGZvZ1BnNjJQMHlXVk5Wd3Rkak1JNzZmZ0plejJvb2lVUGhyNVhNVk9s?oc=5",
+      "source": "문화일보",
+      "published_date": "2026-08-05",
+      "summary": "의정부시, ‘내 집안 주차장’ 2차 모집… 주택가 주차난 해소&nbsp;&nbsp;문화일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
+    {
+      "id": "a828e44d",
+      "title": "안병윤 예천군수, 신도시 축제와 주차난 동시 해결 나서 - 시사포커스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95QlJuWXpIcWh5a0NxaEZJVW13ZXdEbnNKWGVlTU1ETUZvMC14TGxESk4xUXdSWnpIaF9mUUkyY29TUm41X2FvbnJ6b1NtSG0yNUtJUTRwMmZBc25JOEVMTFl6c05zU0hYMWt3YWJNSQ?oc=5",
+      "source": "시사포커스",
+      "published_date": "2026-08-05",
+      "summary": "안병윤 예천군수, 신도시 축제와 주차난 동시 해결 나서&nbsp;&nbsp;시사포커스",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
+    {
+      "id": "6febc365",
+      "title": "의정부시, 주차난 해소위한 '내 집안 주차장' 지원사업 2차 신청 시작 - 네이트",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqUmp2SmJ2bEg2a3ItOGxWdkhZejNneVdRYWlLekw1Q1JZYkxHNEZQT01WM1M4NUc2ZUI4RjBXN01jSElMQmstY1ZIWU8zd2RPcjVOVThzc2hlMTJVbGZvTw?oc=5",
+      "source": "네이트",
+      "published_date": "2026-08-05",
+      "summary": "의정부시, 주차난 해소위한 '내 집안 주차장' 지원사업 2차 신청 시작&nbsp;&nbsp;네이트",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
     {
       "id": "9fb10c26",
       "title": "영등포구시설관리공단, “유휴 주차공간 활용한 '공유주차' 이용 대폭 증가” - 영등포신문",
@@ -73,6 +103,46 @@
       "collected_date": "2026-08-04"
     },
     {
+      "id": "efb8e7a9",
+      "title": "공유주차 이용 건수 전년 대비 14,598건 증가 - 영등포시대",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU0p6cHdqdnEtc2RIMFVHNk9JR0VTOXIxU2lkbk10M1Q1QWswTG9mdFVWOEtpdkxpVXc3OXdnUXdwNHZ5aDdLVk9FVldFSEhpX0lMQnhFdXVrQVhhdm8zbVMwY2pLcG9VZGs2SERVWGhKaDJreDhHM0N4WmhaSnZoRmh5RjhkVzNh?oc=5",
+      "source": "영등포시대",
+      "published_date": "2026-08-04",
+      "summary": "공유주차 이용 건수 전년 대비 14,598건 증가&nbsp;&nbsp;영등포시대",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
+    {
+      "id": "bb7e9703",
+      "title": "R]경주 황성동 일대 주차난 심각..공영 주차장 늘려야 - 안동MBC",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUVE81M0hHM09xdjM5amtuUWhVZlBSS1JHaG5mUFZ1ZHFwbTlZbmh4RHdSY3g4TGw5bmNYanhpdXExcHZGX3RxNHl2R19mVDNFRkUtM3FEcjRpWkFDSFZBUjJfc1pKNVhL?oc=5",
+      "source": "안동MBC",
+      "published_date": "2026-08-04",
+      "summary": "R]경주 황성동 일대 주차난 심각..공영 주차장 늘려야&nbsp;&nbsp;안동MBC",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
+    {
+      "id": "5629b62f",
+      "title": "인천시교육청, 천마초에 학교복합시설 조성…주차난·돌봄 개선 - 비즈월드",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aa3lrU18tNnRySHdGcjNVUmdGVGxfVjFiTlBFMkxVQkQ1NFJ5N05OV1VFeXVLUUtJSC1hcXFCTW5JeUp6d3p4MjlqUEpzM205X3cyQUYzbG5aUktXRVEwcnJJeHVmV3daS1E?oc=5",
+      "source": "비즈월드",
+      "published_date": "2026-08-04",
+      "summary": "인천시교육청, 천마초에 학교복합시설 조성…주차난·돌봄 개선&nbsp;&nbsp;비즈월드",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
+    {
+      "id": "df1976f9",
+      "title": "의정부시, 고산지구 공영주차장 40면 조성으로 주차난 해소 > 뉴스 - 더코리아",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmakhYYnVjYlo2Q0hlVG1BaUVDUnh2STFsUUJaUmVXYlp2SG4yREJScXU4RWpxWWlHY0l6Wk5VU25QVGx0eFo1YUcxWFhaSkhORnZkWEFDVVU2SVJLRVBoWnlrZWlBaEZmSTB5VmNzV08?oc=5",
+      "source": "더코리아",
+      "published_date": "2026-08-04",
+      "summary": "의정부시, 고산지구 공영주차장 40면 조성으로 주차난 해소 > 뉴스&nbsp;&nbsp;더코리아",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
+    },
+    {
       "id": "10ca7447",
       "title": "원주역 후문 개방..주차난 해소 기대 - G1방송",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42UXdBNkR0NHlaSmJCV2xPaTk0RHIwWkNvU2ttTWxZLTNjemFGanV1WUVXNDNGTFFicDY3TWs4NGZYWGxzTmtPcjVENHhQQUR1NkJpOWJXMFdaeVNhY25vTFZSTzA?oc=5",
@@ -121,6 +191,16 @@
       "summary": "성남 율동공원 주차난 숨통…C주차장 개장으로 총 914면 확보&nbsp;&nbsp;v.daum.net",
       "category": "뉴스",
       "collected_date": "2026-08-04"
+    },
+    {
+      "id": "57b7e3e1",
+      "title": "원주역 후문 개방..주차난 해소 기대 - g1tv.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LelNXUVdFcnN4U01qRTJfX2JPQVVuNUdXTEpvSkt4TFhQTmQ5dFFUM05vX3BCUXd3UFo0Zk1TSjZwY1hNWm9zdzFUS2FUalNUak5NUVh0WE50RUx1SjREODVncmR0endnaXlzOTJsdGV5YmdyT1JGRmJn?oc=5",
+      "source": "g1tv.co.kr",
+      "published_date": "2026-08-03",
+      "summary": "원주역 후문 개방..주차난 해소 기대&nbsp;&nbsp;g1tv.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
     },
     {
       "id": "dd4ca943",
@@ -861,6 +941,16 @@
       "summary": "주차난 겪던 갈현동 이화연립, 146가구 새 아파트로 바뀐다&nbsp;&nbsp;뉴시스",
       "category": "뉴스",
       "collected_date": "2026-07-23"
+    },
+    {
+      "id": "634decb0",
+      "title": "관악구, 민간 부설주차장 개방으로 고질적 주차난 해결사 나선다 - 관악FM",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9IVDZ2OXJ1ZzNQYUYxNUJpRXd0Z3p2ekhhcHdTdkZNdk5TNm56NHdHRjBKb3llQnRGb21JTnZXUjZyXzVDaDcw?oc=5",
+      "source": "관악FM",
+      "published_date": "2026-07-22",
+      "summary": "관악구, 민간 부설주차장 개방으로 고질적 주차난 해결사 나선다&nbsp;&nbsp;관악FM",
+      "category": "뉴스",
+      "collected_date": "2026-08-05"
     },
     {
       "id": "3766449e",
