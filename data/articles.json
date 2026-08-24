@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-08-23",
-  "total_count": 724,
+  "last_updated": "2026-08-24",
+  "total_count": 734,
   "articles": [
+    {
+      "id": "e297fa96",
+      "title": "인천공항 주차난 사라질까…2031년까지 주차 5만6천면 확보 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91eEJKWTQyTzZsUE01MEVSbVY5NnRaWE1Td1d1Y2ZWSW5yQWhXeVNTaklCTWNkTURHWGw0ZkRjd29yUWY2VVBTbVBsTUxwTVBoWElodTRGX1EzXzRQUFh1SNIBYEFVX3lxTE91eEJKWTQyTzZsUE01MEVSbVY5NnRaWE1Td1d1Y2ZWSW5yQWhXeVNTaklCTWNkTURHWGw0ZkRjd29yUWY2VVBTbVBsTUxwTVBoWElodTRGX1EzXzRQUFh1SA?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-08-24",
+      "summary": "인천공항 주차난 사라질까…2031년까지 주차 5만6천면 확보&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "7c05c4ef",
+      "title": "인천공항 주차난 사라지나…2031년까지 주차 5만6000면 늘린다 - dt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tUVJtSHR0NXdsSmVtYVpOTnJ1em9Xb1JMNzNoY3VzY2VfV0ljUDc4RHNLVnJUNkhySlp1WWpiM3ZvVjNGMU1ZTWF0OW5hUQ?oc=5",
+      "source": "dt.co.kr",
+      "published_date": "2026-08-24",
+      "summary": "인천공항 주차난 사라지나…2031년까지 주차 5만6000면 늘린다&nbsp;&nbsp;dt.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "3ca3a716",
+      "title": "용인시, 생활밀착 행정·조세정의 강화…주차난 해소하고 체납재산 공매 - 비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KVzluUXBfdzgxTFZ0VllWbWxzSHZmU2IzSXhzS205ZExETlg0UWYxd01RRzNHVDNzZC1XNFZFVDVqSVVfaEhpTGVCNlVVN0xIc2pxX1dWUU5vMm1HeXliTkkxclYyZjBMR3UyNms2VmZ3ZXViOVdUMVc0dVM?oc=5",
+      "source": "비욘드포스트",
+      "published_date": "2026-08-24",
+      "summary": "용인시, 생활밀착 행정·조세정의 강화…주차난 해소하고 체납재산 공매&nbsp;&nbsp;비욘드포스트",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "d12cacb0",
+      "title": "용인특례시, 동천동 주차난 해소 나서…107면 임시 공영주차장 조성 - 이코노뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GTFJOd05HajVpbGNkQ0JBaWxpeTQydm5CYWtQWVJtX0MxbklVNkJUZFY4WE9ZdnBPZmRrcV9hWFRKcWdLak5LLWRUR1NtSFpuZHBfY041S3NEYzl5LWc2NjN4UjJneWVHTzN1ejdGdw?oc=5",
+      "source": "이코노뉴스",
+      "published_date": "2026-08-24",
+      "summary": "용인특례시, 동천동 주차난 해소 나서…107면 임시 공영주차장 조성&nbsp;&nbsp;이코노뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "e15f133c",
+      "title": "용인특례시, 동천동에 107면 임시 공영주차장 조성…주차난 해소 기대 - 여성종합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfLVJMUU9vMnVvTnhUT19DdWpIcTQxZUk0QnhDN196Nk9ZcFVTMmhzN0w0THAyVFM2TklMaGhBRDFNS2N1Q3VJRURQTUo5QXBGSFBBdi1DR1FKUQ?oc=5",
+      "source": "여성종합뉴스",
+      "published_date": "2026-08-24",
+      "summary": "용인특례시, 동천동에 107면 임시 공영주차장 조성…주차난 해소 기대&nbsp;&nbsp;여성종합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "703ca497",
+      "title": "주차난 겪던 동천동…용인시, 107면 임시 공영주차장 조성 - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JZnRaYW9kVFdVWEtrX3lPZmZTVjllTWgtXzJ2NWJLdE5sMkxXS1l5bFpvUWlUTlkzeExPRzMwR0xtR2tSbDE3QVk4dUsxdjE3eTNyUThmV2JxRHFzZW4zOUJjaVZFT0JqOVowd0pB?oc=5",
+      "source": "gukjenews.com",
+      "published_date": "2026-08-24",
+      "summary": "주차난 겪던 동천동…용인시, 107면 임시 공영주차장 조성&nbsp;&nbsp;gukjenews.com",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "b843cd15",
+      "title": "강남구, 공유주차 24시간 개방 효과…이용 36.6% 증가 - 강남포스트",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QVjFpRHN6WG82bTdhcWxib2FpdWtYTUJXWmxVb0dpMTU2UlRTQmlMZGVhSDhqemVzU2tzeFltZGlYNFNNQjlRSzd3dU9uVFRRZUw3UHBWWGJNYWd6Z2ROYWhPdXR0dw?oc=5",
+      "source": "강남포스트",
+      "published_date": "2026-08-23",
+      "summary": "강남구, 공유주차 24시간 개방 효과…이용 36.6% 증가&nbsp;&nbsp;강남포스트",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "d4ec96a6",
+      "title": "8억 들인 광주 태화산 유아숲체험원 주차난에 발길 뚝… 예산낭비 도마에 - 기호일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41X0JMSUVJb1J5YlJPUDNFanJtMlM0TDU5dG5SNkQ5OUJwekpwVldnSlFsdjB6V0RCSWpUbnRCSVI2ampGZm9nMzIxLXRXc2VMNWZjVm9zd0xicjQzcl9GdWlEd29MenF1cnVuTXhhYw?oc=5",
+      "source": "기호일보",
+      "published_date": "2026-08-23",
+      "summary": "8억 들인 광주 태화산 유아숲체험원 주차난에 발길 뚝… 예산낭비 도마에&nbsp;&nbsp;기호일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
     {
       "id": "39734638",
       "title": "여객은 주차난에 뺑뺑이 도는데···인천공항 주차난 부추기는 ‘승무원 정기권’ - 경향신문",
@@ -401,6 +481,26 @@
       "summary": "대전시 서구, 관내 종교기관 부설주차장 개방 협약&nbsp;&nbsp;네이트",
       "category": "뉴스",
       "collected_date": "2026-08-23"
+    },
+    {
+      "id": "27dd7704",
+      "title": "대전 서구, 관내 종교기관 부설주차장 개방 협약 - 문화매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1icG5oZTBKTDh5c1prdEliT0tweFp6OE9NM3Njb3hxejFWSXpRSVF0eEFTYjV1M0dVYm1na3d2ZHVORHVJckZNMG5mYw?oc=5",
+      "source": "문화매일신문",
+      "published_date": "2026-08-20",
+      "summary": "대전 서구, 관내 종교기관 부설주차장 개방 협약&nbsp;&nbsp;문화매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
+    },
+    {
+      "id": "9c0435f1",
+      "title": "대전 서구, 관내 종교기관 부설주차장 개방 협약 - 세계타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQN3pPSlpDS0tIdUV2aWcwTzRRUG5ZQUo3X3lObVpCYkJqRDQ5NGx2VFc0RjloSTFDN19UMFBQNmVGYWp0UDRMYU1qUElBOHRrX1MxZnNqa3lZUDTSAWtBVV95cUxQblYxVXY1dndjc1c3enNFNDkzakt4d0dEbVBpTHJvREo3dTF3RTlGOV9FUUhtRldET19udHYwX2lEblkyUlBLM1FNNGp4QXZNaTVlWENrQ1JsQ2w2ZkNCcXdBQ1BGRmYxbHNmdw?oc=5",
+      "source": "세계타임즈",
+      "published_date": "2026-08-20",
+      "summary": "대전 서구, 관내 종교기관 부설주차장 개방 협약&nbsp;&nbsp;세계타임즈",
+      "category": "뉴스",
+      "collected_date": "2026-08-24"
     },
     {
       "id": "1c5b313b",
