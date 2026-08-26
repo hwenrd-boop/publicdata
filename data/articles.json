@@ -1,7 +1,17 @@
 {
-  "last_updated": "2026-08-25",
-  "total_count": 746,
+  "last_updated": "2026-08-26",
+  "total_count": 757,
   "articles": [
+    {
+      "id": "72cc4dee",
+      "title": "장기수 천안시장, 원도심 주민과 소통 간담회…주차난·도로 개선 등 현안 청취 - 지이코노미",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ka291UVR2N0FPWG5HNS12OWNLSUtmaWhZdGRjUE9FYUIyRzlXek5wY2RxSmN0Ym1Ec0Rjb21vVkUwcHhJcUpGYkZyQk41cmJVQUhENDNvUGtaSzZhXzFuT0RtTEU3TTA?oc=5",
+      "source": "지이코노미",
+      "published_date": "2026-08-26",
+      "summary": "장기수 천안시장, 원도심 주민과 소통 간담회…주차난·도로 개선 등 현안 청취&nbsp;&nbsp;지이코노미",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
     {
       "id": "8e534dbe",
       "title": "동천동, 주차난 숨통 트였다 … ‘빈 땅’의 변신 - 용인신문",
@@ -21,6 +31,76 @@
       "summary": "서산 원도심 주차난 숨통 트인다, 번화2로 공영주차장 32면 새로 조성&nbsp;&nbsp;중도일보",
       "category": "뉴스",
       "collected_date": "2026-08-25"
+    },
+    {
+      "id": "bac0924d",
+      "title": "대구 월배근린공원 아래 100면 주차장…상인2동 주차난 숨통 - kyongbuk.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9qNXQ3MTVxbEdjeWhGN0FyRzNGYVI2cjhnSGNkVEZGMmh6MFhndnNrcUZHcmZDWkZkLWdDWkpSbTYxVC04RGVJeUlwUGkyc0l5a3Y3NVIyX21aUmtxOVRWbWExRXcyWWRBWHlOZzFHaw?oc=5",
+      "source": "kyongbuk.co.kr",
+      "published_date": "2026-08-25",
+      "summary": "대구 월배근린공원 아래 100면 주차장…상인2동 주차난 숨통&nbsp;&nbsp;kyongbuk.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
+    {
+      "id": "724f6e00",
+      "title": "달서구 ‘월배공영주차장’ 개장… 주차난 숨통 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pc293MFFGTjFkS0V1LWlwaHgxUDFNVGp2Rm5yTTA2NGN6V0hJU0RYclhYVnRaZ09ja3hTN0t0bkdqeG1yZ0g0UzRDNHRoNkQ1RldkdnBHU2x1cnVaSkJqTHdJeXYtWDM5TGc?oc=5",
+      "source": "hidomin.com",
+      "published_date": "2026-08-25",
+      "summary": "달서구 ‘월배공영주차장’ 개장… 주차난 숨통&nbsp;&nbsp;hidomin.com",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
+    {
+      "id": "d332a438",
+      "title": "장기수 천안시장, 원도심 주민 만나 주차난 해소 등 의견 청취 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eUgzM09ROXBaUXUxS2N6NGpsVy1YbEFQU3lOczRFSHV3ZzZLRTRQSzB6cVJ2VnUzb2N4MTNMb1Q4VF9RRzRXWHRTOERmSEJmUzJ4cU10T0VoTmVjUXZyUjhSamQ?oc=5",
+      "source": "매일일보",
+      "published_date": "2026-08-25",
+      "summary": "장기수 천안시장, 원도심 주민 만나 주차난 해소 등 의견 청취&nbsp;&nbsp;매일일보",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
+    {
+      "id": "4b7ca75b",
+      "title": "`월배공영주차장` 개장…상인2동 주차난 해소하고 도심 속 휴식공간 조성 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EZGpESGxIb3M5Mk9BTDZZUi00X0lVeDE5WFY3ZEZCRjJaSzRFNkhKZ3ZDTW1OLWFyT09wVDUxVGRmcWRDZExXc3BvbGtnaERLXzhHQklPc1NGNThNZ0xTUzB3?oc=5",
+      "source": "매일신문",
+      "published_date": "2026-08-25",
+      "summary": "`월배공영주차장` 개장…상인2동 주차난 해소하고 도심 속 휴식공간 조성&nbsp;&nbsp;매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
+    {
+      "id": "fa6700e4",
+      "title": "대구시, 달서구 주차난 던다…'월배공영주차장' 개장 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMSDNxdXNfRHVMUmN2YUlvYkpaLTgzb3NITmlYWTlMNV9vMjVwRGRFSjFMUEdsWE9TNmxjOUhCR1dRdmFrQWRnMVdNUGtLQzR1d3FET2NjMko2dE8zZ2JxRWlMemx6cFVjaDdV?oc=5",
+      "source": "BBS불교방송",
+      "published_date": "2026-08-25",
+      "summary": "대구시, 달서구 주차난 던다…'월배공영주차장' 개장&nbsp;&nbsp;BBS불교방송",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
+    {
+      "id": "fa449dd7",
+      "title": "대구시, 월배공영주차장 개장… 주차난 해소·도심 휴식 '동시 해결' - 팍스경제TV",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jVXJ1N1g3Xy1XMjRzVk5kUjFQR0p4eWlaTWlRSW1PMHc0SnQ1NHp0MWhQcXY4dmpEMjZ5V1FLQVpGYUdnUnFjWWFqTjdSN0M1YVk3MVNMLVMxZHg0Vzc3UXRGckRaT2c?oc=5",
+      "source": "팍스경제TV",
+      "published_date": "2026-08-25",
+      "summary": "대구시, 월배공영주차장 개장… 주차난 해소·도심 휴식 '동시 해결'&nbsp;&nbsp;팍스경제TV",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
+    },
+    {
+      "id": "deb917cf",
+      "title": "대구시, 월배공영주차장 정식 개장...상인동 주차난 뚫고 공원 품었다 - 이로운넷",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TRHU1WlV6WmRRRXFOUHVnX0U2SnVfZ056MW1wbVQ0c2lVQkVaNDlWUklfNkUwZmpNR1duRmdLdGhoUWN6ZjhyOVJrbllEem02eVlxTTV2UzQzNzRTdURrdG9Mc25iUQ?oc=5",
+      "source": "이로운넷",
+      "published_date": "2026-08-25",
+      "summary": "대구시, 월배공영주차장 정식 개장...상인동 주차난 뚫고 공원 품었다&nbsp;&nbsp;이로운넷",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
     },
     {
       "id": "e297fa96",
@@ -161,6 +241,16 @@
       "summary": "‘주차난’ 인천공항, 2031년까지 주차장 5만 6천 면 증설&nbsp;&nbsp;KBS 뉴스",
       "category": "뉴스",
       "collected_date": "2026-08-25"
+    },
+    {
+      "id": "2b2bce5f",
+      "title": "광진구시설관리공단, 동의초 부설주차장 재개방 - 디지털광진",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBLN0l1eUhfRS1sUEduZFJMczJZZ2hjazdGdU8zblZ0czB3Ri1oT1hMRUJIeTZmVFZCemw3N0YtakFaTTQ?oc=5",
+      "source": "디지털광진",
+      "published_date": "2026-08-24",
+      "summary": "광진구시설관리공단, 동의초 부설주차장 재개방&nbsp;&nbsp;디지털광진",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
     },
     {
       "id": "b843cd15",
@@ -621,6 +711,16 @@
       "summary": "대전 서구, 관내 종교기관 부설주차장 개방 협약&nbsp;&nbsp;세계타임즈",
       "category": "뉴스",
       "collected_date": "2026-08-24"
+    },
+    {
+      "id": "c8150551",
+      "title": "대전 서구, 종교기관 부설주차장 개방 협약 - e-빠른뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0cTQ0dFVoeUdkMVJPMHJibXY1QVVKSzFZdVFsYmZ0QURUY1N0bFhnbGNkYTFxcDBrWExBZmZaQWJCRnFWYVg3THBuTUVlWWN5TzZWaVVzQzVDU0d1M19QaC1WdURYQlZjenNB0gFvQVVfeXFMTUFQZnFtLU9JVDhuOTNtbDFDR3U5and3UTJYazJFS1poMjk4dzF2SFRqRFpQU3d2QTdYWWlMUUp1Q243WHliSTV2X3hISVZwZzNaWXlYbHpUZDFud3FrMlJEWkNLZXZiRTdYMnpKdThJ?oc=5",
+      "source": "e-빠른뉴스",
+      "published_date": "2026-08-20",
+      "summary": "대전 서구, 종교기관 부설주차장 개방 협약&nbsp;&nbsp;e-빠른뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
     },
     {
       "id": "1c5b313b",
@@ -7421,6 +7521,16 @@
       "summary": "아이들이랑 캠핑 갈 필요 없어요~ '매봉산 유아숲 체험원'&nbsp;&nbsp;서울시 정보소통광장",
       "category": "공고·결재문서",
       "collected_date": "2026-05-20"
+    },
+    {
+      "id": "77edc27f",
+      "title": "용인시 등록차량보다 많은 주차공간 불구 주차난 심각···이유는? - 용인시민신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8ybDhxQV9zNzNTQmN5dG5XVTF4QVV2QUhMNjJMelBzcWtZY09QdkRkRnBKYXV1TmFwLXVzR0ZRQ0NzcWhTaHV4OUpHOXFXM0RSZkpoZF9RSXpYaUdXbTVXNVdSTEwycWdXOVlaRA?oc=5",
+      "source": "용인시민신문",
+      "published_date": "2019-10-30",
+      "summary": "용인시 등록차량보다 많은 주차공간 불구 주차난 심각···이유는?&nbsp;&nbsp;용인시민신문",
+      "category": "뉴스",
+      "collected_date": "2026-08-26"
     },
     {
       "id": "c9311361",
