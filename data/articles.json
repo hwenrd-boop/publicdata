@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-08-31",
-  "total_count": 786,
+  "last_updated": "2026-09-01",
+  "total_count": 795,
   "articles": [
+    {
+      "id": "8a397725",
+      "title": "고선희 서해구의회 의장 “가좌국민체육센터, 생활체육·주차난 해소 거점 돼야” - joongboo.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ZRXVfcU16eXNXa3JRRll3eXI0WENwc01yQ082MjNfSVJWRFdmY1pEODlmWUF5NFBjUlZhNVFYd1hTRTU3b1VSazMybDdCdnVhUDl4bENfSnB1SDJmN003NEZ3WHYzSTNXRDNDamRmQQ?oc=5",
+      "source": "joongboo.com",
+      "published_date": "2026-09-01",
+      "summary": "고선희 서해구의회 의장 “가좌국민체육센터, 생활체육·주차난 해소 거점 돼야”&nbsp;&nbsp;joongboo.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "5e158c24",
+      "title": "고선희 인천 서해구의회 의장, “가좌국민체육센터, 생활체육·주차난 해소 거점 돼야” - 인천뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XZ0dEUWRyQlhhNVBzejFmM0xGejlrTHRYR2ZwSkFnVWtDRnVibjhUVEQ0bk5XVUthR2JsVUFuU0lIZU1qVWFiQjNIWlRUaFhUSS14aUQ5cDRvSlQxWllwUERFTkcxb0JHUUk2aXIxSQ?oc=5",
+      "source": "인천뉴스",
+      "published_date": "2026-09-01",
+      "summary": "고선희 인천 서해구의회 의장, “가좌국민체육센터, 생활체육·주차난 해소 거점 돼야”&nbsp;&nbsp;인천뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "bd528b11",
+      "title": "창녕군청 주차난 해소될까… 주차장 181면 신설 준공 - 메트로신문",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LYlVJVnJ5a0pMTGNIRGNxNVFoczRGRnRpWnpEcUxXSU84UG1fdk9NUjExT29mYXVFYVdDc2xlcFhRU19yYi0zUEVUNTFLYnhUcDJYRjM5YlVYUjJlVDZycQ?oc=5",
+      "source": "메트로신문",
+      "published_date": "2026-09-01",
+      "summary": "창녕군청 주차난 해소될까… 주차장 181면 신설 준공&nbsp;&nbsp;메트로신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "727b13cd",
+      "title": "고선희 의장, 가좌국민체육센터 개관식 참석... \"주차난 해소 기대\" - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jVDFmY0l1R2FCbUhmekhnX1NMRkN5WE1oQVpUUkFSWXpqb2d2Zm1ibTJxQjhxQU53dVNoNERjbTF4Q2NhUWVoZG9hZHk2N1ozSWJRSWlFLWxkRDFqZXhCSzNJc2VIaFJiSDF2dU93?oc=5",
+      "source": "gukjenews.com",
+      "published_date": "2026-09-01",
+      "summary": "고선희 의장, 가좌국민체육센터 개관식 참석... \"주차난 해소 기대\"&nbsp;&nbsp;gukjenews.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "722dc923",
+      "title": "주차난 덜고 통학안전까지 챙긴 강동 - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWdsdFJXdzQ2dUlwbkJPRzRtTjBYTERiSmJiRGRmdGhsSWFFWlZOZXZodEZGMDB5dDN4X3ZXbmFVUnFxZ2J2aWo1U29jSlY4STdZZDNfR1VtdkFtUlJETU1TTlA3RjlXeUxqV0ZmRi1GVktiZzJ0eHNDdUpBUm9jb1h0TlhwSV9Hb2hya0MtYnE4UQ?oc=5",
+      "source": "서울신문",
+      "published_date": "2026-09-01",
+      "summary": "주차난 덜고 통학안전까지 챙긴 강동&nbsp;&nbsp;서울신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
     {
       "id": "b5698ccf",
       "title": "창녕군청 주차난 숨통…181면 신설 주차장 운영 - 신아일보",
@@ -61,6 +111,46 @@
       "summary": "창녕군청 주차장 181면 신설…방문객 주차난 해소 기대&nbsp;&nbsp;gukjenews.com",
       "category": "뉴스",
       "collected_date": "2026-08-31"
+    },
+    {
+      "id": "fae6da40",
+      "title": "강남구, 공유주차 24시간 개방…이용률 36.6% 증가 - 딜라이브뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sRjVCeE4ySkxRZ3NjT05qTWl0NkN6cGVDSlg3UGgxREhzbFB0T1JTMDdhc2t5UkF3U2dXUDZ4RWp3MXI4MWdrcEJQQTdTUXdINkk4YjRDRlR4aWMwTjQ4WG5mQVA5QQ?oc=5",
+      "source": "딜라이브뉴스",
+      "published_date": "2026-08-31",
+      "summary": "강남구, 공유주차 24시간 개방…이용률 36.6% 증가&nbsp;&nbsp;딜라이브뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "3ab701b3",
+      "title": "인천 검단구 임시청사 주차난에…LH 유휴부지 임시주차장 조성 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBONWtveW9RQk1XTzRpRWVTRnFvQlFJa0IxcmhEaXhNZUxXYzJLSmFwVnFnakRaVW4tNnlnbFpTWE1xYV9GUmh2OHI1eWZIdWJvdTFkZ0ptdGp5Q05HZ3hsbU1BekZZaGFyQjN1d2JQeUU?oc=5",
+      "source": "인천일보",
+      "published_date": "2026-08-31",
+      "summary": "인천 검단구 임시청사 주차난에…LH 유휴부지 임시주차장 조성&nbsp;&nbsp;인천일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "765bea5e",
+      "title": "주차난·돌봄 부족 끊어 낸다…오산 도시재생 거점시설 착공 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yTjQ1UTI5ZXp2VDJxc2N0MzJodHZobHlFSXZ6T085bkxYWHdrMjFNMkE2SmNWME9QVGF5ejR5YzRDS3pFVF9JdkRIVVR6aGJJMHluX1BKRFd2NG9LSlRodk1B?oc=5",
+      "source": "경기신문",
+      "published_date": "2026-08-31",
+      "summary": "주차난·돌봄 부족 끊어 낸다…오산 도시재생 거점시설 착공&nbsp;&nbsp;경기신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
+    },
+    {
+      "id": "4d42e52d",
+      "title": "\"주차난 해소\" 창녕군, 181면 군청 주차장 '신설' | - LG헬로비전",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xdXhERVFrQy0wb1o0MEdwLVpHYmltUW1DU2g1b2pBbDBRSjExQWE1MnNIQllGVFJJeDlaU0ROcklyQjFQZGFDaVFoVE9QRjlSRkVfMlpsbVFLd3FMVHhTcXRNeWlLOV9uZVZqS3J0OWgxUXNycWc?oc=5",
+      "source": "LG헬로비전",
+      "published_date": "2026-08-31",
+      "summary": "\"주차난 해소\" 창녕군, 181면 군청 주차장 '신설' |&nbsp;&nbsp;LG헬로비전",
+      "category": "뉴스",
+      "collected_date": "2026-09-01"
     },
     {
       "id": "e28a6fb1",
