@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-09-03",
-  "total_count": 814,
+  "last_updated": "2026-09-04",
+  "total_count": 825,
   "articles": [
+    {
+      "id": "3602adbf",
+      "title": "천안축구센터 주차난 심각한데…지하주차장 10면 이상 ‘적치물’ 점령 - 충남일보",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2UWh3U3hFb3lfeUM3YW1lTFdIRVNNSnBSZjh1czRNdEZZa25ESEJudG13LThGS2NCdU1DQmw3TVlTaHRNWXdZN2lhYTlpS0gzODA4Y3Aydi1fTXFmUU93MGY3ejkwUnJneWlVOHRUOUxNQQ?oc=5",
+      "source": "충남일보",
+      "published_date": "2026-09-04",
+      "summary": "천안축구센터 주차난 심각한데…지하주차장 10면 이상 ‘적치물’ 점령&nbsp;&nbsp;충남일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
+      "id": "c0c7f1f3",
+      "title": "제주시, 주차난 지역 공영주차장 5곳 조성 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9udDY3dkxMYVVGVjlMRmJpNmp2d3JHWWpkeG4wQ0JvSlZsQXktWF9aTTEyQmhHUnNpOGViM1hTQkRJQUJuQ2ZwYktDU2ZpSnV2TWZISE1Uc3YwX3pEQVI2RFMwNXM4dHhWcUVkSm5VcVQ?oc=5",
+      "source": "신아일보",
+      "published_date": "2026-09-03",
+      "summary": "제주시, 주차난 지역 공영주차장 5곳 조성&nbsp;&nbsp;신아일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
+      "id": "f56b61c6",
+      "title": "제주시, 주차난 심화 지역 공영주차장 5개소 조성 - 뉴스제주",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtU2hvakRoWjQtVVhSbUx4NXVyai01QXpUdU9PTU4zTmdNZmJNRThCNTl4VjJhRlBEU0toUVlBd3FVVFhEZ1k1NHVXX3FXUlBJaDE0UWhoTWlRRVhpN0padzhNU2tTLUI0d2NR?oc=5",
+      "source": "뉴스제주",
+      "published_date": "2026-09-03",
+      "summary": "제주시, 주차난 심화 지역 공영주차장 5개소 조성&nbsp;&nbsp;뉴스제주",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
     {
       "id": "0264ab0d",
       "title": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진 - 경남도민뉴스",
@@ -141,6 +171,56 @@
       "summary": "시민연대 \"시민의 날 은파 개최, 교통혼잡·주차난 우려…안전·교통대책 시급\"&nbsp;&nbsp;투데이 군산",
       "category": "뉴스",
       "collected_date": "2026-09-03"
+    },
+    {
+      "id": "647c96c0",
+      "title": "진주시, 시민 참여형 주차장 사업 확대 추진 - 경남뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuelI0MENRTzRlRTN0NzJibXk2Mm55M3EyWDZWN3hvQy1MVnFsV2VQRjUtMUduUXg4Sko2R2JuM29EbDRxbklEMjJDbUllckM0OTZLb200cmx1UkhwRS1hc0Fac3RPa0tf?oc=5",
+      "source": "경남뉴스",
+      "published_date": "2026-09-02",
+      "summary": "진주시, 시민 참여형 주차장 사업 확대 추진&nbsp;&nbsp;경남뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
+      "id": "77865e6b",
+      "title": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진 - 경남신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IeWdOR3ozYWdiM0twOXNVRzBtaXpOdnV4SFV2aWNnNnpxLXk2UGZ5NVJFTnR0eXFHZTlIRlNJUG9SS2pWUFlWdllYbFk1bm1vM2RVNlF1RTBfa1VFWmY2VUc2M2ZfOUVodnE1MTlkTUNreHc?oc=5",
+      "source": "경남신문",
+      "published_date": "2026-09-02",
+      "summary": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진&nbsp;&nbsp;경남신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
+      "id": "8a881479",
+      "title": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진 - 시사일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KU3ZVbTU0dWJsX1JldU80eFc1V2VKYmtaSWFyU21OeDRGWS1nSTJRdUZOdUZYdjRJak5qLWNqZWU2ODZNS2xJQVdtRFbSAWpBVV95cUxNc05QQ2pFRmd6OXpRVEtzaGdYaWp3czdmMkdrX1RmZkg4bUdYZjQ5MjdqckFmMldrenpzZHloZ0dKUTlfWUFQSzUyQ0FIb1J6YWdhU1psOVQ4aFBoMEt5UG9QRmZCZkpqRlB3?oc=5",
+      "source": "시사일보",
+      "published_date": "2026-09-02",
+      "summary": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진&nbsp;&nbsp;시사일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
+      "id": "65d873d8",
+      "title": "진주시, ‘시민 참여형 주차장 조성사업’ 통해 주차난 해소 앞장 - newsfreezone.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByeXFERXcycE5WNjFJRmFfZE94THA4WTlKVzI2R25iZ1o1cUotemhmS0t3TTVzMlFTUTBPQzRCcFZjSVVDdFZyTHZQVC1hZFB0NEYxRG1FeThQUFczX2YyLVVUQkxSbmdLZFQwTjJZcm1sTXBZZnBF0gF3QVVfeXFMUHJ5cURFdzJwTlY2MUlGYV9kT3hMcDhZOUpXMjZHbmJnWjVxSi16aGZLS3dNNXMyUVNRME9DNEJwVmNJVUN0VnJMdlBULWFkUHQ0RjFEbUV5OFBQVzNfZjItVVRCTFJuZ0tkVDBOMllybWxNcFlmcEU?oc=5",
+      "source": "newsfreezone.co.kr",
+      "published_date": "2026-09-02",
+      "summary": "진주시, ‘시민 참여형 주차장 조성사업’ 통해 주차난 해소 앞장&nbsp;&nbsp;newsfreezone.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
+      "id": "96de2dfd",
+      "title": "공사 지연에 주차난… KTX 진영역, 이번 추석도 '교통 지옥' 될라 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LZUdzVC1sUjJzZGRZRUtZVzdXWE80bUlDU3NZMFY4VEFERVRuLUZRVmZlYlBDS1RsM3RXbnM1NkxQNVZZV2ZQWHl5eURDa2M?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-09-02",
+      "summary": "공사 지연에 주차난… KTX 진영역, 이번 추석도 '교통 지옥' 될라&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
     },
     {
       "id": "8a397725",
@@ -331,6 +411,16 @@
       "summary": "주차난 잡고 물류 잡고…달성화물차고지 11년 만 결실&nbsp;&nbsp;경상매일신문",
       "category": "뉴스",
       "collected_date": "2026-08-31"
+    },
+    {
+      "id": "0f19b306",
+      "title": "박오임 구의원, “주차난 심각한 독산2·3·4동, 주차행정에서 소외”…“지역별 균형 있는 대책 마련해야” - 열린뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA5UVR6VVZXN1ZGckllNVg3VTd6eXJCWlNqd3A5UUFvTm5iM3cxaVpVYWQ1QVhMV2RnVmZwdXd2Qnd5dTd1bTRMbFpXaWUwcXVXT0pySUpqZ2NJZVVncnE1RFZpQWhTdw?oc=5",
+      "source": "열린뉴스통신",
+      "published_date": "2026-08-30",
+      "summary": "박오임 구의원, “주차난 심각한 독산2·3·4동, 주차행정에서 소외”…“지역별 균형 있는 대책 마련해야”&nbsp;&nbsp;열린뉴스통신",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
     },
     {
       "id": "b032c79d",
@@ -7901,6 +7991,16 @@
       "collected_date": "2026-05-21"
     },
     {
+      "id": "df6e1e08",
+      "title": "경기 광주시청사 이틀 연속 '주차전쟁'…만성 주차난 심각 [현장, 그곳&] - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SUFFpN0lEZXk2amttdkdPUW5QSmFSOXgyY1pKZWJtY0xmRUxBV3dmUG5WUkR3NWdiU2tha09rNExtazd6clFwQllOaXo2VEE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2025-10-14",
+      "summary": "경기 광주시청사 이틀 연속 '주차전쟁'…만성 주차난 심각 [현장, 그곳&]&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
+    },
+    {
       "id": "2d045b70",
       "title": "원주역 인근 주차난 심각…축구장 3개 면적 임시 주차장 조성해 - 강원일보",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE95M25jbHJWaTNCV1Jja0FRVlNmN3ZTUTRNVzlWRkcyOU9jZEl5NUpHV1lOWW9Kamw4cnhXVlRlVVdJcEN0ZWxCelJrN0VNNVVZRnd5c056NHltdk5fQVVWcUdBQmk?oc=5",
@@ -7979,6 +8079,16 @@
       "summary": "\"전기차 충전구역 확대\"vs\"주차난 심각\"… 부평지역 아파트 입주민 대립&nbsp;&nbsp;중부일보",
       "category": "뉴스",
       "collected_date": "2026-07-08"
+    },
+    {
+      "id": "5cef4319",
+      "title": "“원주천 파크골프장 탓 소음·쓰레기·주차난 심각” - 강원일보",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBITnBvdEQyQ2lGTTFHVnVOWm9LOWlTREQ3UUZ4VzZfQWthbUtJRHBocmF3V2YtQUMwWllON3NXZVFSTGVId0pCV0U1RHdCVDV4b3dRcXVfNA?oc=5",
+      "source": "강원일보",
+      "published_date": "2025-05-07",
+      "summary": "“원주천 파크골프장 탓 소음·쓰레기·주차난 심각”&nbsp;&nbsp;강원일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-04"
     },
     {
       "title": "「2025년 건축물 부설주차장 개방 공유 사업」참여 안내",
