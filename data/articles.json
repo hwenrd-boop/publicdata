@@ -1,7 +1,187 @@
 {
-  "last_updated": "2026-09-06",
-  "total_count": 838,
+  "last_updated": "2026-09-07",
+  "total_count": 857,
   "articles": [
+    {
+      "id": "21a2adef",
+      "title": "주차장 안 짓고 100면 확보…서대문구, 민간 주차공간 공유 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uZHRRdU4tM3pITHhpT0p2Q1NfZXlJOENaYXQ0aEZENlNqQWxucnBLaERJRlVVNmRmNnRGa1k4RHAyclhrdVVOTEhkdnByUEJjd1VRMk1JN25TbThJMFpsRlJYNDdraFVNY0Q1Qlln?oc=5",
+      "source": "전국매일신문",
+      "published_date": "2026-09-07",
+      "summary": "주차장 안 짓고 100면 확보…서대문구, 민간 주차공간 공유&nbsp;&nbsp;전국매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "91c88181",
+      "title": "‘주차까지 막으니…’ 잘 나가던 공유 킥보드·자전거 급제동 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB1b3lCbkdhYW4wSUN6aUk0X0VycjBkNzIwemdMalZKTllCM3ZlWm5vUk9xMFFrQThIZ3g0QkhxWmE4UzRYTnRPZ0lwNTMyckE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-09-07",
+      "summary": "‘주차까지 막으니…’ 잘 나가던 공유 킥보드·자전거 급제동&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "cf057238",
+      "title": "추석 연휴 공공 주차장 개방...전통시장은 22일부터 - tbc.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRC1nTG4xLTk5dENZOThLSnhSaFVUYjVNSW5NU2JrNUxFeHlIei1TZlpXQmlEeDZYUEt0RV9jdWZFWGFOcFY5X3M5ZVdPWmNOLVZCakgzNXJrSkJ3SW9leE50SUdkN0RJYXhoNDBEcmkyNl9BMU9xbEx4emtOMVJRRFRiV19Ldw?oc=5",
+      "source": "tbc.co.kr",
+      "published_date": "2026-09-07",
+      "summary": "추석 연휴 공공 주차장 개방...전통시장은 22일부터&nbsp;&nbsp;tbc.co.kr",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "02b2181e",
+      "title": "포항시, 창포푸드몰 민간 주차장 임차해 무료 개방…상권 활성화 도모 - 경북뉴스",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HU0FTX1Q0cUtWVTlpZ1ZTd1FyNm5HQ2QwLUExenpTUGtsZng0UElGaE5oaFdUeDRibTdKVGpEUUxsbUh2UHNKUnJ5NENRZzAtQ2ZQZWFVcmxmWGF6ZzQyaDM5OS1iTWdwVE1wYTFKdG92Z1dIM3puOXFaY2k?oc=5",
+      "source": "경북뉴스",
+      "published_date": "2026-09-07",
+      "summary": "포항시, 창포푸드몰 민간 주차장 임차해 무료 개방…상권 활성화 도모&nbsp;&nbsp;경북뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "6a1fc829",
+      "title": "서대문구, 충정로역 일대 주차난 숨통…교회 주차장 100면 개방 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fT1lnaVlaYmo0ODJfMUVkakc2YUEzSGtnN3BndS1kRThhV2ZPOVl2VkMydG03bXFJcmNIMVRjaldkV3FNZEJCT2VKMmZqZG5rclBHcDBpSW9hc2dVMlg1QVJjc9IBaEFVX3lxTE5VTFktdHRDQ0Fjb2dlekJxV2hYMW1yUTc0N3dYdjljMXlRN3l3V1BpTUMzUFVMM3VQNDJnVUZaRzB2UGJ0SXpuVExOanJubWJvLUxRNm9xeTBhNUtueUc2RXhTbHgxREx4?oc=5",
+      "source": "매일일보",
+      "published_date": "2026-09-07",
+      "summary": "서대문구, 충정로역 일대 주차난 숨통…교회 주차장 100면 개방&nbsp;&nbsp;매일일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "8b7597f6",
+      "title": "북아현동 아현성결교회 부설주차장 100면 유료 개방…시간당 3000원 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UN3p2ekctejFaX05TV245Y3RES2FHazR0VEdwVUdkTk5UQVpJY3JEcHVLZGVtMGp1UnVMdWV6cGZVUU9fVzdfaVVpNGpWVmtmODJv?oc=5",
+      "source": "news.nate.com",
+      "published_date": "2026-09-07",
+      "summary": "북아현동 아현성결교회 부설주차장 100면 유료 개방…시간당 3000원&nbsp;&nbsp;news.nate.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "1681d640",
+      "title": "북아현동 아현성결교회 부설주차장 100면 유료 개방...시간당 3000원 - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyRGhzY19ybTd5N21ZSHl4RTllNlQ2aUcwNFZxSVhTS1padnlVY29RMXVQdVNyNEtjOVJNdUNWS0ZWODVGNWVJRzM5Qi1uRGdmM2lUWWJ3?oc=5",
+      "source": "헤럴드경제",
+      "published_date": "2026-09-07",
+      "summary": "북아현동 아현성결교회 부설주차장 100면 유료 개방...시간당 3000원&nbsp;&nbsp;헤럴드경제",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "2230e4ce",
+      "title": "서대문구 “충정로역 일대 주차난 숨통”…교회 주차장 100면 개방 - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1RdTd4dXl1c1RBeHRhcTl2dF9PemVfOHlIWGE0QlZmT0c2dThuVmI4TExKZEFxVWd4azczaDlCbV9pZV8zbTFnNFRoU0xLdUps?oc=5",
+      "source": "문화일보",
+      "published_date": "2026-09-07",
+      "summary": "서대문구 “충정로역 일대 주차난 숨통”…교회 주차장 100면 개방&nbsp;&nbsp;문화일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "fe04ba40",
+      "title": "서대문구, 충정로역 일대 주차난 완화…교회 주차장 100면 개방 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EYmV2OU11M2tQNHNHZlktQ1pwMDRQU0RCUF9va2VWVmw1cUtqUDZKdDlxUVJZb1RXQW5SOHdyRjdWTVVpN3p4bUZuT2FScm8zb2fSAVdBVV95cUxNb2VUaGtyNGxYY0RSQmpNZ0hFSjB1RTY1Nlp2T1MzZ3pnRlRYdFVoSE9CZVNudDVNbTMzcVlaU3lmR01mZTVJMDg5MmxYYjdnYWpKS3F1Uzg?oc=5",
+      "source": "뉴스1",
+      "published_date": "2026-09-07",
+      "summary": "서대문구, 충정로역 일대 주차난 완화…교회 주차장 100면 개방&nbsp;&nbsp;뉴스1",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "ae0614e1",
+      "title": "서대문구, 충정로역 일대 주차난 숨통…교회 주차장 100면 개방 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VTFktdHRDQ0Fjb2dlekJxV2hYMW1yUTc0N3dYdjljMXlRN3l3V1BpTUMzUFVMM3VQNDJnVUZaRzB2UGJ0SXpuVExOanJubWJvLUxRNm9xeTBhNUtueUc2RXhTbHgxREx40gFoQVVfeXFMTlVMWS10dENDQWNvZ2V6QnFXaFgxbXJRNzQ3d1h2OWMxeVE3eXdXUGlNQzNQVUwzdVA0MmdVRlpHMHZQYnRJem5UTE5qcm5tYm8tTFE2b3F5MGE1S255RzZFeFNseDFETHg?oc=5",
+      "source": "매일일보",
+      "published_date": "2026-09-07",
+      "summary": "서대문구, 충정로역 일대 주차난 숨통…교회 주차장 100면 개방&nbsp;&nbsp;매일일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "bf781da1",
+      "title": "\"주차난 해소에 녹지 쉼터까지\"…창녕군, 군청 주차장 확충 완료 - 포인트경제",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GcF9MSWdzUVdoLXJpV0lLTllyT1ZxbW5xLXpYdFRQWUpmVXJCcTNBYjAzT012eGZFOUpvaGpCV1Zqa05Nd05RMnhWekpfVWo2V21RWFkwX29MMVFFRjYyWUozcHpXZWlyVUE?oc=5",
+      "source": "포인트경제",
+      "published_date": "2026-09-07",
+      "summary": "\"주차난 해소에 녹지 쉼터까지\"…창녕군, 군청 주차장 확충 완료&nbsp;&nbsp;포인트경제",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "42276d9a",
+      "title": "충정로역·아현역 일대 주차난 숨통…교회 주차장 100면 개방 - 한국철도일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tT05PWmtPcE9OSWZTSU1Eck4tdkVCeEtVM3JKQWFueUNOQTZDSFlJOVk1NnhKbThJVTctTEZ0VEsyMklfcUF6S0UzWkVLcWRZOEY3YktJbklnZFRYWVVpa1VjNFVraUlyQ2FlZ3paeGo?oc=5",
+      "source": "한국철도일보",
+      "published_date": "2026-09-07",
+      "summary": "충정로역·아현역 일대 주차난 숨통…교회 주차장 100면 개방&nbsp;&nbsp;한국철도일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "37e99b1c",
+      "title": "조인희 수원특례시의원, 화서 환승주차장·창업지원주택 주민설명회 안전대책·주차난·상권 피해 집중 점검 - 케이에스피뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OQ2NzaDMycFhhb2dqSUQxV0RlRTdGdEpuTzVvSUFOcFBZRDVicEVDM2M3MVFZdWpmemVqMW93SnZLeTlSNFQ2VTVUQlNfSDQ4ZUE?oc=5",
+      "source": "케이에스피뉴스",
+      "published_date": "2026-09-07",
+      "summary": "조인희 수원특례시의원, 화서 환승주차장·창업지원주택 주민설명회 안전대책·주차난·상권 피해 집중 점검&nbsp;&nbsp;케이에스피뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "0bef9fc0",
+      "title": "서대문구, 교회 주차장 100면 시민에 개방…충정로역 일대 주차난 숨통 - news.nate.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81Q01rckxBSjJVb2FaTEN2Y01jMnlDN3o0UGFVT0dSQURLVF9IcFhZdHdraDgwWG1BVlpUVkVTUjFNYTE4cVZwU3pKSlFnMkNOUUsw?oc=5",
+      "source": "news.nate.com",
+      "published_date": "2026-09-07",
+      "summary": "서대문구, 교회 주차장 100면 시민에 개방…충정로역 일대 주차난 숨통&nbsp;&nbsp;news.nate.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "468af323",
+      "title": "포항시, 창포푸드몰 민간 주차장 임차해 무료 개방…상권 활성화 도모 - GBN 경북방송",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SR2MwYnN4Z01HMW1DV21kV1VZLXNZMGdzWFJlVlJZS1llb3RCbFJaNDlmbjZxYmlsVGtIdWZ6YnhReklUOG91MUpBLXBhczlJcklfWk10LXBQUWFvY0plNXNXN3JiWktndFJ0aUVUVGhiRm45UWc?oc=5",
+      "source": "GBN 경북방송",
+      "published_date": "2026-09-06",
+      "summary": "포항시, 창포푸드몰 민간 주차장 임차해 무료 개방…상권 활성화 도모&nbsp;&nbsp;GBN 경북방송",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "cc54dd3a",
+      "title": "포항시, 창포푸드몰 주차장 무료 개방…상권 활력 기대 - hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oYW8wczNzNWR1dlRhSHRCT0w1VXRWUkZNb0JOdnZNX0pRQlgxOUZGRk44SzlhaURrdDFHQThqVDhtektuWGoweTB0NnNIZEhubkRmQ1ljUTlxTjdoVGUxbHZndkRTSTVlWUE?oc=5",
+      "source": "hidomin.com",
+      "published_date": "2026-09-06",
+      "summary": "포항시, 창포푸드몰 주차장 무료 개방…상권 활력 기대&nbsp;&nbsp;hidomin.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "74a4935e",
+      "title": "포항시, 창포푸드몰 민간 주차장 임차해 무료 개방…상권 활성화 도모 - dkitnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE52MEdvNDhmaUVHT3EzVV9wbnp1UnloRG51RS1QUHg2N0JJQ2paMGJFYmppR1d2QUplb2YzeWlwYnFwV3N4?oc=5",
+      "source": "dkitnews.com",
+      "published_date": "2026-09-06",
+      "summary": "포항시, 창포푸드몰 민간 주차장 임차해 무료 개방…상권 활성화 도모&nbsp;&nbsp;dkitnews.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
+    {
+      "id": "0efd7c1b",
+      "title": "대구 수성구 학원가 주차난 개선될까…`한시적 주차 허용` 검토 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBDekowekpyN09ySWR3Tm96cVlmaUdUUjh5ZjZpTW9BRE90bV9ULVd5T1J3cVFWNjV4OEJwR083NDljTGQzWFBXMHRQMHJzakRTVHMwQ0VkeEtGc3BWMzJlTlVR?oc=5",
+      "source": "매일신문",
+      "published_date": "2026-09-06",
+      "summary": "대구 수성구 학원가 주차난 개선될까…`한시적 주차 허용` 검토&nbsp;&nbsp;매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
+    },
     {
       "id": "3602adbf",
       "title": "천안축구센터 주차난 심각한데…지하주차장 10면 이상 ‘적치물’ 점령 - 충남일보",
@@ -301,6 +481,16 @@
       "summary": "진주시, 시민 참여형 주차장 확충···도심 주차난 해소 나선다&nbsp;&nbsp;경남탑뉴스",
       "category": "뉴스",
       "collected_date": "2026-09-06"
+    },
+    {
+      "id": "3efc606d",
+      "title": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진 - 시사일보",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KU3ZVbTU0dWJsX1JldU80eFc1V2VKYmtaSWFyU21OeDRGWS1nSTJRdUZOdUZYdjRJak5qLWNqZWU2ODZNS2xJQVdtRFY?oc=5",
+      "source": "시사일보",
+      "published_date": "2026-09-02",
+      "summary": "진주시, ‘시민 참여형 주차장 조성사업’ 적극 추진&nbsp;&nbsp;시사일보",
+      "category": "뉴스",
+      "collected_date": "2026-09-07"
     },
     {
       "id": "8a397725",
