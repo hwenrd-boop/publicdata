@@ -1,7 +1,57 @@
 {
-  "last_updated": "2026-09-08",
-  "total_count": 867,
+  "last_updated": "2026-09-09",
+  "total_count": 875,
   "articles": [
+    {
+      "id": "4b66daf0",
+      "title": "공유주차장 이용, 입차보다 출차 시각 먼저 확인 - 비건뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHMllWN1VPZVFuUjVIWWFJMkp2cTJVdTU0N3d6QW1kOW9nMWtLQ0J6TU5YdUZTdkk1c00tYjdTWlJST1pnLXJpX3R6QjFsTlUxYTlNS19xWmhVVWVUNlExRzRlckZYdw?oc=5",
+      "source": "비건뉴스",
+      "published_date": "2026-09-09",
+      "summary": "공유주차장 이용, 입차보다 출차 시각 먼저 확인&nbsp;&nbsp;비건뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
+    {
+      "id": "3faed5b9",
+      "title": "121억 투입 묵호 주차빌딩 305면…'핫플' 주차난 해소 기대 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FWG5UX3ZsRXNPUmlsUU92R0RMZXJmQmVGSUhzdW5VaDZtVDFfOGRseHQwSXdUYUpJY3BobDhSSDZTNVRqdjA3TF9QZ25CUFBibW1NdDh6YVJmN2_SAWBBVV95cUxQNUpCbDdnckNtSXd0a3dNYUd2bk1kSjJYUHFSeXpHTm9zQ3pUV1NvSkxSbVg1N3JQNExPdXlpMVdSTzFTYUE1NEFTZ3NXOTAzaFMzc3ZmM0U4QVlYM0J3UkQ?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-09-09",
+      "summary": "121억 투입 묵호 주차빌딩 305면…'핫플' 주차난 해소 기대&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
+    {
+      "id": "31db10ce",
+      "title": "'핫플' 동해 묵호권 오랜 주차난 해소 첫발…수변공원 주차빌딩 임시개방 - 노컷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOcy1jZDJNdEVYczdvSUhOTHhuOHFmM2xtTTNfdC1oaHZKVFYzdW1PWXk5b0RXTXdSYWRvc1l5UUh2ZHl0ZWdKcS0wM0lfT0hVSmc?oc=5",
+      "source": "노컷뉴스",
+      "published_date": "2026-09-09",
+      "summary": "'핫플' 동해 묵호권 오랜 주차난 해소 첫발…수변공원 주차빌딩 임시개방&nbsp;&nbsp;노컷뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
+    {
+      "id": "5fb891bc",
+      "title": "동해시, 묵호권 주차난 해소 나선다…수변공원 주차빌딩 임시 개방 - 아주경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52bFRfNTR0Vjd2ZTRPTy1DN2lhSTNDczNnbWZhcXk5Q1NydGp2QUFpYTdvbkg5ck1GeGdDSkJmaE1ITHV3M0lDbHFIMExIWTFHNVBrWjJPamhwd9IBWEFVX3lxTE50T1dSMnh1MW9BanRIX1pqYk0wSGEtWDZOeFltRnJOV0lqY3pUYjhnaDZLYUhuUG5mOXdJcUJKVzBvZGxHMk4wQmpTRjRVZjl2RWlCc2V0Nzk?oc=5",
+      "source": "아주경제",
+      "published_date": "2026-09-09",
+      "summary": "동해시, 묵호권 주차난 해소 나선다…수변공원 주차빌딩 임시 개방&nbsp;&nbsp;아주경제",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
+    {
+      "id": "bd8e92aa",
+      "title": "대구광역시, 산격청사 북측 출입구 9월 9일 개방...주차난 해소·보행 접근성↑ - gukjenews.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNE0wY2VUX25wTGc3c2dsSmoxSDlHYld2WFdZYUtBak93bnJNNFhkeGRldnhMdjF3LWJCSTUtWV91bnAxMjA2dXZrd182NlhDNDBvdFRnbEF3SWhaWnhqekZkRHl3VGJEd2hEc25n?oc=5",
+      "source": "gukjenews.com",
+      "published_date": "2026-09-09",
+      "summary": "대구광역시, 산격청사 북측 출입구 9월 9일 개방...주차난 해소·보행 접근성↑&nbsp;&nbsp;gukjenews.com",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
     {
       "id": "73d28f4c",
       "title": "서대문구, 아현성결교회 주차장 100면 개방…주민 공유주차장 활용 - 신아일보",
@@ -31,6 +81,36 @@
       "summary": "교회 주차장 시민에 개방… 서대문 주차난 던다&nbsp;&nbsp;서울신문",
       "category": "뉴스",
       "collected_date": "2026-09-08"
+    },
+    {
+      "id": "d329efc6",
+      "title": "차단기 두고도 미가동…체육센터 주차난 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBzZTloZThsZFhEaV9DZ0hoUGEtMktYQ3BhWGxsRWYydWg0T3duVjFSWlpEU0Y5ZUdsLTY5Q1dpdUFyQ2tkNHc?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-09-08",
+      "summary": "차단기 두고도 미가동…체육센터 주차난&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
+    {
+      "id": "a8cf9289",
+      "title": "대구시, 산격청사 북측 출입구 개방… 주택가 주차난 해소 - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PbUJqYXB6ZjNzNFRYMFRJemVHOXdMQ2V0WTVKTUVjNllMQ3FIX0RDWHFmMWlGRm9HWUdyaXlmZVFWemxkUmxSTUxvNUtMUVA2aFM2dUk3NG5LNlVKU29vTllfZTkyLVJQZ05R?oc=5",
+      "source": "BBS불교방송",
+      "published_date": "2026-09-08",
+      "summary": "대구시, 산격청사 북측 출입구 개방… 주택가 주차난 해소&nbsp;&nbsp;BBS불교방송",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
+    },
+    {
+      "id": "fd4d8a2e",
+      "title": "대구시, 산격청사 담장 허물어 주차난 해소 - 대구신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ycXZ5V2tCVDlXX1N0RUtHWGF4am9ZaHd0NkFTVThKNWlOWFdDdEVBRUJ4bm9DU3lkTVh1UVF0Q0xLbGRLMjdYNGlaN0JDNTg1MGdPaGx1VEZONTQ4MkVfakFaNXV0RmFmMW1j?oc=5",
+      "source": "대구신문",
+      "published_date": "2026-09-08",
+      "summary": "대구시, 산격청사 담장 허물어 주차난 해소&nbsp;&nbsp;대구신문",
+      "category": "뉴스",
+      "collected_date": "2026-09-09"
     },
     {
       "id": "21a2adef",
