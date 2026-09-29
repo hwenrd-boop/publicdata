@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-09-28",
-  "total_count": 1030,
+  "last_updated": "2026-09-29",
+  "total_count": 1042,
   "articles": [
+    {
+      "id": "20367149",
+      "title": "거리 위 골칫거리 '공유자전거'…무단주차 벌금 4만 원 추진 - MBN 홈페이지",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE03NkNBWUo5aHZzU0VTTi1kR1VJRlpEem5mMzJKZ20ydDN6TGx0RWJlODk1VU9ZY3ZDTDl2Z1VDMHpNVDVWMXo1ZXBn?oc=5",
+      "source": "MBN 홈페이지",
+      "published_date": "2026-09-29",
+      "summary": "거리 위 골칫거리 '공유자전거'…무단주차 벌금 4만 원 추진&nbsp;&nbsp;MBN 홈페이지",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "03e6bcd5",
+      "title": "김명환 의원, “공주·세종 광역BRT 개통 대비 주차난 해소와 지역경제 활성화 필요” - 중앙매일",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96UjhENmtkVHJoT2V6WTFZUnNGRTZzaVhSSW1XTWdQdDdCZzRadHYyT0dRUnpBckhvclczTlZQdFduRzNmYnJHWHlEOGpUNklqU2tvNjByY0FJeWZsMG1nblEyYmtldw?oc=5",
+      "source": "중앙매일",
+      "published_date": "2026-09-29",
+      "summary": "김명환 의원, “공주·세종 광역BRT 개통 대비 주차난 해소와 지역경제 활성화 필요”&nbsp;&nbsp;중앙매일",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "28de5a45",
+      "title": "구로구, 신도림 자동차운전학원 유휴부지에 임시 주차장 조성…주차난 해소 나서 - 아시아뉴스통신",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE52WGhnX2JhYXNmaHdiZHVDVVYxbzBXdTg1MkZHX1BtU3lCQVFtUlNuRkJTX1pXcHBDcjR5dEdHa2R4QTRYUW9WNVhHXzZqaHFlQjBXV0JhV19QQkdu?oc=5",
+      "source": "아시아뉴스통신",
+      "published_date": "2026-09-29",
+      "summary": "구로구, 신도림 자동차운전학원 유휴부지에 임시 주차장 조성…주차난 해소 나서&nbsp;&nbsp;아시아뉴스통신",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "cf184990",
+      "title": "여수 국동항 고질적 주차난 해소…주정차금지구역 지정 - 데일리한국",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tN0ZTMU5EcFVyRWg1NmJUd3p2NDFwVV9UX0lTdm5nMV9rTzUzbzUyUEdKWWZXcmdmc3lFRkRwN1FQa0d3MHRQZFFEYVBhLUNqbkFQUkxQVDJOd3VwRXN5cXRWWG1pVUZyY2dkYk5fNk42X03SAXNBVV95cUxObTdGUzFORHBVckVoNTZiVHd6djQxcFVfVF9JU3ZuZzFfa081M281MlBHSllmV3JnZnN5RUZEcDdRUGtHdzB0UGRRRGFQYS1Dam5BUFJMUFQyTnd1cEVzeXF0VlhtaVVGcmNnZGJOXzZONl9N?oc=5",
+      "source": "데일리한국",
+      "published_date": "2026-09-29",
+      "summary": "여수 국동항 고질적 주차난 해소…주정차금지구역 지정&nbsp;&nbsp;데일리한국",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
     {
       "id": "899101b7",
       "title": "구로구, 신도림 자동차운전학원 유휴부지에 임시 주차장 조성 - 매일일보",
@@ -111,6 +151,86 @@
       "summary": "구로구, 신도림 자동차운전학원 유휴부지에 임시 주차장 조성…주차난 해소 나서&nbsp;&nbsp;자치행정신문",
       "category": "뉴스",
       "collected_date": "2026-09-28"
+    },
+    {
+      "id": "4c0b274c",
+      "title": "구로구, 신도림 운전학원 유휴부지에 임시 주차장 조성 - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96c040SFFJdEtjN3kyVlB0QUFtUDBjMmwwR2REWXFrc0tVNHBUbmRMOHMwekJMcUl2VXhTemdtTDFNSGVpdjZfMUdBM1FkVTVwaXRQRWpZRDZDYTTSAWBBVV95cUxQYlktanpoV3h1T2c0NldPb0xMT0l5MnduR0dudHQ5ZXJGYlVmQWdrVmpmYTVUYU9OdHNFM1FIbHI3MXRRWXB5WDdZZGFqWVlaRS1GTVlBVkRrV2lHa0txTnQ?oc=5",
+      "source": "연합뉴스",
+      "published_date": "2026-09-28",
+      "summary": "구로구, 신도림 운전학원 유휴부지에 임시 주차장 조성&nbsp;&nbsp;연합뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "c3a786cd",
+      "title": "신도림 운전학원 유휴부지, 거주자우선주차장으로 변신 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yRFgyZUNjLUFUV1lOOXExbGV5THkzRi15NTZsV3pIbHBlQzh0QjNuOVM1dkdQSEd0MHhOOXc3dkhyVVVHRVJWbzhHbDcyb1FsYXBITnBTNlcydTU5T0I4b0NwaWVubDVPTnNZWjVDNlVWYXA0S2NvS9IBeEFVX3lxTE5yRFgyZUNjLUFUV1lOOXExbGV5THkzRi15NTZsV3pIbHBlQzh0QjNuOVM1dkdQSEd0MHhOOXc3dkhyVVVHRVJWbzhHbDcyb1FsYXBITnBTNlcydTU5T0I4b0NwaWVubDVPTnNZWjVDNlVWYXA0S2NvSw?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-09-28",
+      "summary": "신도림 운전학원 유휴부지, 거주자우선주차장으로 변신&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "9ad91b8c",
+      "title": "구로구, 10월 1일부터 신도림 자동차운전학원 유휴부지 임시 주차장 운영 - G밸리타임스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UNWpQRjFXb1RLQ0VtSEJtZDJUQmh2MmZ3T2RBZjF0M2NQbnVPNllaQXU4QlY0a1dLd3ZndXRNMnVZNFJ4N3JKWkVsX3lNT0phLWpUeXNic2xrX0JGdXZLTmpac3FzSEpaMnJEaUl3?oc=5",
+      "source": "G밸리타임스",
+      "published_date": "2026-09-28",
+      "summary": "구로구, 10월 1일부터 신도림 자동차운전학원 유휴부지 임시 주차장 운영&nbsp;&nbsp;G밸리타임스",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "8c518954",
+      "title": "구미시, 빈집 허물어 주차난 푼다…땅값 없이 54면 확보 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE12NTFROWE5b19pcmlheDJydzMwTzEtQjZjU2J1QXE1X2FkUW44cW5DSlU4TzFfUVZOd2ZyYVBXNEVoa2NKLW9oVjVNOGpaLUE?oc=5",
+      "source": "v.daum.net",
+      "published_date": "2026-09-28",
+      "summary": "구미시, 빈집 허물어 주차난 푼다…땅값 없이 54면 확보&nbsp;&nbsp;v.daum.net",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "c598574b",
+      "title": "인천 옹진군, 만성 주차난 '영흥 진두항 공영주차장‘ 11월 유료화 - 인천투데이",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1U18teklQamFWZk9IRlVNTU1TbTFPRHpuQlVGZEc5V3VEOWlxbDAyU25ZVXBNX1FkZ240RFZJT21Wenl2cjczNEI2eUM1NWIxZzhEOHA0RHU1RS1YdHJxdzdNZWpRNHdTcEo4YlNIbEo?oc=5",
+      "source": "인천투데이",
+      "published_date": "2026-09-28",
+      "summary": "인천 옹진군, 만성 주차난 '영흥 진두항 공영주차장‘ 11월 유료화&nbsp;&nbsp;인천투데이",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "4a5093bd",
+      "title": "여수시, '고질적 주차난' 국동항 불법주정차 단속 나선다 - KBC광주방송",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkRWdVc1FNTHByU2M4V2hOR243MEVYbWE2eFhMM2RZVDFnTFc4ZGxZbk9rNFBPV3l6cHRKU0N6T09za2E1c18wcHJ0enVsMFk2OFE5LUJ2ZTZPdWI4T0pYbA?oc=5",
+      "source": "KBC광주방송",
+      "published_date": "2026-09-28",
+      "summary": "여수시, '고질적 주차난' 국동항 불법주정차 단속 나선다&nbsp;&nbsp;KBC광주방송",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "c224588c",
+      "title": "R]경주 황성동 일대 주차난 심각..공영 주차장 늘려야 - 안동MBC",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnRwYnk2NUVuZHRYTWJVUG5VZHV6SHdvMFdBX3ZPUDRxZ25Jelg5dE9vN01oNVNOQUdQdzk4T3ljdjdVdWpwZmtEMERxWnhYRmM0ckpuT25ZU2k5QXYwTktRUGJxcGQwRXpuXzhWaDZWLWFwNW9tcWgxbGEwUkxDSFZJRGJhaFNSc09MSmVMREY4U01zcEJoTHVRYnYxOWRjYUhxb0lQMjNqZU0?oc=5",
+      "source": "안동MBC",
+      "published_date": "2026-09-28",
+      "summary": "R]경주 황성동 일대 주차난 심각..공영 주차장 늘려야&nbsp;&nbsp;안동MBC",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
+    },
+    {
+      "id": "ef6cbc5c",
+      "title": "고창 석교리 주차난 숨통…나들목공원에 38면 공영주차장 - 베타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWaWkzWGFUaHgxZEJmQTk5eEJEclRSbjY3NmpRbzBDM0NzNmRXTVotS3BreVRXeHJCQmxDTWZydVJaajR0T1ZLcm1VcFJGZHR2QzFvZ3l6SVBpeUp2bGg4TWpZenI?oc=5",
+      "source": "베타뉴스",
+      "published_date": "2026-09-28",
+      "summary": "고창 석교리 주차난 숨통…나들목공원에 38면 공영주차장&nbsp;&nbsp;베타뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-09-29"
     },
     {
       "id": "839f2956",
