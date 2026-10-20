@@ -1,7 +1,77 @@
 {
-  "last_updated": "2026-10-19",
-  "total_count": 1183,
+  "last_updated": "2026-10-20",
+  "total_count": 1198,
   "articles": [
+    {
+      "id": "7b2368d6",
+      "title": "대전시, 공유 자전거·킥보드 지정 주차구역 운영 - 대전MBC",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGczhZWXd4Y2c2TUZYbDNmSVlHWmliUkhMdWt6OE5OSWNpMW9xVGlobjRtNWw3LW11T2RlanRRMVkzb0RaR1ZCZ3pBaC0xTEk?oc=5",
+      "source": "대전MBC",
+      "published_date": "2026-10-20",
+      "summary": "대전시, 공유 자전거·킥보드 지정 주차구역 운영&nbsp;&nbsp;대전MBC",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "b924ee7a",
+      "title": "제주 용담2동주민센터 앞 공영주차장 확장…주차난 해소는 '글쎄' - 헤드라인제주",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBMGN6ZjY4UmQ3dWFWM0Jld0h1YklheGttV29QdnR0RzhjLWctSHFTZHlzNm9ZWjV2b0RGS3BZT2VwdnBzYmtrZTgxc2VIb3ZrM0VWYW5vWGdyc1VuZHpILV83SFk1Rm8taWdVSmRTanFsdkU?oc=5",
+      "source": "헤드라인제주",
+      "published_date": "2026-10-20",
+      "summary": "제주 용담2동주민센터 앞 공영주차장 확장…주차난 해소는 '글쎄'&nbsp;&nbsp;헤드라인제주",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "722423fb",
+      "title": "'도심 주차난 해소' 청주시, 1389면 규모 공영주차장 12곳 확충 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4weUtnRDhneWNENS1CRDFYb3UwcWpUMl91R0tXY1pBRXRUZGh4MVdzbUJsdFRrTkkzNnAzMEV5NWU4MUZDMnR0UVlvb2MxM212UDQzS0V0LUx3ampnN280WmJycEI4RjdwVDZPcF9QME1qM3REQmJSUNIBeEFVX3lxTE4weUtnRDhneWNENS1CRDFYb3UwcWpUMl91R0tXY1pBRXRUZGh4MVdzbUJsdFRrTkkzNnAzMEV5NWU4MUZDMnR0UVlvb2MxM212UDQzS0V0LUx3ampnN280WmJycEI4RjdwVDZPcF9QME1qM3REQmJSUA?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-10-20",
+      "summary": "'도심 주차난 해소' 청주시, 1389면 규모 공영주차장 12곳 확충&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "a2a319e6",
+      "title": "전북도청사에 주차타워 건립…주차난 숨통 트일까 - 전북노컷",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBvemd3Wm1uNmdtOHZGanVMUDgtcUhYcE5ZaFNnMUgtVlZ3MnctZ2s2Q1lhd0dSQWh1MkpOb3YtSWtjcW9SbVNaNVlQSW9hTVVJ?oc=5",
+      "source": "전북노컷",
+      "published_date": "2026-10-20",
+      "summary": "전북도청사에 주차타워 건립…주차난 숨통 트일까&nbsp;&nbsp;전북노컷",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "7cb9ffc2",
+      "title": "[성북구·관악구]주차난-버스 노선-재개발… 구청장이 동네 돌며 민원 듣는다 - 동아일보",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym0yYXN1NXZ0Q0o5Sl9WbzZ4dU9YS1ZyZVREYUEtX2lEQ0VydzhvZ3VNMXA5SkUtV0FHbldSdXpRSVo3SkI4RVdZaU5iYUtTX29RSWNCRXc4OVNPQ3ZielAyVjlidEx2V01qR3ZzbV85Z3RxZWc?oc=5",
+      "source": "동아일보",
+      "published_date": "2026-10-20",
+      "summary": "[성북구·관악구]주차난-버스 노선-재개발… 구청장이 동네 돌며 민원 듣는다&nbsp;&nbsp;동아일보",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "88c041b8",
+      "title": "제주시, 용담이동 주민센터 주변 주차난 해소 나서 19면 추가 확보…공영주차장 3배 이상 확대 - 제주뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9SYWhqNWJhTnZvVlF6anJIS1AxLVNlWjFtaTNaZGpnMjRlYzlkS2hVU2prRTNiR0tLaWhfU1dzdzB0RDhHaGpWZWw4TDEtOWJ0eW1hbURlZkhLY1hXRW80NXlvNEd5QUNSSzRN0gFuQVVfeXFMTzJUbDB5aXluNjRlZnlnUkhhb3ZOaUY3NDhGdzFsemNrRHo3T25CLWNjRmV1ZkE0bGR5STVIVFB3aUZMdmljc0tsUjJ3TTdjOHVKbkJWTTRPd01GUzNnRnFjZHJ1TnBvenJFS04tQnc?oc=5",
+      "source": "제주뉴스",
+      "published_date": "2026-10-20",
+      "summary": "제주시, 용담이동 주민센터 주변 주차난 해소 나서 19면 추가 확보…공영주차장 3배 이상 확대&nbsp;&nbsp;제주뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "8b15af48",
+      "title": "'고질적인 주차난 해소' 청주시 공영주차장 조성사업 추진 - 충북일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lczlFX0tLR3AxMk1iYTRST0kwSElxSDlsQWJaRUlFSEJmczRRRHhjMnlIUjlEcm95TEJpRXRrTnZ5dmljemF3SHI1eHJWX1hkZnhZU3pvazhyb0VJZDJMZlZ3?oc=5",
+      "source": "충북일보",
+      "published_date": "2026-10-20",
+      "summary": "'고질적인 주차난 해소' 청주시 공영주차장 조성사업 추진&nbsp;&nbsp;충북일보",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
     {
       "id": "650e466e",
       "title": "공유 킥보드·자전거 ‘주차 지정 구역’ 운영…부담금 등 페널티 부과 - 서울신문",
@@ -101,6 +171,66 @@
       "summary": "의정부시, 주차난 심각한 원도심…의정부1동 입체공영주차장 증축 준공&nbsp;&nbsp;국제뉴스",
       "category": "뉴스",
       "collected_date": "2026-10-19"
+    },
+    {
+      "id": "b59df750",
+      "title": "대전시, 공유 킥보드·자전거 지정주차구역 도입 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CNjE1Yk9QZndnV3loY25LVXhEMTFMUW5MME52bm54MWFmQlc5QjVvbUx3TUNPcm9ENmJrS2ZCRDR5NW9JcmtVaHlSMnBTdUg1bFRTQ2xfREl4LWtDajZMSzNKemExMlgzai04alBJZ9IBc0FVX3lxTFBYNnhSUFlMallhNHBkcU1GbkVSLWZyRDJ2d2hoZnZqY3NCMTF0eWVuTjNmb044Tl9QZkNFbmlpN1pfbFo0UFh4WEl5WFd0aHh3Nnc0M29HTmo4dldMdUdZdG5NZTdqbUI4TzNrNnZnOXYxd2s?oc=5",
+      "source": "대전일보",
+      "published_date": "2026-10-19",
+      "summary": "대전시, 공유 킥보드·자전거 지정주차구역 도입&nbsp;&nbsp;대전일보",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "29ad56d5",
+      "title": "대전시, 공유킥보드·공유자전거 지정주차구역 시범 운영 - 충청게릴라뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qblhlcENnX3Z3cU5PNndsWmZvVU5WQ2pMWVFMRDFhajFidWx6X3dDTks2UjRReXo4VE9ZQXJFRUZkVUVFVkg3alktdU9UcXVwZzk5eVZKUUVBc1BYVzFVYjRHXzlEUQ?oc=5",
+      "source": "충청게릴라뉴스",
+      "published_date": "2026-10-19",
+      "summary": "대전시, 공유킥보드·공유자전거 지정주차구역 시범 운영&nbsp;&nbsp;충청게릴라뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "f8660774",
+      "title": "아무 데나 세우면 페널티…대전 공유킥보드 지정주차 217곳 - 티제이비",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14ZnhKQzRNOHlGZlhJV3R0Szl5SDdRZFFiRklMRS1CMWJfbWdac09EVy1UdjFRWlVqSkcyNWJ4UU14UTdYaXVmS1RMeUl1ZkhwQmFwdnJUZTFkdVlubWZ0NTlB?oc=5",
+      "source": "티제이비",
+      "published_date": "2026-10-19",
+      "summary": "아무 데나 세우면 페널티…대전 공유킥보드 지정주차 217곳&nbsp;&nbsp;티제이비",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "cb1a3533",
+      "title": "대전 공유 킥보드․자전거 지정주차구역 생긴다 - 모빅경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqYXJMVElGa2drdWprVVNxV1F3b3h4bW1mMTZGa01ZS19ZZ1JHTXRqaU4wX2ZZNGVzUVhwczh3ME9NbUtiblVDLWNkdmNTVVQwRG9rVzhzNjcwWVh6TVZKMk5DQVh4SHIxUmxUckplNGU?oc=5",
+      "source": "모빅경제",
+      "published_date": "2026-10-19",
+      "summary": "대전 공유 킥보드․자전거 지정주차구역 생긴다&nbsp;&nbsp;모빅경제",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "db7aa6d7",
+      "title": "경주시, AI로 교통·주차난 해법 찾는다…스마트도시 밑그림 - 경북일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ub0pfOVYwbHZhWXg1MUstNHJiLXBiTFZiV2NPOXhzbUcwcjhvZm9MVGRLZEowY2xGa3o5bGwwdEI4S1ppT2tZMmoyWHlvU0s5WDBKM3R3UGdudE02OG1JUjlYSjVkRnl1Z0V4Tm9IWQ?oc=5",
+      "source": "경북일보",
+      "published_date": "2026-10-19",
+      "summary": "경주시, AI로 교통·주차난 해법 찾는다…스마트도시 밑그림&nbsp;&nbsp;경북일보",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
+    },
+    {
+      "id": "87a79b34",
+      "title": "여수시 주차장 확보율 78.3%…주차난 심한 지역부터 확충 - 매일일보",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9zZkFHSUxva0M2Z2dJZUROTlJwS29wWWxQd1JOS3ZGZExLNFlYanRTZ0IteENieGlkQ2lHVDB3THZ0eHFPUV9HTGJ3V2FBaThxNnZ3ejRWNmc1WHF3SXNyenlYZFQ?oc=5",
+      "source": "매일일보",
+      "published_date": "2026-10-19",
+      "summary": "여수시 주차장 확보율 78.3%…주차난 심한 지역부터 확충&nbsp;&nbsp;매일일보",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
     },
     {
       "id": "6341260b",
@@ -281,6 +411,16 @@
       "summary": "인천시 종합건설본부, 숭인지하차도 공사 주민 주차난 덜어낸다 ... 임시주차장 47면 개방&nbsp;&nbsp;서울일보",
       "category": "뉴스",
       "collected_date": "2026-10-19"
+    },
+    {
+      "id": "0520684d",
+      "title": "빈 공간을 주차장으로” 관악구, 대학동·서림동 임시 무료주차장 운영 - 로컬세계",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvNDM4WWYxU3RMZnZXWUNKVmx1Zm13bVlhRE5LX0J4U1FMX2NneXFNMDBJam9XUFotME9oVXFvM3Q1aWNSdDlMVDBaRUVDRWNpbUI5N19VOTR3djVNRmQ4bw?oc=5",
+      "source": "로컬세계",
+      "published_date": "2026-10-16",
+      "summary": "빈 공간을 주차장으로” 관악구, 대학동·서림동 임시 무료주차장 운영&nbsp;&nbsp;로컬세계",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
     },
     {
       "id": "3d8aa4b1",
@@ -731,6 +871,16 @@
       "summary": "제주시, 부설주차장 개방 시 시설개선비 지원&nbsp;&nbsp;뉴스N제주",
       "category": "뉴스",
       "collected_date": "2026-10-19"
+    },
+    {
+      "id": "35b6bc39",
+      "title": "건축물 부설 주차장 개방 시 시설 개선비 지원 - JIBS제주방송",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGNRMEdXU2thdV9iVmFoaXk4cDhERFJUMFlqaU04dWF3N01MSlhCYkFxbDJCam1oRERWMjVPT09VbkNwSzVMSXFVckxwUmg0UkZRQkJ6T0hEUXd3ZmtKVlhNbjkxR05qVkdUelVsNGhkYVc4bDViTjlON1B2UHNiRg?oc=5",
+      "source": "JIBS제주방송",
+      "published_date": "2026-10-11",
+      "summary": "건축물 부설 주차장 개방 시 시설 개선비 지원&nbsp;&nbsp;JIBS제주방송",
+      "category": "뉴스",
+      "collected_date": "2026-10-20"
     },
     {
       "id": "33c03ae1",
