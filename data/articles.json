@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-10-25",
-  "total_count": 1235,
+  "last_updated": "2026-10-26",
+  "total_count": 1241,
   "articles": [
+    {
+      "id": "b3ddd442",
+      "title": "제주 공영주차장 62% 인하…주차난도 풀릴까 - 뉴스N제주",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjaDlGNkNCYlloSjNhUXdMUFZtWG9qZnlrbHZ5bkZIUVdZMlFZcThQNTZyZkRHY1BDM1lGdExHbnJ1bEtkamhRb0Rlekt1VkdtTVVBUTlBUDItemNBNXNaLTBqbjN0ZVVfR3c0Uw?oc=5",
+      "source": "뉴스N제주",
+      "published_date": "2026-10-26",
+      "summary": "제주 공영주차장 62% 인하…주차난도 풀릴까&nbsp;&nbsp;뉴스N제주",
+      "category": "뉴스",
+      "collected_date": "2026-10-26"
+    },
+    {
+      "id": "c1a81f3a",
+      "title": "동해시, 상습 주차구간 노상 주차장 `대정비`… 주차난 해소 총력 - 시사줌뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xdXY5RnRLWmtfRWVVOEVxNFBwWWJ2S0N2eVB5SlBQWmwtMXNoQnRkZGk2NkY2TEFZVk9Pb2w1c3FYcllJdmo0?oc=5",
+      "source": "시사줌뉴스",
+      "published_date": "2026-10-26",
+      "summary": "동해시, 상습 주차구간 노상 주차장 `대정비`… 주차난 해소 총력&nbsp;&nbsp;시사줌뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-10-26"
+    },
+    {
+      "id": "b8e91fca",
+      "title": "제주 공영주차장 요금 개편…주차난 해소냐, 서민 부담이냐 - newslinejeju.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ScVlOTnF1SGFJVHF4MkFVUy1mZnlBWDVtcU1OT1M4WktuekZKaU53LUN2d2k2cFN5NTZrM0h2VUtDY3M3Yjd5M2pmMEJwc2RnejhHdTlTUnBuSjZsMi1vX0lhZUs4SHYxWlNKdEo4cw?oc=5",
+      "source": "newslinejeju.com",
+      "published_date": "2026-10-26",
+      "summary": "제주 공영주차장 요금 개편…주차난 해소냐, 서민 부담이냐&nbsp;&nbsp;newslinejeju.com",
+      "category": "뉴스",
+      "collected_date": "2026-10-26"
+    },
     {
       "id": "d753ad0e",
       "title": "인천 미추홀구, 남부초 주차장 25면 개방 MOU - 경기도민일보 미디어",
@@ -41,6 +71,16 @@
       "summary": "제천 중앙교차로 주차난 해소 촉구, 시민 190명 \"공영주차타워 건립해야\"&nbsp;&nbsp;충북일보",
       "category": "뉴스",
       "collected_date": "2026-10-25"
+    },
+    {
+      "id": "4ae2d7a7",
+      "title": "가격도 저렴한데···주차난 덜고 낭만 더하고 유럽 골목 누비는 ‘귀여운 차’ - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aQWpwa3VfNkgtZWNGSGM1M3NhUF9FOXZDX1o3QUFGWVNNdWNiMkZaUHhhckctZG5jTEZnWkFFUU1JNDZ5YmZNdTc4UFRvd2RCd2lfeXRJY0oxd9IBX0FVX3lxTE5nVHB3cDhzeHNJUFpOR2daUmdLTDN6SzhsM1dfbXZ0bi1nU2xsZnppWmFMY0NlbkNuUmNxZnFSX2pMX25JOFo2MFM0blgyMlZtdm1XSnA0OS1CMGd1TE80?oc=5",
+      "source": "경향신문",
+      "published_date": "2026-10-25",
+      "summary": "가격도 저렴한데···주차난 덜고 낭만 더하고 유럽 골목 누비는 ‘귀여운 차’&nbsp;&nbsp;경향신문",
+      "category": "뉴스",
+      "collected_date": "2026-10-26"
     },
     {
       "id": "b3661d57",
@@ -133,6 +173,16 @@
       "collected_date": "2026-10-24"
     },
     {
+      "id": "95fb9cfd",
+      "title": "자갈치 일대 '관광버스' 주차난…민간 부지로 해법 찾는다 - LG헬로비전",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9lQk5zVGJXWXpJTjE0dlhzYXVkTTRtdWpPdkptS2hROUJqQnRERTYzMEctM0JxUlZvV3N3LTFkSG5pXzhfWkV4NEFIeENOVVlBWHBpcG42ZkFseXV0b3ZlSkQ4bFU0Q0pMdUR6RW5jWnVhQXU1OUHSAXZBVV95cUxPZUJOc1RiV1l6SU4xNHZYc2F1ZE00bXVqT3ZKbUtoUTlCakJ0REU2MzBHLTNCcVJWb1dzdy0xZEhuaV84X1pFeDRBSHhDTlVZQVhwaXBuNmZBbHl1dG92ZUpEOGxVNENKTHVEekVuY1p1YUF1NTlB?oc=5",
+      "source": "LG헬로비전",
+      "published_date": "2026-10-23",
+      "summary": "자갈치 일대 '관광버스' 주차난…민간 부지로 해법 찾는다&nbsp;&nbsp;LG헬로비전",
+      "category": "뉴스",
+      "collected_date": "2026-10-26"
+    },
+    {
       "id": "a6fa7dc9",
       "title": "포항시청 ‘고질적 주차난’…‘3층 4단’ 타워주차장 내년 착공 - 경북도민일보",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ld0h6OERjZkstMTZsN0FldWQ5N3pKMGdNR0VCbF9fTWFGYWhEMWVMN0RSSWZjM3F0UXBTN0lMdVlacjlMRldEM1RQMFV6eTlyYVVielZTbmJMYWtWWHNOV2NHajVjSnJFbHc?oc=5",
@@ -211,6 +261,16 @@
       "summary": "미추홀구, ‘미추홀열린학교’ 협약... 인천남부초 주차장 25면 개방&nbsp;&nbsp;장애인문화복지신문",
       "category": "뉴스",
       "collected_date": "2026-10-24"
+    },
+    {
+      "id": "0b63ef53",
+      "title": "미추홀구 ‘미추홀열린학교’ 협약 체결…인천남부초 주차장 25면 개방 - 산경일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56TTVEdzV4alMzVzFBejhhUzVrWi1kSzQ5eVdfQUIzRGpqaDBYU2tGRm5IN0dVNnpWdWZlZDh4LXVqc3RLbWFYaGFtT1pxcjZHTkJoTzJSdnFGR3BCRWJQRlZmb2VLbEhlRGxHQmJZUkI?oc=5",
+      "source": "산경일보",
+      "published_date": "2026-10-22",
+      "summary": "미추홀구 ‘미추홀열린학교’ 협약 체결…인천남부초 주차장 25면 개방&nbsp;&nbsp;산경일보",
+      "category": "뉴스",
+      "collected_date": "2026-10-26"
     },
     {
       "id": "5a055aaf",
