@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-04",
-  "total_count": 1308,
+  "last_updated": "2026-11-05",
+  "total_count": 1319,
   "articles": [
+    {
+      "id": "0437c23f",
+      "title": "경북도의회, 빈점포 활용·공유주차 개선 방안 모색 - CNB뉴스",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB5V2tVZGRhTHVJQmZpWnFMdU9wNC0zejBYa08yZmVhSjh3ZDE3c0VDNWtWay16c3pQNGo5RkJIajJBRUNBYndKajltQ1k0T0s2TU5wOFE4YWtGZTBoQWoxUVhDNzJueWhBVklZ?oc=5",
+      "source": "CNB뉴스",
+      "published_date": "2026-11-05",
+      "summary": "경북도의회, 빈점포 활용·공유주차 개선 방안 모색&nbsp;&nbsp;CNB뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
+      "id": "d090392e",
+      "title": "종로구, 신영동 공영주차장 완공…주차난 해소 기대 - 전국매일신문",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OZngwbWl0SEZlNXBfZlpnT2Y1MDFhMXZvWmdGRWtqYjZxb2dfaTdPM1BkUWlKRXd2cno3d254emxuUHZLWkZVd1NwTU5saWZNY0xLSzkycFhyMUNpbGVlajhLR1dadmlTSzZFYm5n?oc=5",
+      "source": "전국매일신문",
+      "published_date": "2026-11-05",
+      "summary": "종로구, 신영동 공영주차장 완공…주차난 해소 기대&nbsp;&nbsp;전국매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
+      "id": "76388791",
+      "title": "서울 종로구, 신영동 골목에 공영주차장 신설…주차난 해소 기대 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSlhfNXdlSms5VUpwWWVab1QzbHpTSEdZTFBHT0x1UkpQNko5Y25XSUVRTjlmbUMzOW5RS0Z6Y3RhQkYtcWRsNnFBTmVub0p4MTU1Zy1uUzFiOE1UWXZyWS0wbVplYTdRU1k2c2M5ckhacEs0YjdWLXc2b3Q4ZlIxWjl2eUV1OEl3Y2lCeGhlQXY2cHhWRmN0NWNPR0ktQXdLSjdqTDlEOTM5QnRLeW9FZWlfSE5wdENTQzVUNi1fMERxbG9xM2dydmdzZE1rSEdJTDZUcXMyZF9qek1DVHNKVXZaSlhoVHE3d1FMVkljQS12OFl5Z0dLQXhWLXNWWmRfa0dHQmxoelFwaElWYWJ4VEhkR1RycTg?oc=5",
+      "source": "데일리안",
+      "published_date": "2026-11-05",
+      "summary": "서울 종로구, 신영동 골목에 공영주차장 신설…주차난 해소 기대&nbsp;&nbsp;데일리안",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
     {
       "id": "78e4a0ca",
       "title": "경북도의회, 빈점포 활용·공유주차제도 개선으로 침체상권 살린다 - 열린뉴스통신",
@@ -61,6 +91,36 @@
       "summary": "단양군, 수변로 공영주차장 확충으로 도심 주차난 해소·지역경제 활성화 기대&nbsp;&nbsp;중도일보",
       "category": "뉴스",
       "collected_date": "2026-11-04"
+    },
+    {
+      "id": "a03ce388",
+      "title": "부산 북구-(주)쏘카, 공유주차 실시간 플랫폼 구축 업무협약 체결 - 국제신문",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDZmbngtbHJIbEJOLUZhOXdpeUxhT0d1Vl9hNngyWVZhTzdSenRiMmJxV1ljLWdXRjJFOElkZ05YT1QzWFpZNlpzNDA5anVFTGJ0TldjbjEyS0xoSFZJcXhiU19ycVF2eTVuZ09IT2tFTU9ZV2RtWWFKWGtwbk8zdkRtMGV3UHYtS3JEbldB?oc=5",
+      "source": "국제신문",
+      "published_date": "2026-11-04",
+      "summary": "부산 북구-(주)쏘카, 공유주차 실시간 플랫폼 구축 업무협약 체결&nbsp;&nbsp;국제신문",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
+      "id": "18d00208",
+      "title": "부산 북구, 쏘카와 빈 주차면 공유…내년 3월 운영 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2S2FQMlVHZGFsdjJMQUVUU29TVUw5cl9rYkJhOG1YUTRJZko4RGVvQXhMT1dWNmtsM3dsMTZDSHF3RE9kQ2tpNXZxcDF2Zlp2bUFxb19MZjZzUVpianJmMzZMdkNFNlFDMEhsNA?oc=5",
+      "source": "중도일보",
+      "published_date": "2026-11-04",
+      "summary": "부산 북구, 쏘카와 빈 주차면 공유…내년 3월 운영&nbsp;&nbsp;중도일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
+      "id": "af9793c2",
+      "title": "부산 북구, 빈 주차 공간 주민끼리 공유…내년 3월 플랫폼 운영 - 뉴스1",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ld2UtZTBBMTBfZmJuTDRlLWxFd2F1VlM4NDZKem5GeFNZTUpsd0p6S3VrWENYSkZqRnM5Z3JtUUN5UkVac0lkRkRCUlhLVFFpU0YyZ0o4bk04OXU4TXJn?oc=5",
+      "source": "뉴스1",
+      "published_date": "2026-11-04",
+      "summary": "부산 북구, 빈 주차 공간 주민끼리 공유…내년 3월 플랫폼 운영&nbsp;&nbsp;뉴스1",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
     },
     {
       "id": "db60508f",
@@ -233,6 +293,36 @@
       "collected_date": "2026-11-04"
     },
     {
+      "id": "65b6b259",
+      "title": "경북도의회, 빈 점포를 지역상권 자산으로…공유주차 개선 해법 찾는다 - 뉴데일리 대구경북",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TUElValFTdnFFQU91WWtDNGlISXpnMVNEcmgzcUNST2NKQmtreGl0VENwUUVXMk56dUhSeTY0YW9XTldtY185MXRlY0ZoMURhVmw2VU81ZlF5RHdONlNKZExJUGhUVmttQnN0cThoM2pKMUNYNWxvcmZ30gF_QVVfeXFMUEE2SWhMY2hnb05FZE84MzQyUGVfdXhCX2xtb0JVZ3VhV2FaR1BodWpoak0xMjJ2cXQxSTVabWs1SHd0TXN6d2NVcWo1Y3g4UWVDY29OejZNclh3TUNFQjUxQlRDNGRNczhUN1YtRmE1MTAtRk9XYlE3aHVPMnJNNA?oc=5",
+      "source": "뉴데일리 대구경북",
+      "published_date": "2026-11-03",
+      "summary": "경북도의회, 빈 점포를 지역상권 자산으로…공유주차 개선 해법 찾는다&nbsp;&nbsp;뉴데일리 대구경북",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
+      "id": "3d4bed0d",
+      "title": "경북 빈 점포, 지역상권 살릴 새 공간으로…공유주차 활성화도 모색 - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yZDhCN0gzaFF1NTNndnc4RkUxdGZUV2hCU1hYYTBFWVpNTjA1b2F4TDczRWl5SUdVMzZkYVhVTUIwMDQtbFBYcGhkY0dXNVlLU3dxLTVRRjVkYU1FTHFvRlJn?oc=5",
+      "source": "매일신문",
+      "published_date": "2026-11-03",
+      "summary": "경북 빈 점포, 지역상권 살릴 새 공간으로…공유주차 활성화도 모색&nbsp;&nbsp;매일신문",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
+      "id": "f826e5bb",
+      "title": "골목마다 불법 주차…공항 이전까지 주차난 방치? - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBldGZjUEhVbm5ha2hVd2FCcDBxdkhBNjNZM25xMHJzLVUyeUhJT1d0TTh0RkQwbjBDMXNOU1dkejNldzZaZHktd2FFLTY3YkwxVGo2ZlBmaWNJeGc?oc=5",
+      "source": "KBS 뉴스",
+      "published_date": "2026-11-03",
+      "summary": "골목마다 불법 주차…공항 이전까지 주차난 방치?&nbsp;&nbsp;KBS 뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
+    },
+    {
       "id": "5c448754",
       "title": "주차난에 울산 골목길 주차장애물 적치 갈등 - 경상일보",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uN2dPVThmZ0I3bDcya2QtZVA2a1kwc3FUOU9mM2FIMnZ2RHlUYVBVZUlxZ205aEg2Rm1Sdm9oeV9NQ2pjLWdpSVJRYkIwb0JCQkhiT1FWLXVMY2t3c0xPVmtyRE5mOUtxakR1MA?oc=5",
@@ -261,6 +351,16 @@
       "summary": "파크골프장 주차난 몸살&nbsp;&nbsp;골프저널 Golf Journal",
       "category": "뉴스",
       "collected_date": "2026-11-03"
+    },
+    {
+      "id": "9a5ecb83",
+      "title": "화물차 밤샘 주차난 던다…달성 공영차고지 16일부터 무료 시범운영 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45YmFoN1BfclRwUW51dXlqUG1CZVRtM1pkNFRET3duVHFDam12VzBuRUFLLXBaV0V2Mm1qdndRajVNOU4yclpHa3BVcGR5SHN6NFQwZTN0bXZkdw?oc=5",
+      "source": "경북매일",
+      "published_date": "2026-11-02",
+      "summary": "화물차 밤샘 주차난 던다…달성 공영차고지 16일부터 무료 시범운영&nbsp;&nbsp;경북매일",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
     },
     {
       "id": "56510f18",
@@ -12433,6 +12533,16 @@
       "summary": "금천구, “개방된 부설주차장 이용하세요”&nbsp;&nbsp;서울일보",
       "category": "뉴스",
       "collected_date": "2026-06-12"
+    },
+    {
+      "id": "0af16d3e",
+      "title": "금천구, 내달부터 개방 부설주차장 26곳 1135면 운영 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAya3lweVpRXzJ4TjlsVm9CcVdtdFNiNi1ndEdXem9jV2RkdHI0OWx6dXFCMmR1Z1VLUFRYd1hzaFRwbVdNWHhwQ09INHBzTWJBMTd5Tzk1d2NQUnlPNkY3RA?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-03-29",
+      "summary": "금천구, 내달부터 개방 부설주차장 26곳 1135면 운영&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-11-05"
     },
     {
       "id": "58438a59",
