@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-11-07",
-  "total_count": 1336,
+  "last_updated": "2026-11-08",
+  "total_count": 1340,
   "articles": [
+    {
+      "id": "3ffbe232",
+      "title": "서산 공영주차장 11곳 주차 정보 실시간 공유 - 대전일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZemhYak82OTNMX0VaeEFoMVU1dGh5Zks5NTdJZUh0UldtWnRSeTlSbFcwTFB0REZ5RkNsTHYzQ1VlVEFQUFJPUEE3Tm1ZNXRmU3haWmxuWnY5M3lLNzVqcF9kbXZkNkx1VWJyWEpYb9IBc0FVX3lxTE5fY3NJZEZJYlBJOGpNRmFXZ3JheEVTekhLU281OUdqLWsxZEdfb1VCcExadUI1Tzc5SDRxRzNzaHljRWJWb0R5V1RMd0J0Qy1EOHo0SUpLRG9YeWd6ZFFtZDZKUW5BZV9HWlNWN1BTZ2VZMGc?oc=5",
+      "source": "대전일보",
+      "published_date": "2026-11-08",
+      "summary": "서산 공영주차장 11곳 주차 정보 실시간 공유&nbsp;&nbsp;대전일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-08"
+    },
+    {
+      "id": "683be899",
+      "title": "서산시 공영주차장 정보 실시간 공유 - 충청매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBeVNxZ2RPdmpfUVR3OEpLdmZ3UDB4eHprV19xT1pBelVtZDdHTzJPblFHUHJ4bUVmLUFQdXE4V0xFejR0NFJzeXNoYWdOS1VCc3BTZ04tdWlGN1laaEVIVHc3REcxT3U0NVE?oc=5",
+      "source": "충청매일",
+      "published_date": "2026-11-08",
+      "summary": "서산시 공영주차장 정보 실시간 공유&nbsp;&nbsp;충청매일",
+      "category": "뉴스",
+      "collected_date": "2026-11-08"
+    },
+    {
+      "id": "2d70dae8",
+      "title": "인천항만공사, 신항 화물차 주차난 해소 나선다…임시 주차장 1281면 이용자 모집 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSUmRSRmkzaXFZYi14ajBDNTlXeTloY3RmWllQekVFVWNVRld3U3h1TjBkOVZlV0RGRnowSV9uc1NnRllHWW5PZndrWXdSZWVvOWZ6LWc2bTNHN0Q3eEpJMzJxUk1RVWVYeDJURw?oc=5",
+      "source": "중도일보",
+      "published_date": "2026-11-08",
+      "summary": "인천항만공사, 신항 화물차 주차난 해소 나선다…임시 주차장 1281면 이용자 모집&nbsp;&nbsp;중도일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-08"
+    },
+    {
+      "id": "dd772328",
+      "title": "인천항 신항 화물차 주차난 숨통…임시 주차장 1281면 공급 - 데일리안",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNZTJWc1haLTFTLUJZV3Fid3gyY3JDS3Q1czFCR0dzRUlJRFBqN05LRElWMF9lV1NWMjgwLVBoTFlOa2xwUDF3eFlUU2JkQTBnTHVtOGo4VXNoQnNlcmZibFBjdzJOYkduSTlYT3g0d0o4ckk0VVhyczhKejRMbTgtOTI3bTJQOXBicHVMZ1hmb3ZMOTBwaXhha0ozNWRMSmtId0tHNVVQZElLdVhfU3BubERtVjJLV291QW9ENm5QeXJRVzBwLTZ3VTJINmJMUXhZWkM4RUVsSlpZYmwtMy0zOFBSamRXX0VnelAtQnk5c0tGcVhIVmc3bTd6cTkyN3dzN0Zham1nTVJaTk1jSWoyVWszaE5tbTg?oc=5",
+      "source": "데일리안",
+      "published_date": "2026-11-08",
+      "summary": "인천항 신항 화물차 주차난 숨통…임시 주차장 1281면 공급&nbsp;&nbsp;데일리안",
+      "category": "뉴스",
+      "collected_date": "2026-11-08"
+    },
     {
       "id": "01914dfd",
       "title": "서산시, 공영주차장 주차 정보 실시간 공유 ‘주차 편의 높인다’ - 충청투데이",
