@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-08",
-  "total_count": 1340,
+  "last_updated": "2026-11-09",
+  "total_count": 1347,
   "articles": [
+    {
+      "id": "904d1471",
+      "title": "영국, 공유 전기자전거 면허제 추진…무질서한 주차에 칼 빼 들었다 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9EOXFKZWMtV25oOGtXRjBNZXlnTnl5LWhUUW1IR1BOZHFTa29TNEFaTHlDc05aOVVwelpMcXVZTWVfNWtBQTI4TkxzSGZiUjQ5LTlhbkZPRFA4SzJtOU15SURVY0txME9zbG0yWDJxR1p6S3M?oc=5",
+      "source": "디지털투데이",
+      "published_date": "2026-11-09",
+      "summary": "영국, 공유 전기자전거 면허제 추진…무질서한 주차에 칼 빼 들었다&nbsp;&nbsp;디지털투데이",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
+    },
+    {
+      "id": "8123e9f6",
+      "title": "인천 부평·주안 국가산단, 341억 들여 주차난·노후시설 개선 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05NkRIZUlmdHU5dVlDcGtrOVdxN0VZaDZpUjlyRjY3aVRJcWxONk5sLVVCNGlIUWJWX0NOX1RwYkJ2SGVjM3J3TDVzblNfbXA0TEtuRkh1TzBtLUU?oc=5",
+      "source": "경기일보",
+      "published_date": "2026-11-09",
+      "summary": "인천 부평·주안 국가산단, 341억 들여 주차난·노후시설 개선&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
+    },
+    {
+      "id": "41bfb380",
+      "title": "‘항만 물류 숨통’…인천항만공사, 화물차 주차난 턴다 - 서울경제",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94U0lQZWgxSS1maDJDTW12SVVlc2QyVk9NV2VXbG50U0RQSThPcVJ5VDBTMHVla1lNeHYxM0lQN0hTbDdhSlZFaW9YM29GeERkMVHSAVNBVV95cUxQQmNpWG54bEh5czdlNGkweHM4MHZfWnJsSjdTQjZYOENDMUNxV3RkMmkyN2JJRG03MzRBdUoyUXFXcHhIQVVUVDhyNm9aM3hTTnVmUQ?oc=5",
+      "source": "서울경제",
+      "published_date": "2026-11-09",
+      "summary": "‘항만 물류 숨통’…인천항만공사, 화물차 주차난 턴다&nbsp;&nbsp;서울경제",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
+    },
+    {
+      "id": "12e3128d",
+      "title": "옥천군 성암리 주차난 숨통 트이나…32억5천만 원 들여 공영주차장 조성 - 충북일보",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9UekNCeVZvNjBfUGFlUFBxVGNrZ1AtVnBXV0FjUGNwREp3UXliRWNrTkI0aHpZQ2lQSndyQktib2JuenF1S2djQ3c4VFhTc0RQZmNsbzhVVHFLTWV0YWM1cXN3?oc=5",
+      "source": "충북일보",
+      "published_date": "2026-11-09",
+      "summary": "옥천군 성암리 주차난 숨통 트이나…32억5천만 원 들여 공영주차장 조성&nbsp;&nbsp;충북일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
+    },
+    {
+      "id": "5227eca4",
+      "title": "서산 동부전통시장 주차난 해소 '청신호'…273면 대규모 주차장 조성 순항 - 충청일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04UTZydU1oaUoyMEx5ZUtkTTV0dHk2aGtPYk91bTNSNGM2ejV1OThTVkNiZTRmLVlfTEFuaUpEOXZkV0lWekN3elVyTlZQYnpFbDBLVjRpc2UwQjNJN2JYZ3dyMDVGRHpFXzBrbXBfOEY?oc=5",
+      "source": "충청일보",
+      "published_date": "2026-11-09",
+      "summary": "서산 동부전통시장 주차난 해소 '청신호'…273면 대규모 주차장 조성 순항&nbsp;&nbsp;충청일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
+    },
+    {
+      "id": "14fd73e9",
+      "title": "옥천군, 성암리 주차난·어린이 통학로 안전 개선 본격화 - 중도일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82NkhnZTB1Q1ZUc055a0Z4QTVSckxabi1vZzdya2N4UmJsTExzekxoTjgxd1hRUk12Z0ZFWFQxLXE3dURwaTVHakN0WGtnMW9lLWxLVS1JcE5BY1l6cHhQQm9ha0J4VjhaRmNUbA?oc=5",
+      "source": "중도일보",
+      "published_date": "2026-11-09",
+      "summary": "옥천군, 성암리 주차난·어린이 통학로 안전 개선 본격화&nbsp;&nbsp;중도일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
+    },
     {
       "id": "3ffbe232",
       "title": "서산 공영주차장 11곳 주차 정보 실시간 공유 - 대전일보",
@@ -41,6 +101,16 @@
       "summary": "인천항 신항 화물차 주차난 숨통…임시 주차장 1281면 공급&nbsp;&nbsp;데일리안",
       "category": "뉴스",
       "collected_date": "2026-11-08"
+    },
+    {
+      "id": "ac143fc6",
+      "title": "오산시의회, 청소년 성장·주차난 해소 ‘두 토끼’ 잡는다… 연구단체 중간보고회 - 경기신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE42UTNMT0RGRUJHejFRaG1Hb2hoOFZBS3ZWZ0RuNFltQUZXczNCZ29VOXE1QzVSUDJkSlU4ODc1bGlaYnJfNlhYV0VCZWxDbjVFSHVJQWhCeVhZMnlLRHktSmhB?oc=5",
+      "source": "경기신문",
+      "published_date": "2026-11-08",
+      "summary": "오산시의회, 청소년 성장·주차난 해소 ‘두 토끼’ 잡는다… 연구단체 중간보고회&nbsp;&nbsp;경기신문",
+      "category": "뉴스",
+      "collected_date": "2026-11-09"
     },
     {
       "id": "01914dfd",
