@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-15",
-  "total_count": 1374,
+  "last_updated": "2026-11-16",
+  "total_count": 1380,
   "articles": [
+    {
+      "id": "cdb14daf",
+      "title": "평택시, 공유자전거와 공유 개인형 이동장치 무단주차 개선을 위해 운영업체와 간담회 실시 - 경기탑뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12Vnl2WjBDNW55ZmVXdUg3T2thbGhzNmk3M0lZYW95NkY4TU9aY2g5Y3hVWUNTS1FhdWJMNUtsNGx6OHZRZGlUYUZiRWF1NFVhblNFWG5vQjFrellfemIzZ0tGc0RGdw?oc=5",
+      "source": "경기탑뉴스",
+      "published_date": "2026-11-16",
+      "summary": "평택시, 공유자전거와 공유 개인형 이동장치 무단주차 개선을 위해 운영업체와 간담회 실시&nbsp;&nbsp;경기탑뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-11-16"
+    },
+    {
+      "id": "db9cfe5f",
+      "title": "의정부시, 도심 자투리땅 ‘쌈지주차장’으로 주차난 해소 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xX2x6X2ZsMWRRRDJHYW9HSkZCRUhzWDYzTUNmYlRKX25KcnltUjVpTEtXNkpld2VoUGhsMmRvZ2xSRm9oX3Vra1djVGllajl6NmR4Tmd1OEQzUWM?oc=5",
+      "source": "경기일보",
+      "published_date": "2026-11-16",
+      "summary": "의정부시, 도심 자투리땅 ‘쌈지주차장’으로 주차난 해소&nbsp;&nbsp;경기일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-16"
+    },
+    {
+      "id": "37d4285d",
+      "title": "홍천군, 도심 주차난 해소 속도…공영주차장 232면 확충 추진 - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NYXBMRDl3Y0pxRE9nenR3NWpERlFsd1hhQ2t3elVwVk1UX1pXOUx4bmhGbGhNSU9xSTA3czR6bFo0R0xtam1aU09nTk9oOGpVMlF4UHZtb3RtNUk5R05vemFQMXJiX092N1JVTzVhZTk?oc=5",
+      "source": "신아일보",
+      "published_date": "2026-11-16",
+      "summary": "홍천군, 도심 주차난 해소 속도…공영주차장 232면 확충 추진&nbsp;&nbsp;신아일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-16"
+    },
+    {
+      "id": "4e512dc8",
+      "title": "남양주 다산진건지구 주차난 ‘숨통’…94면 공영주차장 신설됐다 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GUVhfMDIzYzhxeU9Zb3c5QkdnX3hVNkhCdHJ6eGtTUE83STJ2TGY0TnVpdUF6VFdVcXhKd0FnbXBYUnpsZ05HemJQaTNoaHV2M0FJMjY2MG4xTlFwOC1EQmI3MFJaaGFGSTNTRFF3?oc=5",
+      "source": "아시아투데이",
+      "published_date": "2026-11-16",
+      "summary": "남양주 다산진건지구 주차난 ‘숨통’…94면 공영주차장 신설됐다&nbsp;&nbsp;아시아투데이",
+      "category": "뉴스",
+      "collected_date": "2026-11-16"
+    },
+    {
+      "id": "b1ab4022",
+      "title": "홍천군, 도심 주차난 해소 속도 올해 공영주차장 3곳 107면 확충 - 파이낸셜경제",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RZWNhN3Y2a2ZBajI3S2ZFaXh5cU9VZ2ZoSU0zejJQNVJXNUxVQTRvNU5nUjJnUkY3YnlMdnRVUVUybEFEcW9HaE80RkppX0lWSko5bHpheG5ualVhMkx4OWhGUWhHdUxhSTFMVTQza2w?oc=5",
+      "source": "파이낸셜경제",
+      "published_date": "2026-11-16",
+      "summary": "홍천군, 도심 주차난 해소 속도 올해 공영주차장 3곳 107면 확충&nbsp;&nbsp;파이낸셜경제",
+      "category": "뉴스",
+      "collected_date": "2026-11-16"
+    },
+    {
+      "id": "bbaf84a0",
+      "title": "주차난 숨통 트인다… 홍천 도심에 공영주차장 232면 추가 확보 - http://www.reporternside.com/",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6RVpvQ2E5aklYM1hscldHUkVGMTFvTXNKZ0ZtbkdOaEtXWjZwQmlRUC0yRjdnSWYtWEsxTFJMTUdNdXowbXR4TmJfaWhIS3hOeEdic0JvSnNsQVlwa2hIMllKNnZfbTF1akFVLVhJLXh2QQ?oc=5",
+      "source": "http://www.reporternside.com/",
+      "published_date": "2026-11-16",
+      "summary": "주차난 숨통 트인다… 홍천 도심에 공영주차장 232면 추가 확보&nbsp;&nbsp;http://www.reporternside.com/",
+      "category": "뉴스",
+      "collected_date": "2026-11-16"
+    },
     {
       "id": "5545b9e5",
       "title": "서구 주차난 해법은 퇴근길 빈 주차면 - 충청일보",
