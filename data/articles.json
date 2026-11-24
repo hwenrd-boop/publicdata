@@ -1,7 +1,37 @@
 {
-  "last_updated": "2026-11-23",
-  "total_count": 1434,
+  "last_updated": "2026-11-24",
+  "total_count": 1440,
   "articles": [
+    {
+      "id": "6ff19e48",
+      "title": "동작구, 사당역 인근 주차난 해소…한누리 공영주차장 12월1일 개소 - 시정일보",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wMGZoZ01ITEROWEJGSGRVQ1ZhR3BDY3FzaGhhVHRiSmpkR3Fnb1pDTGdkZjJheXRaWHpTbS1MZGNNaVNTc1UyTVpIZThSSVQweUdza1c2dmZhbVBQNXRpU2tJNVd2TlRSZkNV?oc=5",
+      "source": "시정일보",
+      "published_date": "2026-11-24",
+      "summary": "동작구, 사당역 인근 주차난 해소…한누리 공영주차장 12월1일 개소&nbsp;&nbsp;시정일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-24"
+    },
+    {
+      "id": "6d6d755c",
+      "title": "동작구, 한누리 공영주차장 증면 개소…“사당역 일대 주차난 해소” - 문화일보",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXeWpaVnpMR1lLbld6QnZKRVVkemp5d3BaSmp4ajlVRkoxZ3JJdVBDaHVqUFdqNE9RRC1fS0R3bFN2N0ItTTdJVlRLZzBsX0pW?oc=5",
+      "source": "문화일보",
+      "published_date": "2026-11-24",
+      "summary": "동작구, 한누리 공영주차장 증면 개소…“사당역 일대 주차난 해소”&nbsp;&nbsp;문화일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-24"
+    },
+    {
+      "id": "454f6df4",
+      "title": "울산 남구의회 행감, 인력난·주차난 해소 방안 집중 논의 - 울산종합일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHaTVBbGVYbzBJVzNrakhCNTlPLTVTc1JyRnhpVk9DNnI4QlNTWjJwek1vdDBfbXdIekJBejE2bnUtYnpOelVCZkdQbkxQMmJMcFNza1g5TWtFX01DcURCRnRsVXJBN2UtUXA1UW9B?oc=5",
+      "source": "울산종합일보",
+      "published_date": "2026-11-24",
+      "summary": "울산 남구의회 행감, 인력난·주차난 해소 방안 집중 논의&nbsp;&nbsp;울산종합일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-24"
+    },
     {
       "id": "623e66a5",
       "title": "최찬규 안산시의원 “지역주민 만성 주차난 대책 마련해야” - 경기일보",
@@ -21,6 +51,16 @@
       "summary": "최찬규 안산시의원, 사이동 주차난 해소·무료 공영주차장 관리 개선 촉구&nbsp;&nbsp;경기신문",
       "category": "뉴스",
       "collected_date": "2026-11-23"
+    },
+    {
+      "id": "3f0d0a59",
+      "title": "부천 계남로 242번길 일대, 주차난에 단속까지…민생 침해 우려 - 인천일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KRWdLenBVOFZZU1g4TWtFdWFtdkhCSk5oanh2LWRIUWVkenRrdjRod21WZXpaaUxWYkdrSTdFdFAzZ1NsNXBsUjRaQjBBUHNhLWdKeWFNZ2hrUHNhSVBxdkJhZEdOLU9LZG9lMjZFNGM?oc=5",
+      "source": "인천일보",
+      "published_date": "2026-11-23",
+      "summary": "부천 계남로 242번길 일대, 주차난에 단속까지…민생 침해 우려&nbsp;&nbsp;인천일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-24"
     },
     {
       "id": "e775c32c",
@@ -281,6 +321,16 @@
       "summary": "부평여중 부설주차장 40면 내년부터 주민 개방&nbsp;&nbsp;incheonin.com",
       "category": "뉴스",
       "collected_date": "2026-11-23"
+    },
+    {
+      "id": "40c34704",
+      "title": "[20일 인천 부평구] 북부교육지원청·부평여자중학교와 부설주차장 개방사업 협약 체결 등 - 아시아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xY2FaaU1hMk9EUERqSWM5U0dUMlhsV0Z1NjRhRWVJbS1XZmdsVUg1VkxVelUxZEJYU3ctWkRoTFJpVXRzcVE5azEwSFpzVy01X2ZSUkVQM3dzU3djMHc?oc=5",
+      "source": "아시아타임즈",
+      "published_date": "2026-11-20",
+      "summary": "[20일 인천 부평구] 북부교육지원청·부평여자중학교와 부설주차장 개방사업 협약 체결 등&nbsp;&nbsp;아시아타임즈",
+      "category": "뉴스",
+      "collected_date": "2026-11-24"
     },
     {
       "id": "0059b645",
@@ -821,6 +871,16 @@
       "summary": "하이닉스 앞 주차난 해결 나선 이천시… 198억원 들여 공영주차장 조성&nbsp;&nbsp;서희신문",
       "category": "뉴스",
       "collected_date": "2026-11-11"
+    },
+    {
+      "id": "3ff827eb",
+      "title": "경북도의회, 빈점포 활용·공유주차로 지역상권 활성화 모색 - 봉화일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45NmNPY21xRG44cVBkRmZXM1JVd0g0OXhTYVluNlh4bWJ5OC1pckVpSFA2VDdmVmFCNW5pUGItekVRTU1xZ0JoZ0FwNkctaldaTnlvbnlMUV9jNzVyejloZ3hJSGN0UUhRT1MxdllhNNIBc0FVX3lxTE50OHJjUzRESjliUGlyNjgtbzB2YlBLTUNEV2hXWTY2dG4ya29QNzFJSnJrNjFhVGhzWnVTLWFaSzd3b2tEM2U5MFh6VDJSbk11SHJaRlBrUVp4Um43ZnNYUGVPdjRxejcyYTk3VFpLOHZaejg?oc=5",
+      "source": "봉화일보",
+      "published_date": "2026-11-10",
+      "summary": "경북도의회, 빈점포 활용·공유주차로 지역상권 활성화 모색&nbsp;&nbsp;봉화일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-24"
     },
     {
       "id": "904d1471",
