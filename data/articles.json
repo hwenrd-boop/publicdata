@@ -1,7 +1,67 @@
 {
-  "last_updated": "2026-11-24",
-  "total_count": 1440,
+  "last_updated": "2026-11-25",
+  "total_count": 1449,
   "articles": [
+    {
+      "id": "73779456",
+      "title": "이수현 남구의원, 거주자우선주차 공유 활성화 위해 배정 가점 도입 검토 제안 - 경남도민뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA4Zmw0bFVReWl1RUpWMVR2dFZjcE1iaGI5SDhjMVJaNGh5RlNZZkFMMEliWUgzeTExSmxmTm5KUFB3RkdDYWFtdXVyS1U5UU1SeTUwMjlqY0ZHNUJES2MtWHM5TQ?oc=5",
+      "source": "경남도민뉴스",
+      "published_date": "2026-11-25",
+      "summary": "이수현 남구의원, 거주자우선주차 공유 활성화 위해 배정 가점 도입 검토 제안&nbsp;&nbsp;경남도민뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
+    {
+      "id": "17624e78",
+      "title": "이수현 남구의원, 거주자우선주차 공유 활성화 위해 배정 가점 도입 검토 제안 - 웹이코노미",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rUExmQVJMSW0zM0VBR0VQcnFBX2FRdlRIX0FtQkptbklRd3B0b2hlZEhxZE96alpEZlBEWVFYZmRpTjFqQ2xSSUg3dUs5NFNpOTJnWWptaGxfMnM1Y3JsQ0tmR0czbzdRdy1oM25vMjVEdw?oc=5",
+      "source": "웹이코노미",
+      "published_date": "2026-11-25",
+      "summary": "이수현 남구의원, 거주자우선주차 공유 활성화 위해 배정 가점 도입 검토 제안&nbsp;&nbsp;웹이코노미",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
+    {
+      "id": "f587474d",
+      "title": "남구의회 행감, 인력 부족 및 이탈, 주차난 도마에 - 외교저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92Wk44cGlUQzNmeUhuN3JONERZbHM0U2JQS0NSbjNhMnJiRHgweWZ1X01hR2thZF9YNkE0LVhMMzJXM0ttUFVqZDAxUnUyMDdDdnBXZTRocURORkxQZ1U5NDI3M2I?oc=5",
+      "source": "외교저널",
+      "published_date": "2026-11-25",
+      "summary": "남구의회 행감, 인력 부족 및 이탈, 주차난 도마에&nbsp;&nbsp;외교저널",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
+    {
+      "id": "d9d564ee",
+      "title": "\"주차난 해결에 수원 유일 피클볼 전용구장까지\"…수원시, '세류 어울림센터' 준공 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51dGg3T2hQazkyTVBwMHdqUDlvNDliVTdUSWhSN1lsT3JnX2c1d0o3a1JXWmYtSWhxYUtkVTdHR1dLd3E2akVWdXFMcC1hZ3RUNzlCb05jdlpGUQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "published_date": "2026-11-25",
+      "summary": "\"주차난 해결에 수원 유일 피클볼 전용구장까지\"…수원시, '세류 어울림센터' 준공&nbsp;&nbsp;파이낸셜뉴스",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
+    {
+      "id": "6eb97c0d",
+      "title": "양양군의회 행감 4일차…도시개발·주차난·인구대책까지 집행부에 쏟아진 주문 - http://www.reporternside.com/",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnWm9vZDdpSmNDLVRISXlocTd2eVRURDlua0RsNS00ZmZtY3otS2FRLU1PaDFpS0RGV09VaWtiUFFUaEl2UkFQVnhsRGNTaWw2YUdDUGF5ZlNzWjRCT2pMV3N6cDlSbnZBVERHNF8yWjZFUQ?oc=5",
+      "source": "http://www.reporternside.com/",
+      "published_date": "2026-11-25",
+      "summary": "양양군의회 행감 4일차…도시개발·주차난·인구대책까지 집행부에 쏟아진 주문&nbsp;&nbsp;http://www.reporternside.com/",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
+    {
+      "id": "96c65d1f",
+      "title": "\"주차난 해소, 복합문화공간\"…'세류 어울림센터' 문 연다 - 뉴시스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tX3hGQzZ6Ymkwd0NINGVXYTAtMklWQ0F3RDl4OXA3a2Z5V1duTURGWnRZa09VWV90YUgyWjBjanUybno2d3RTNWFmZ0ZVZEdrVHl6RVZGS0ZiZWRSa2cxNtIBeEFVX3lxTE1hekFXdUd0T2d5VU9USjFVNkI5VjVkcF9oSi1MVFhDa3BDeEVUR2c0SUUzaUMtUG84V2NqNXZxSUI0VnFrSW9nczZKSWpfaW5PN1BUMElsNGphNmM0U3otLUVzbDQ1MmNkcGJwWi1BU1FwTFRMbEtoUQ?oc=5",
+      "source": "뉴시스",
+      "published_date": "2026-11-25",
+      "summary": "\"주차난 해소, 복합문화공간\"…'세류 어울림센터' 문 연다&nbsp;&nbsp;뉴시스",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
     {
       "id": "6ff19e48",
       "title": "동작구, 사당역 인근 주차난 해소…한누리 공영주차장 12월1일 개소 - 시정일보",
@@ -31,6 +91,26 @@
       "summary": "울산 남구의회 행감, 인력난·주차난 해소 방안 집중 논의&nbsp;&nbsp;울산종합일보",
       "category": "뉴스",
       "collected_date": "2026-11-24"
+    },
+    {
+      "id": "a3c3447f",
+      "title": "이수현 울산 남구의원, 공유주차 활성화·재선충병 예방 방안 제언 - 울산종합일보",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80ajNXU3dOazB4elYyU1BZSklQQXRjRjRTdlM3Q1ZsNEZQc2N5ek5kS3FGVjNsSUkweHVoSHV5SnJlTFpXY0J5ZVpldU1wQlJzQ0VGUlhTV01HQUt3bElTU1pUZ1NOUEJPT2s3UGV3?oc=5",
+      "source": "울산종합일보",
+      "published_date": "2026-11-24",
+      "summary": "이수현 울산 남구의원, 공유주차 활성화·재선충병 예방 방안 제언&nbsp;&nbsp;울산종합일보",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
+    },
+    {
+      "id": "092631b4",
+      "title": "\"똑버스 확대부터 주차난 해소까지\"… 이천시의회, 중리동 생활민원 집중 점검 - 서희신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkdFNsdTBjV2pDQXZfSVdDdmdna2JLZU1xdWN4Rkh0dVBGRG9LOXVsQ0lJcTVuS1VYeWFNQXU4bjBwOUJxX2NKVFZKdkdHTlpXU3kxZDF1bFlVTnl2MDJqckl3VllNRER3cVNQRQ?oc=5",
+      "source": "서희신문",
+      "published_date": "2026-11-24",
+      "summary": "\"똑버스 확대부터 주차난 해소까지\"… 이천시의회, 중리동 생활민원 집중 점검&nbsp;&nbsp;서희신문",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
     },
     {
       "id": "623e66a5",
@@ -161,6 +241,16 @@
       "summary": "“학교·종교시설 주차장도 열까”…서울 개방시간 확인법&nbsp;&nbsp;비건뉴스",
       "category": "뉴스",
       "collected_date": "2026-11-22"
+    },
+    {
+      "id": "6eb87808",
+      "title": "부평구·교육지원청·부평여자중학교, 부설주차장 개방사업 협약 체결 - 인천타임스",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtbXFFRkxzZTBoR0o2YWtHTVJPOGhqNTEzM1N5U3lyMjB4ck15NnFjc2NtVERDSWh6RTZDWDhxTEpmLXR5cExIOVEyUDdBN19lelVBZENQQnZkRjBDMXVNeA?oc=5",
+      "source": "인천타임스",
+      "published_date": "2026-11-21",
+      "summary": "부평구·교육지원청·부평여자중학교, 부설주차장 개방사업 협약 체결&nbsp;&nbsp;인천타임스",
+      "category": "뉴스",
+      "collected_date": "2026-11-25"
     },
     {
       "id": "836bd4d4",
